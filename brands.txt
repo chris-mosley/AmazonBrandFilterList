@@ -5,6 +5,7 @@ Adata
 adidas
 Alani Nu
 Alienware
+Amazfit
 Amazing Grass
 Amazon Basics
 AMD
@@ -33,6 +34,7 @@ Bridgestone
 Brooks
 Cable Matters
 Carnation Breakfast Essentials
+Casio
 Caswell-Massey
 Cellucor
 CELSIUS
@@ -61,10 +63,13 @@ Dr. Scholl's
 DUNLOP
 Eargasm
 EZ-Sweetz
+Fitbit
 Fossil
+Garmin
 Gatorade
 GEARWRENCH
 Gigabyte
+Gillette
 GIRO
 Goodyear
 Google
@@ -141,6 +146,7 @@ On
 Oppo
 Optimum Nutrition
 Oral-B
+Oura
 OutdoorMaster
 OXO
 Patagonia
@@ -166,6 +172,7 @@ SAMSUNG
 Salomon
 Sandisk
 SawStop
+Schick
 SIMPLY
 SINGLES TO GO!
 Sketchers
@@ -179,6 +186,7 @@ Spyder
 Stanley
 StarTech.com
 Stur
+Suunto
 Swiss Miss
 TANG
 Technivorm
@@ -195,10 +203,12 @@ Versace
 Verbatim
 Vitamix
 vuori
+Wahoo
 Wera
 Williams
 Wildhorn
 Wilwood
+Withings
 Wyler's Light
 Yeti
 ZARA
