@@ -13,11 +13,14 @@ ANEX
 Anker
 Anon
 ANOVA
+Antec
 Apple
+ARCTIC
 Arizona
 ASICS
 Asus
 Ballard Products
+be quiet!
 Belkin
 Beneful
 Betty Crocker
@@ -46,6 +49,7 @@ Cole & Mason
 Columbia
 Continental
 Cooper
+Corsair
 Costa Del Mar
 COUNTRY TIME
 Craftsman
@@ -56,6 +60,7 @@ Crystal Light
 Cuisinart
 D-Link
 De'Longhi
+DeepCool
 Denso
 DeWalt
 Dickies
@@ -106,11 +111,12 @@ Lenovo
 Lenox
 Lexar
 LG
+Lian Lian
 Linksys
 Lipton
 lululemon
-Makita
 MAHLE
+Makita
 Mann-Filter
 MANNKITCHEN
 Margaritaville
@@ -131,14 +137,16 @@ Natural Balance
 Nesquik
 NETGEAR
 New Balance
+NGK
 Nike
 Ninja
-Nitto
-NGK
-Nokia
 Nintendo
+Nitto
+Noctua
+Nokia
 NutriBullet
 Nutro
+NZXT
 Oakley
 Ocean Potion
 Ocean Spray
@@ -152,7 +160,9 @@ OXO
 Patagonia
 Patriot Memory
 PB Swiss
+PCCOOLER
 Pedigree
+Peloton
 Peugeot
 Philips
 Pirelli
@@ -168,11 +178,13 @@ Ray-Ban
 Retrospec
 Roborock
 Rockler
-SAMSUNG
 Salomon
+SAMSUNG
 Sandisk
 SawStop
 Schick
+Schwinn
+Schwinn Fitness
 SIMPLY
 SINGLES TO GO!
 Sketchers
@@ -186,11 +198,14 @@ Spyder
 Stanley
 StarTech.com
 Stur
+Sunny Health & Fitness
 Suunto
 Swiss Miss
 TANG
 Technivorm
 Tenda
+Thermalright
+Thermaltake
 Tile
 TP-Link
 Transcend
@@ -199,14 +214,14 @@ True Citrus
 UGREEN
 Under Armour
 Unicorn
-Versace
 Verbatim
+Versace
 Vitamix
 vuori
 Wahoo
 Wera
-Williams
 Wildhorn
+Williams
 Wilwood
 Withings
 Wyler's Light
