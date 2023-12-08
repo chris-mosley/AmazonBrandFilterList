@@ -1,6 +1,9 @@
 365 by Whole Foods Market
 4C
 7UP
+A LA MAISON
+Abus
+AC Infinity
 Adata
 adidas
 AKG
@@ -15,25 +18,33 @@ ANEX
 Anker
 Anon
 ANOVA
+Antarctic Star
 Antec
 Apple
 ARCTIC
 Arctix
 Arizona
+Arlo
 ASICS
 Asus
 Audio-Technica
+Audioengine
+Australian Botanical Soap
 Ballard Products
 Bang & Olufsen
 bareMinerals
+Bath & Body Works
 be quiet!
 Beats
+Beekman
 Belkin
 Beneful
 Betty Crocker
+beyerdynamic
 BFGoodrich
 Big Train
 BLACK+DECKER
+Blink
 Blue Buffalo
 Blum
 BODYARMOR
@@ -45,10 +56,16 @@ Bowflex
 Braun
 Brembo
 Bridgestone
+BRINKS
 Brooks
+Brother
 Burton
 Cable Matters
+Calvin Klein
+Cambridge Audio
+Canon
 CAP Barbell
+Caress
 Carhartt
 Carnation Breakfast Essentials
 CASETiFY
@@ -56,10 +73,14 @@ Casio
 Caswell-Massey
 Cellucor
 CELSIUS
+CeraVe
+Cetaphil
+Champion
 Chapman
 Chef Craft
 Cisco
 Citizen
+CIVIVI
 Clarks
 Cole & Mason
 Columbia
@@ -71,6 +92,8 @@ Costa Del Mar
 COUNTRY TIME
 COVERGIRL
 Craftsman
+Crayola
+Creative Mark
 Crescent
 Crocs
 Crush
@@ -78,31 +101,53 @@ Crystal Light
 Cuisinart
 D-Link
 Dakine
+Dawn
 De'Longhi
 DeepCool
 Deer Valley
 DELTA FAUCET
+Denon
 Denso
 DeWalt
 di Oro Living
 Diablo
+Dial
 Dickies
+Dockers
+Dove
+DOVE MEN + CARE
+Dr. Bonner's
+Dr. Bronner's
 Dr. Scholl's
+Dr. Squatch
+Duke Cannon Supply Co.
 DUNLOP
+DYMO
 e.l.f.
 Eargasm
+Eddie Bauer
 Edifier
+Epson
+eufy Security
+Everyone
 Evolution
 EZ-Sweetz
+Faber-Castell
 Farberware
+FiiO
 Fiskars
 Fitbit
+Focal
 Fossil
 Freud
+Frigidaire
+Fujifilm
 Garmin
 Garnier
 Gatorade
 GEARWRENCH
+GERBER
+Gevi Household
 Gigabyte
 Gillette
 GIRO
@@ -113,36 +158,52 @@ Great Value
 Greenies
 GROHE
 Hacksaw
+Hanes
 HANKOOK
 Harbinger
+Harman Kardon
 HAWAIIAN PUNCH
 HESTRA
 Hibbent
 Hikenture
 HILL'S PRESCRIPTION DIET
 Hill's Science Diet
+Himalaya
 HOKA
 Hotel Spa
 HP
 HTC
+Huawei
 Iams
+Igloo
+imarku
+Indigo Wild
 Inland
+Insta360
 Intel
 Intellinet
+Irish Spring
 IRWIN
+Ivory
+J.R. Watkins
 Jabra
 JBL
 Jessica Simpson
 JLab
 Jolly Rancher
 Jose Cuervo
+Kasa Smart
+Kershaw
 Keurig
 Kibbles 'n Bits
 Kingston
+Kirk's
 Kitchenaide
 Klass Aguas Frescas
 Klein
+Klipsch
 Kobalt
+Kodak
 KOHLER
 Kool-Aid
 Koss
@@ -150,13 +211,20 @@ Kraus
 KREG
 KRUPS
 Kumho
+Kwikset
+KYOCERA
+L'Occitane
 Lancôme
 LAURA GELLER NEW YORK
 Le Creuset
 Lego
+Leica
 Lenovo
 Lenox
+Lever 2000
+Levi's
 Lexar
+Lexmark
 LG
 Lian Lian
 Linksys
@@ -167,7 +235,9 @@ MAHLE
 Makita
 Mann-Filter
 MANNKITCHEN
+Marantz
 Margaritaville
+Master Lock
 Maui Jim
 MAXWELL HOUSE
 MAYBELLINE
@@ -175,26 +245,33 @@ MCR Safety
 MCTi
 Memphis Glove
 Merrell
+Method
 Michelin
 Microflex
 Milwaukee
 Mio
+Miracle II
 Mistral
 Mobil 1
 Moen
 Monoprice
 Monster Energy
+Mossy Oak
 Motorola
 Mr. Clean
 Mr. Coffee
+MRS. MEYER'S CLEAN DAY
 MSI
+Native
 Natural Balance
 Nesquik
 NETGEAR
 Neutrogena
 New Balance
+Newair
 NGK
 Nike
+Nikon
 Ninja
 Nintendo
 Nitto
@@ -205,10 +282,13 @@ NutriBullet
 Nutro
 NYX PROFESSIONAL MAKEUP
 NZXT
+O Naturals
 Oakley
 Ocean Potion
 Ocean Spray
 On
+One With Nature
+Onkyo
 Oppo
 Optimum Nutrition
 Oral-B
@@ -217,6 +297,7 @@ Oura
 Outdoor Research
 OutdoorMaster
 OXO
+Palmolive
 Panasonic
 Patagonia
 Patriot Memory
@@ -224,36 +305,54 @@ PB Swiss
 PCCOOLER
 Pedigree
 Peloton
+Pentel
 Peugeot
 Pfister
 Philips
+PIONEER
 Pirelli
 PNY
+Poloroid
 Prada
 PRIME HYDRATION
+Prismacolor
 Propel
 Protectli
 Psychedelic Water
 Puma
 Purina ONE
+Pyle
 Rachael Ray
 Ray-Ban
 Raycon
+Reebok
 Retrospec
 REVLON
+RICOH
+Ring
+Rinse & Robust
 Roborock
 Rockler
+Rockville
 Rubbermaid
+S.M.S.L
 Salomon
 SAMSUNG
 Sandisk
+Sappo Hill
 SawStop
 Schick
+Schiit
 Schwinn
 Schwinn Fitness
 Sennheiser Consumer Audio
+Seventh Generation
+SheaMoisture
 SHIMANO
 Shure
+Shuttle Art
+Silonn
+SimpliSafe
 SIMPLY
 SINGLES TO GO!
 Sketchers
@@ -262,6 +361,9 @@ Skittles
 Skullcandy
 SlimFast
 Smith
+Smith & Wesson
+Soapbox
+Softsoap
 Solaris
 Sony
 Soundcore
@@ -270,14 +372,17 @@ Speakman
 SPECIALIZED
 SPLENDA
 Spyder
+STAEDTLER
 Stanley
 StarTech.com
 Stur
 Sunny Health & Fitness
 Suunto
+Swann
 SwiftGrip
 Swiss Miss
 TANG
+TEAMGROUP
 Technivorm
 Tenda
 THE NORTH FACE
@@ -285,6 +390,8 @@ Thermalright
 Thermaltake
 Tile
 Timberland
+Tom's of Maine
+Tommy Hilfiger
 Topeak
 TP-Link
 Transcend
@@ -292,12 +399,14 @@ TRENDnet
 True Citrus
 UGREEN
 Under Armour
+uni-ball
 Unicorn
 URBAN DECAY
 Venom Steel
 Verbatim
 Versace
 Vgo...
+Victorinox
 Vitamix
 vuori
 Wahoo
@@ -312,7 +421,15 @@ Williams
 Wilwood
 Withings
 WORKPRO
+Wrangler Authentics
 Wyler's Light
+WYZE
+Xerox
+Xiaomi
+Yale
+YAMAHA
+Yardley
+YARDLEY LONDON
 Yeti
 ZARA
 Zipfizz
