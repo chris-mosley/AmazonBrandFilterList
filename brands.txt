@@ -3,12 +3,14 @@
 7UP
 Adata
 adidas
+AKG
 Alani Nu
 Alienware
 Amazfit
 Amazing Grass
 Amazon Basics
 AMD
+American Standard
 ANEX
 Anker
 Anon
@@ -16,11 +18,16 @@ ANOVA
 Antec
 Apple
 ARCTIC
+Arctix
 Arizona
 ASICS
 Asus
+Audio-Technica
 Ballard Products
+Bang & Olufsen
+bareMinerals
 be quiet!
+Beats
 Belkin
 Beneful
 Betty Crocker
@@ -28,20 +35,29 @@ BFGoodrich
 Big Train
 BLACK+DECKER
 Blue Buffalo
+Blum
 BODYARMOR
 bollé
 Bosche
+Bose
+Bowers & Wilkins
+Bowflex
 Braun
 Brembo
 Bridgestone
 Brooks
+Burton
 Cable Matters
+CAP Barbell
+Carhartt
 Carnation Breakfast Essentials
+CASETiFY
 Casio
 Caswell-Massey
 Cellucor
 CELSIUS
 Chapman
+Chef Craft
 Cisco
 Citizen
 Clarks
@@ -49,9 +65,11 @@ Cole & Mason
 Columbia
 Continental
 Cooper
+Copper Fit
 Corsair
 Costa Del Mar
 COUNTRY TIME
+COVERGIRL
 Craftsman
 Crescent
 Crocs
@@ -59,18 +77,30 @@ Crush
 Crystal Light
 Cuisinart
 D-Link
+Dakine
 De'Longhi
 DeepCool
+Deer Valley
+DELTA FAUCET
 Denso
 DeWalt
+di Oro Living
+Diablo
 Dickies
 Dr. Scholl's
 DUNLOP
+e.l.f.
 Eargasm
+Edifier
+Evolution
 EZ-Sweetz
+Farberware
+Fiskars
 Fitbit
 Fossil
+Freud
 Garmin
+Garnier
 Gatorade
 GEARWRENCH
 Gigabyte
@@ -78,13 +108,21 @@ Gillette
 GIRO
 Goodyear
 Google
+Gorilla Grip
 Great Value
 Greenies
+GROHE
+Hacksaw
 HANKOOK
+Harbinger
 HAWAIIAN PUNCH
+HESTRA
+Hibbent
+Hikenture
 HILL'S PRESCRIPTION DIET
 Hill's Science Diet
 HOKA
+Hotel Spa
 HP
 HTC
 Iams
@@ -92,7 +130,10 @@ Inland
 Intel
 Intellinet
 IRWIN
+Jabra
+JBL
 Jessica Simpson
+JLab
 Jolly Rancher
 Jose Cuervo
 Keurig
@@ -102,10 +143,16 @@ Kitchenaide
 Klass Aguas Frescas
 Klein
 Kobalt
+KOHLER
 Kool-Aid
+Koss
+Kraus
 KREG
 KRUPS
 Kumho
+Lancôme
+LAURA GELLER NEW YORK
+Le Creuset
 Lego
 Lenovo
 Lenox
@@ -114,6 +161,7 @@ LG
 Lian Lian
 Linksys
 Lipton
+Logitech
 lululemon
 MAHLE
 Makita
@@ -122,30 +170,40 @@ MANNKITCHEN
 Margaritaville
 Maui Jim
 MAXWELL HOUSE
+MAYBELLINE
+MCR Safety
+MCTi
+Memphis Glove
 Merrell
 Michelin
+Microflex
 Milwaukee
 Mio
 Mistral
 Mobil 1
+Moen
 Monoprice
 Monster Energy
 Motorola
+Mr. Clean
 Mr. Coffee
 MSI
 Natural Balance
 Nesquik
 NETGEAR
+Neutrogena
 New Balance
 NGK
 Nike
 Ninja
 Nintendo
 Nitto
+No7
 Noctua
 Nokia
 NutriBullet
 Nutro
+NYX PROFESSIONAL MAKEUP
 NZXT
 Oakley
 Ocean Potion
@@ -154,9 +212,12 @@ On
 Oppo
 Optimum Nutrition
 Oral-B
+Otterbox
 Oura
+Outdoor Research
 OutdoorMaster
 OXO
+Panasonic
 Patagonia
 Patriot Memory
 PB Swiss
@@ -164,6 +225,7 @@ PCCOOLER
 Pedigree
 Peloton
 Peugeot
+Pfister
 Philips
 Pirelli
 PNY
@@ -174,10 +236,14 @@ Protectli
 Psychedelic Water
 Puma
 Purina ONE
+Rachael Ray
 Ray-Ban
+Raycon
 Retrospec
+REVLON
 Roborock
 Rockler
+Rubbermaid
 Salomon
 SAMSUNG
 Sandisk
@@ -185,14 +251,23 @@ SawStop
 Schick
 Schwinn
 Schwinn Fitness
+Sennheiser Consumer Audio
+SHIMANO
+Shure
 SIMPLY
 SINGLES TO GO!
 Sketchers
 Skil
 Skittles
+Skullcandy
 SlimFast
 Smith
+Solaris
 Sony
+Soundcore
+SparkPod
+Speakman
+SPECIALIZED
 SPLENDA
 Spyder
 Stanley
@@ -200,13 +275,17 @@ StarTech.com
 Stur
 Sunny Health & Fitness
 Suunto
+SwiftGrip
 Swiss Miss
 TANG
 Technivorm
 Tenda
+THE NORTH FACE
 Thermalright
 Thermaltake
 Tile
+Timberland
+Topeak
 TP-Link
 Transcend
 TRENDnet
@@ -214,16 +293,25 @@ True Citrus
 UGREEN
 Under Armour
 Unicorn
+URBAN DECAY
+Venom Steel
 Verbatim
 Versace
+Vgo...
 Vitamix
 vuori
 Wahoo
+Waterpik
+Weber
+Wells Lamont
+WEN
 Wera
+wet n wild
 Wildhorn
 Williams
 Wilwood
 Withings
+WORKPRO
 Wyler's Light
 Yeti
 ZARA
