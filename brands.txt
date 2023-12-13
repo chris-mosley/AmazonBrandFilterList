@@ -1,9 +1,11 @@
 365 by Whole Foods Market
+3M
 4C
 7UP
 A LA MAISON
 Abus
 AC Infinity
+Accusize Industrial Tools
 Adata
 adidas
 AKG
@@ -21,6 +23,7 @@ ANOVA
 Antarctic Star
 Antec
 Apple
+Aquaphor
 ARCTIC
 Arctix
 Arizona
@@ -59,10 +62,14 @@ Bridgestone
 BRINKS
 Brooks
 Brother
+Bruno Marc
+Burt's Bees
 Burton
 Cable Matters
+Cadet
 Calvin Klein
 Cambridge Audio
+Candle-lite
 Canon
 CAP Barbell
 Caress
@@ -78,12 +85,16 @@ Cetaphil
 Champion
 Chapman
 Chef Craft
+Chesapeake Bay Candle
 Cisco
 Citizen
 CIVIVI
 Clarks
 Cole & Mason
+Coleman
+Colonial Candle
 Columbia
+Command
 Continental
 Cooper
 Copper Fit
@@ -91,6 +102,7 @@ Corsair
 Costa Del Mar
 COUNTRY TIME
 COVERGIRL
+Craft & Kin
 Craftsman
 Crayola
 Creative Mark
@@ -101,7 +113,9 @@ Crystal Light
 Cuisinart
 D-Link
 Dakine
+Darn Tough
 Dawn
+DC
 De'Longhi
 DeepCool
 Deer Valley
@@ -113,32 +127,41 @@ di Oro Living
 Diablo
 Dial
 Dickies
+Digilent
 Dockers
 Dove
 DOVE MEN + CARE
 Dr. Bonner's
 Dr. Bronner's
 Dr. Scholl's
+Dr. Sholl's Shoes
 Dr. Squatch
 Duke Cannon Supply Co.
 DUNLOP
+Duracell
 DYMO
 e.l.f.
 Eargasm
 Eddie Bauer
 Edifier
+Energizer
 Epson
+eSUN
 eufy Security
 Everyone
 Evolution
 EZ-Sweetz
 Faber-Castell
 Farberware
+Febreze
 FiiO
 Fiskars
 Fitbit
+Fluke
 Focal
+FoodSaver
 Fossil
+Fowler
 Freud
 Frigidaire
 Fujifilm
@@ -151,15 +174,20 @@ Gevi Household
 Gigabyte
 Gillette
 GIRO
+Gizmo Dorks
+Glade
 Goodyear
 Google
 Gorilla Grip
+Govee
 Great Value
+Greater Goods
 Greenies
 GROHE
 Hacksaw
 Hanes
 HANKOOK
+Hantek
 Harbinger
 Harman Kardon
 HAWAIIAN PUNCH
@@ -187,11 +215,13 @@ IRWIN
 Ivory
 J.R. Watkins
 Jabra
+Jackpot Candles
 JBL
 Jessica Simpson
 JLab
 Jolly Rancher
 Jose Cuervo
+JOYCA & CO.
 Kasa Smart
 Kershaw
 Keurig
@@ -205,6 +235,7 @@ Klipsch
 Kobalt
 Kodak
 KOHLER
+KONG
 Kool-Aid
 Koss
 Kraus
@@ -217,6 +248,7 @@ L'Occitane
 Lancôme
 LAURA GELLER NEW YORK
 Le Creuset
+LeCroy
 Lego
 Leica
 Lenovo
@@ -243,6 +275,7 @@ MAXWELL HOUSE
 MAYBELLINE
 MCR Safety
 MCTi
+Mediabridge
 Memphis Glove
 Merrell
 Method
@@ -252,6 +285,8 @@ Milwaukee
 Mio
 Miracle II
 Mistral
+Miti
+Mitutoyo
 Mobil 1
 Moen
 Monoprice
@@ -262,8 +297,10 @@ Mr. Clean
 Mr. Coffee
 MRS. MEYER'S CLEAN DAY
 MSI
+My Weigh
 Native
 Natural Balance
+Neiko
 Nesquik
 NETGEAR
 Neutrogena
@@ -272,14 +309,19 @@ Newair
 NGK
 Nike
 Nikon
+NinetoFiveLife
 Ninja
 Nintendo
 Nitto
 No7
+NOCO
 Noctua
 Nokia
+NUTRI FIT
 NutriBullet
+NutriChef
 Nutro
+Nylabone
 NYX PROFESSIONAL MAKEUP
 NZXT
 O Naturals
@@ -293,9 +335,11 @@ Oppo
 Optimum Nutrition
 Oral-B
 Otterbox
+Our Own Candle Company
 Oura
 Outdoor Research
 OutdoorMaster
+OVERTURE
 OXO
 Palmolive
 Panasonic
@@ -305,6 +349,7 @@ PB Swiss
 PCCOOLER
 Pedigree
 Peloton
+Penn Scale
 Pentel
 Peugeot
 Pfister
@@ -325,10 +370,12 @@ Pyle
 Rachael Ray
 Ray-Ban
 Raycon
+Rayovac
 Reebok
 Retrospec
 REVLON
 RICOH
+Rigol
 Ring
 Rinse & Robust
 Roborock
@@ -336,6 +383,7 @@ Rockler
 Rockville
 Rubbermaid
 S.M.S.L
+Saft
 Salomon
 SAMSUNG
 Sandisk
@@ -345,12 +393,15 @@ Schick
 Schiit
 Schwinn
 Schwinn Fitness
+Scotch
+Scotch-Mount
 Sennheiser Consumer Audio
 Seventh Generation
 SheaMoisture
 SHIMANO
 Shure
 Shuttle Art
+Siglent Technologies
 Silonn
 SimpliSafe
 SIMPLY
@@ -360,6 +411,8 @@ Skil
 Skittles
 Skullcandy
 SlimFast
+Smart Weigh
+Smartwool
 Smith
 Smith & Wesson
 Soapbox
@@ -370,24 +423,31 @@ Soundcore
 SparkPod
 Speakman
 SPECIALIZED
+Sperry
 SPLENDA
 Spyder
 STAEDTLER
 Stanley
+Starrett
 StarTech.com
 Stur
+SUNLU
 Sunny Health & Fitness
 Suunto
 Swann
+Sweet Water Decor
 SwiftGrip
 Swiss Miss
 TANG
+Taytools
 TEAMGROUP
 Technivorm
+Tektronics
 Tenda
 THE NORTH FACE
 Thermalright
 Thermaltake
+Thymes
 Tile
 Timberland
 Tom's of Maine
@@ -402,6 +462,7 @@ Under Armour
 uni-ball
 Unicorn
 URBAN DECAY
+VELCRO Brand
 Venom Steel
 Verbatim
 Versace
@@ -415,11 +476,13 @@ Weber
 Wells Lamont
 WEN
 Wera
+WESTON BRANDS
 wet n wild
 Wildhorn
 Williams
 Wilwood
 Withings
+WoodWick
 WORKPRO
 Wrangler Authentics
 Wyler's Light
@@ -428,8 +491,10 @@ Xerox
 Xiaomi
 Yale
 YAMAHA
+Yankee Candle
 Yardley
 YARDLEY LONDON
 Yeti
 ZARA
 Zipfizz
+ZWILLING
