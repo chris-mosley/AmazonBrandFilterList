@@ -31,11 +31,13 @@ See [here](https://github.com/chris-mosley/AmazonBrandFilter)
 
 There are two ways to go about this.
 
-"I know how to do a Pull Request"
-Please submit a pull request just adding the missing brands to brands.txt folllowing the [Submission Criteria](#submission-criteria)
+1. "I know how to do a Pull Request"
 
-"What is a Pull Request?"
-Please create a new issue [here](https://github.com/chris-mosley/AmazonBrandFilterList/issues) following the [Submission Criteria](#submission-criteria)
+   -   Please submit a pull request just adding the missing brands to brands.txt folllowing the [Submission Criteria](#submission-criteria)
+
+2.  "What is a Pull Request?"
+    
+    -  Please create a new issue [here](https://github.com/chris-mosley/AmazonBrandFilterList/issues) following the [Submission Criteria](#submission-criteria)
  
 
  <a id="submission-criteria"></a>
