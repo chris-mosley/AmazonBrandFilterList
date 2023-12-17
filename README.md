@@ -12,7 +12,7 @@ This is the list that AmazonBrandFilter uses to filter with.
 
  - [Missing a Brand?](#missing-brand)
 
- - [Submission Criteria](#submission-criteriax)
+ - [Submission Criteria](#submission-criteria)
 
  
 
