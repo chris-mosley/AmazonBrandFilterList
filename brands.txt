@@ -10,7 +10,9 @@ Adata
 adidas
 AKG
 Alani Nu
+alaway
 Alienware
+altoids
 Amazfit
 Amazing Grass
 Amazon Basics
@@ -23,17 +25,21 @@ ANOVA
 Antarctic Star
 Antec
 Apple
+apple & eve
 Aquaphor
+arcan
 ARCTIC
 Arctix
 Arizona
 Arlo
+arteza
 ASICS
 Asus
 Audio-Technica
 Audioengine
 Australian Botanical Soap
 Ballard Products
+band-aid
 Bang & Olufsen
 bareMinerals
 Bath & Body Works
@@ -50,10 +56,12 @@ BLACK+DECKER
 Blink
 Blue Buffalo
 Blum
+bobs red mill
 BODYARMOR
 bollé
 Bosche
 Bose
+boveda
 Bowers & Wilkins
 Bowflex
 Braun
@@ -63,6 +71,7 @@ BRINKS
 Brooks
 Brother
 Bruno Marc
+bumble
 Burt's Bees
 Burton
 Cable Matters
@@ -85,13 +94,16 @@ Cetaphil
 Champion
 Chapman
 Chef Craft
+chemical guys
 Chesapeake Bay Candle
 Cisco
 Citizen
 CIVIVI
 Clarks
+clorox
 Cole & Mason
 Coleman
+colgate
 Colonial Candle
 Columbia
 Command
@@ -107,10 +119,12 @@ Craftsman
 Crayola
 Creative Mark
 Crescent
+crest
 Crocs
 Crush
 Crystal Light
 Cuisinart
+curad
 D-Link
 Dakine
 Darn Tough
@@ -129,6 +143,7 @@ Dial
 Dickies
 Digilent
 Dockers
+dole
 Dove
 DOVE MEN + CARE
 Dr. Bonner's
@@ -142,12 +157,15 @@ Duracell
 DYMO
 e.l.f.
 Eargasm
+ecobee
 Eddie Bauer
 Edifier
+empire
 Energizer
 Epson
 eSUN
 eufy Security
+everyhero
 Everyone
 Evolution
 EZ-Sweetz
@@ -164,7 +182,9 @@ Fossil
 Fowler
 Freud
 Frigidaire
+fruit of the loom
 Fujifilm
+g.skill
 Garmin
 Garnier
 Gatorade
@@ -175,7 +195,9 @@ Gigabyte
 Gillette
 GIRO
 Gizmo Dorks
+glad
 Glade
+gold bjj
 Goodyear
 Google
 Gorilla Grip
@@ -184,20 +206,25 @@ Great Value
 Greater Goods
 Greenies
 GROHE
+gum
 Hacksaw
+halberd
 Hanes
 HANKOOK
 Hantek
 Harbinger
 Harman Kardon
 HAWAIIAN PUNCH
+heinz
 HESTRA
 Hibbent
 Hikenture
 HILL'S PRESCRIPTION DIET
 Hill's Science Diet
 Himalaya
+hoist
 HOKA
+hollow
 Hotel Spa
 HP
 HTC
@@ -219,6 +246,7 @@ Jackpot Candles
 JBL
 Jessica Simpson
 JLab
+john paul mitchell systems
 Jolly Rancher
 Jose Cuervo
 JOYCA & CO.
@@ -230,11 +258,13 @@ Kingston
 Kirk's
 Kitchenaide
 Klass Aguas Frescas
+kleenex
 Klein
 Klipsch
 Kobalt
 Kodak
 KOHLER
+koken
 KONG
 Kool-Aid
 Koss
@@ -245,6 +275,7 @@ Kumho
 Kwikset
 KYOCERA
 L'Occitane
+lactaid
 Lancôme
 LAURA GELLER NEW YORK
 Le Creuset
@@ -256,11 +287,13 @@ Lenox
 Lever 2000
 Levi's
 Lexar
+lexivon
 Lexmark
 LG
 Lian Lian
 Linksys
 Lipton
+lisle
 Logitech
 lululemon
 MAHLE
@@ -273,14 +306,18 @@ Master Lock
 Maui Jim
 MAXWELL HOUSE
 MAYBELLINE
+mccormick
 MCR Safety
 MCTi
+mead
 Mediabridge
 Memphis Glove
+mercer culinary
 Merrell
 Method
 Michelin
 Microflex
+microsoft
 Milwaukee
 Mio
 Miracle II
@@ -317,6 +354,7 @@ No7
 NOCO
 Noctua
 Nokia
+nugo
 NUTRI FIT
 NutriBullet
 NutriChef
@@ -325,6 +363,7 @@ Nylabone
 NYX PROFESSIONAL MAKEUP
 NZXT
 O Naturals
+o'keeffe's
 Oakley
 Ocean Potion
 Ocean Spray
@@ -345,6 +384,8 @@ Palmolive
 Panasonic
 Patagonia
 Patriot Memory
+paudin
+paul mitchell
 PB Swiss
 PCCOOLER
 Pedigree
@@ -366,18 +407,24 @@ Protectli
 Psychedelic Water
 Puma
 Purina ONE
+purina pro plan
 Pyle
 Rachael Ray
+raven fightwear
 Ray-Ban
 Raycon
 Rayovac
+razer
+rdx
 Reebok
+refresh
 Retrospec
 REVLON
 RICOH
 Rigol
 Ring
 Rinse & Robust
+ripple
 Roborock
 Rockler
 Rockville
@@ -386,6 +433,7 @@ S.M.S.L
 Saft
 Salomon
 SAMSUNG
+sand castle games
 Sandisk
 Sappo Hill
 SawStop
@@ -395,6 +443,7 @@ Schwinn
 Schwinn Fitness
 Scotch
 Scotch-Mount
+seasonic
 Sennheiser Consumer Audio
 Seventh Generation
 SheaMoisture
@@ -403,6 +452,7 @@ Shure
 Shuttle Art
 Siglent Technologies
 Silonn
+simple solution
 SimpliSafe
 SIMPLY
 SINGLES TO GO!
@@ -428,25 +478,33 @@ SPLENDA
 Spyder
 STAEDTLER
 Stanley
+starling games
 Starrett
 StarTech.com
+sterilite
 Stur
+sunex
 SUNLU
 Sunny Health & Fitness
 Suunto
 Swann
+sweet baby ray's
 Sweet Water Decor
 SwiftGrip
 Swiss Miss
 TANG
 Taytools
+tea tree
 TEAMGROUP
 Technivorm
+tekton
 Tektronics
 Tenda
 THE NORTH FACE
+theragun
 Thermalright
 Thermaltake
+thermopro
 Thymes
 Tile
 Timberland
@@ -457,15 +515,20 @@ TP-Link
 Transcend
 TRENDnet
 True Citrus
+tylenol
 UGREEN
 Under Armour
 uni-ball
 Unicorn
 URBAN DECAY
+vanicream
+vector kgm
+velcro
 VELCRO Brand
 Venom Steel
 Verbatim
 Versace
+vetriscience
 Vgo...
 Victorinox
 Vitamix
@@ -478,6 +541,7 @@ WEN
 Wera
 WESTON BRANDS
 wet n wild
+wiha
 Wildhorn
 Williams
 Wilwood
@@ -488,6 +552,7 @@ Wrangler Authentics
 Wyler's Light
 WYZE
 Xerox
+xfx
 Xiaomi
 Yale
 YAMAHA
@@ -497,4 +562,5 @@ YARDLEY LONDON
 Yeti
 ZARA
 Zipfizz
+ziploc
 ZWILLING
