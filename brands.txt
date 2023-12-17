@@ -562,5 +562,12 @@ YARDLEY LONDON
 Yeti
 ZARA
 Zipfizz
+<<<<<<< Updated upstream
 ziploc
 ZWILLING
+=======
+ZWILLING
+Tweezerman
+GERmanikure
+Teslong
+>>>>>>> Stashed changes
