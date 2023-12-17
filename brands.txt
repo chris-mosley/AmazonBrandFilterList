@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 365 by Whole Foods Market
 3M
 4C
@@ -190,6 +191,7 @@ Garnier
 Gatorade
 GEARWRENCH
 GERBER
+GERmanikure
 Gevi Household
 Gigabyte
 Gillette
@@ -500,6 +502,7 @@ Technivorm
 tekton
 Tektronics
 Tenda
+Teslong
 THE NORTH FACE
 theragun
 Thermalright
@@ -515,6 +518,7 @@ TP-Link
 Transcend
 TRENDnet
 True Citrus
+Tweezerman
 tylenol
 UGREEN
 Under Armour
@@ -562,12 +566,5 @@ YARDLEY LONDON
 Yeti
 ZARA
 Zipfizz
-<<<<<<< Updated upstream
 ziploc
 ZWILLING
-=======
-ZWILLING
-Tweezerman
-GERmanikure
-Teslong
->>>>>>> Stashed changes
