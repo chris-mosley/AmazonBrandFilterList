@@ -6,9 +6,11 @@ A LA MAISON
 Abus
 AC Infinity
 Accusize Industrial Tools
+Acqua Panna
 Adata
 adidas
 Advil
+Airpura
 AKG
 Alani Nu
 alaway
@@ -16,6 +18,7 @@ Aleve
 Alienware
 altoids
 Amazfit
+Amazing Abby
 Amazing Grass
 Amazon Basics
 AMD
@@ -25,6 +28,7 @@ Anker
 Anon
 ANOVA
 Antarctic Star
+Antigravity Batteries
 Antec
 Apple
 apple & eve
@@ -54,6 +58,7 @@ Beekman
 Belkin
 Benchmade
 Beneful
+Berkey
 Betty Crocker
 beyerdynamic
 BFGoodrich
@@ -82,10 +87,13 @@ bumble
 Burt's Bees
 Burton
 Bushnell
+Butter Buds
 Cabela's
 Cable Matters
 Cadet
+CalDigit
 Callaway
+Califia Farms
 Calvin Klein
 Cambridge Audio
 Candle-lite
@@ -139,8 +147,10 @@ Crystal Light
 Cuisinart
 curad
 CUTTER & BUCK 
+CyberPower
 D-Link
 Dakine
+DALI
 Darn Tough
 Dawn
 DC
@@ -165,10 +175,12 @@ Dr. Bronner's
 Dr. Scholl's
 Dr. Scholl's Shoes
 Dr. Squatch
+Drano
 Duke Cannon Supply Co.
 DUNLOP
 Duracell
 DYMO
+Dyson
 e.l.f.
 Eargasm
 ecobee
@@ -187,8 +199,11 @@ EZ-Sweetz
 Faber-Castell
 Farberware
 Febreze
+Fenix
 FiiO
+FIJI
 Fila
+First Alert
 Fiskars
 Fitbit
 Fluke
@@ -206,6 +221,7 @@ Gardner Bender
 Garmin
 Garnier
 Gatorade
+GearIT
 GEARWRENCH
 GERBER
 GERmanikure
@@ -252,8 +268,10 @@ HTC
 Huawei
 Huffy
 Hydroflask
+HyperX
 Iams
 iBuyPower
+iFixit
 Igloo
 imarku
 Indigo Wild
@@ -281,6 +299,7 @@ Kershaw
 Keurig
 Kibbles 'n Bits
 King of Christmas
+King Size
 Kingston
 Kirk's
 Kitchenaide
@@ -312,6 +331,7 @@ Lego
 Leica
 Lenovo
 Lenox
+Level
 Lever 2000
 Levi's
 Lexar
@@ -319,9 +339,11 @@ lexivon
 Lexmark
 LG
 Lian Lian
+LiCB
 Linksys
 Lipton
 lisle
+Listerine
 Logitech
 lululemon
 Magbak
@@ -341,7 +363,9 @@ MCR Safety
 MCTi
 mead
 Mediabridge
+MG Chemicals
 Memphis Glove
+Meraki
 mercer culinary
 Merrell
 Method
@@ -365,11 +389,13 @@ Mr. Clean
 Mr. Coffee
 MRS. MEYER'S CLEAN DAY
 MSI
+MxVol
 My Weigh
 Native
 Natural Balance
 Nature Made
 Neiko
+Nespresso
 Nesquik
 NETGEAR
 Neutrogena
@@ -387,12 +413,14 @@ NOCO
 Noctua
 Nokia
 Nordic Naturals
+Nordic Ware
 NOW
 nugo
 NUTRI FIT
 NutriBullet
 NutriChef
 Nutro
+Nu Calgon
 Nylabone
 NYX PROFESSIONAL MAKEUP
 NZXT
@@ -417,6 +445,8 @@ OVERTURE
 OXO
 Palmolive
 Panasonic
+Paper Mate
+Parodontax
 Patagonia
 Patriot Memory
 paudin
@@ -429,11 +459,13 @@ Penn Scale
 Pentel
 Peugeot
 Pfister
+Phanteks
 Philips
 PIONEER
 Pirelli
+Plugable
 PNY
-Poloroid
+Polaroid
 Prada
 PRIME HYDRATION
 Prismacolor
@@ -442,6 +474,7 @@ Protectli
 Psychedelic Water
 Puma
 Pure Encapsulations
+Purell
 Purina ONE
 purina pro plan
 Pyle
@@ -455,6 +488,7 @@ Rayovac
 razer
 rdx
 Reebok
+Red Duck
 refresh
 Retrospec
 REVLON
@@ -467,6 +501,7 @@ Roborock
 Rockler
 Rockville
 Rubbermaid
+Ryobi
 S.M.S.L
 Saft
 Salomon
@@ -494,7 +529,7 @@ simple solution
 SimpliSafe
 SIMPLY
 SINGLES TO GO!
-Sketchers
+Skechers
 Skil
 Skittles
 Skullcandy
@@ -502,6 +537,7 @@ SlimFast
 Smart Weigh
 Smartwool
 Smith
+Smith & Nephew
 Smith & Wesson
 Soapbox
 Softsoap
@@ -511,6 +547,7 @@ Soundcore
 SparkPod
 Speakman
 SPECIALIZED
+Speck
 Sperry
 SPLENDA
 Spyder
@@ -558,6 +595,7 @@ Topeak
 TP-Link
 Transcend
 TRENDnet
+Triple Paste
 True Citrus
 Tweezerman
 tylenol
@@ -569,17 +607,20 @@ uni-ball
 Unicorn
 URBAN DECAY
 vanicream
+Vashe
 vector kgm
 velcro
 VELCRO Brand
 Venom Steel
 Verbatim
 Versace
+Vertiv
 vetriscience
 Vgo...
 Victorinox
 Vineyard Vines
 Vitamix
+VTOMAN
 vuori
 Wahoo
 Waterpik
@@ -601,6 +642,7 @@ WORKPRO
 Wrangler Authentics
 WÜSTHOF
 Wyler's Light
+WypAll
 WYZE
 Xerox
 xfx
@@ -612,7 +654,9 @@ Yardley
 YARDLEY LONDON
 Yeti
 ZARA
+ZEISS
 Zero Friction
 Zipfizz
 ziploc
+Zojirushi
 ZWILLING
