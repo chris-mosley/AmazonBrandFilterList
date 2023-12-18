@@ -28,8 +28,8 @@ Anker
 Anon
 ANOVA
 Antarctic Star
-Antigravity Batteries
 Antec
+Antigravity Batteries
 Apple
 apple & eve
 Aquaphor
@@ -37,8 +37,8 @@ arcan
 ARCTIC
 Arctix
 Arizona
-Arm & Hammer
 Arlo
+Arm & Hammer
 arteza
 Ascend
 ASICS
@@ -92,8 +92,8 @@ Cabela's
 Cable Matters
 Cadet
 CalDigit
-Callaway
 Califia Farms
+Callaway
 Calvin Klein
 Cambridge Audio
 Candle-lite
@@ -176,6 +176,7 @@ Dr. Scholl's
 Dr. Scholl's Shoes
 Dr. Squatch
 Drano
+Dreo
 Duke Cannon Supply Co.
 DUNLOP
 Duracell
@@ -250,6 +251,7 @@ Hantek
 Harbinger
 Harman Kardon
 HAWAIIAN PUNCH
+Heat Storm
 heinz
 HESTRA
 Hibbent
@@ -289,8 +291,8 @@ Jackpot Candles
 JBL
 Jessica Simpson
 JLab
-john paul mitchell systems
 John Deere
+john paul mitchell systems
 Jolly Rancher
 Jose Cuervo
 JOYCA & CO.
@@ -324,9 +326,10 @@ KYOCERA
 L'Occitane
 lactaid
 Lancôme
+Lasko
 LAURA GELLER NEW YORK
-Leatherman
 Le Creuset
+Leatherman
 LeCroy
 Lego
 Leica
@@ -365,12 +368,12 @@ MCR Safety
 MCTi
 mead
 Mediabridge
-MG Chemicals
 Memphis Glove
 Meraki
 mercer culinary
 Merrell
 Method
+MG Chemicals
 Michelin
 Microflex
 microsoft
@@ -389,6 +392,7 @@ Mossy Oak
 Motorola
 Mr. Clean
 Mr. Coffee
+Mr. Heater
 MRS. MEYER'S CLEAN DAY
 MSI
 MxVol
@@ -417,12 +421,12 @@ Nokia
 Nordic Naturals
 Nordic Ware
 NOW
+Nu Calgon
 nugo
 NUTRI FIT
 NutriBullet
 NutriChef
 Nutro
-Nu Calgon
 Nylabone
 NYX PROFESSIONAL MAKEUP
 NZXT
@@ -489,8 +493,8 @@ Raycon
 Rayovac
 razer
 rdx
-Reebok
 Red Duck
+Reebok
 refresh
 Retrospec
 REVLON
@@ -571,8 +575,8 @@ Sweet Water Decor
 SwiftGrip
 Swiss Miss
 Tag Heuer
-TaylorMade
 TANG
+TaylorMade
 Taytools
 tea tree
 TEAMGROUP
