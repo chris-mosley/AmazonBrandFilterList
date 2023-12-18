@@ -8,9 +8,11 @@ AC Infinity
 Accusize Industrial Tools
 Adata
 adidas
+Advil
 AKG
 Alani Nu
 alaway
+Aleve
 Alienware
 altoids
 Amazfit
@@ -31,13 +33,16 @@ arcan
 ARCTIC
 Arctix
 Arizona
+Arm & Hammer
 Arlo
 arteza
+Ascend
 ASICS
 Asus
 Audio-Technica
 Audioengine
 Australian Botanical Soap
+Bad Birdie
 Ballard Products
 band-aid
 Bang & Olufsen
@@ -47,6 +52,7 @@ be quiet!
 Beats
 Beekman
 Belkin
+Benchmade
 Beneful
 Betty Crocker
 beyerdynamic
@@ -61,6 +67,7 @@ BODYARMOR
 bollé
 Bosche
 Bose
+Bosu
 boveda
 Bowers & Wilkins
 Bowflex
@@ -74,8 +81,11 @@ Bruno Marc
 bumble
 Burt's Bees
 Burton
+Bushnell
+Cabela's
 Cable Matters
 Cadet
+Callaway
 Calvin Klein
 Cambridge Audio
 Candle-lite
@@ -100,7 +110,10 @@ Cisco
 Citizen
 CIVIVI
 Clarks
+Clif Bar
 clorox
+Coach
+Cobra
 Cole & Mason
 Coleman
 colgate
@@ -125,6 +138,7 @@ Crush
 Crystal Light
 Cuisinart
 curad
+CUTTER & BUCK 
 D-Link
 Dakine
 Darn Tough
@@ -160,6 +174,7 @@ Eargasm
 ecobee
 Eddie Bauer
 Edifier
+Ego Power+
 empire
 Energizer
 Epson
@@ -173,6 +188,7 @@ Faber-Castell
 Farberware
 Febreze
 FiiO
+Fila
 Fiskars
 Fitbit
 Fluke
@@ -185,6 +201,7 @@ Frigidaire
 fruit of the loom
 Fujifilm
 g.skill
+Garden of Life
 Gardner Bender
 Garmin
 Garnier
@@ -227,11 +244,16 @@ Himalaya
 hoist
 HOKA
 hollow
+Honda
+Honeywell
 Hotel Spa
 HP
 HTC
 Huawei
+Huffy
+Hydroflask
 Iams
+iBuyPower
 Igloo
 imarku
 Indigo Wild
@@ -241,6 +263,7 @@ Intel
 Intellinet
 Irish Spring
 IRWIN
+Isopure
 Ivory
 J.R. Watkins
 Jabra
@@ -249,6 +272,7 @@ JBL
 Jessica Simpson
 JLab
 john paul mitchell systems
+John Deere
 Jolly Rancher
 Jose Cuervo
 JOYCA & CO.
@@ -256,6 +280,7 @@ Kasa Smart
 Kershaw
 Keurig
 Kibbles 'n Bits
+King of Christmas
 Kingston
 Kirk's
 Kitchenaide
@@ -280,6 +305,7 @@ L'Occitane
 lactaid
 Lancôme
 LAURA GELLER NEW YORK
+Leatherman
 Le Creuset
 LeCroy
 Lego
@@ -298,6 +324,8 @@ Lipton
 lisle
 Logitech
 lululemon
+Magbak
+Magpul
 MAHLE
 Makita
 Mann-Filter
@@ -326,6 +354,7 @@ Miracle II
 Mistral
 Miti
 Mitutoyo
+Mizuno
 Mobil 1
 Moen
 Monoprice
@@ -339,6 +368,7 @@ MSI
 My Weigh
 Native
 Natural Balance
+Nature Made
 Neiko
 Nesquik
 NETGEAR
@@ -356,6 +386,8 @@ No7
 NOCO
 Noctua
 Nokia
+Nordic Naturals
+NOW
 nugo
 NUTRI FIT
 NutriBullet
@@ -375,6 +407,7 @@ Onkyo
 Oppo
 Optimum Nutrition
 Oral-B
+Orgain
 Otterbox
 Our Own Candle Company
 Oura
@@ -408,11 +441,14 @@ Propel
 Protectli
 Psychedelic Water
 Puma
+Pure Encapsulations
 Purina ONE
 purina pro plan
 Pyle
+Quest Nutrition
 Rachael Ray
 raven fightwear
+Rawlings
 Ray-Ban
 Raycon
 Rayovac
@@ -494,6 +530,8 @@ sweet baby ray's
 Sweet Water Decor
 SwiftGrip
 Swiss Miss
+Tag Heuer
+TaylorMade
 TANG
 Taytools
 tea tree
@@ -508,9 +546,12 @@ theragun
 Thermalright
 Thermaltake
 thermopro
+Thorne
 Thymes
+Tide
 Tile
 Timberland
+Titleist
 Tom's of Maine
 Tommy Hilfiger
 Topeak
@@ -520,7 +561,9 @@ TRENDnet
 True Citrus
 Tweezerman
 tylenol
+Ubiquiti
 UGREEN
+Umbro
 Under Armour
 uni-ball
 Unicorn
@@ -535,6 +578,7 @@ Versace
 vetriscience
 Vgo...
 Victorinox
+Vineyard Vines
 Vitamix
 vuori
 Wahoo
@@ -548,12 +592,14 @@ wet n wild
 wiha
 Wildhorn
 Williams
+Wilson
 Wilwood
 Wirefy
 Withings
 WoodWick
 WORKPRO
 Wrangler Authentics
+WÜSTHOF
 Wyler's Light
 WYZE
 Xerox
@@ -566,6 +612,7 @@ Yardley
 YARDLEY LONDON
 Yeti
 ZARA
+Zero Friction
 Zipfizz
 ziploc
 ZWILLING
