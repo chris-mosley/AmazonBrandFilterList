@@ -1,3 +1,4 @@
+
 365 by Whole Foods Market
 3M
 4C
@@ -134,9 +135,9 @@ Colonial Candle
 Columbia
 Command
 Continental
+Cooler Master
 Cooper
 Copper Fit
-Cooler Master
 Corsair
 Costa Del Mar
 COUNTRY TIME
@@ -164,10 +165,11 @@ DC
 De'Longhi
 DeepCool
 Deer Valley
-DELTA FAUCET
 Dell
+DELTA FAUCET
 Denon
 Denso
+DEPSTECH
 DeWalt
 di Oro Living
 Diablo
@@ -175,6 +177,7 @@ Dial
 Dickies
 Digilent
 Dirt Devil
+Diurex
 Dockers
 Dole
 Dorman
@@ -395,8 +398,6 @@ Microflex
 Microsoft
 Milwaukee
 Mio
-
-
 Miracle II
 Mistral
 Miti
@@ -507,6 +508,7 @@ Purina Pro Plan
 Pyle
 Quest Nutrition
 Rachael Ray
+Ralcam
 Raven Fightwear
 Rawlings
 Ray-Ban
@@ -546,10 +548,10 @@ Scotch-Mount
 Seasonic
 Sennheiser Consumer Audio
 Seventh Generation
+Shark
 SheaMoisture
 SHIMANO
 Shure
-Shark
 Shuttle Art
 Siglent Technologies
 Silonn
@@ -596,10 +598,10 @@ Sweet Baby Ray's
 Sweet Water Decor
 SwiftGrip
 Swiss Miss
-TCL
 Tag Heuer
 TaylorMade
 Taytools
+TCL
 Tea Tree
 TEAMGROUP
 Technivorm
@@ -655,10 +657,11 @@ Wahoo
 Walker's
 Waterpik
 Weber
+Weller
 Wells Lamont
 WEN
-Western Digital
 Wera
+Western Digital
 Weston Brands
 Wet n Wild
 Wiha
@@ -676,9 +679,11 @@ WÜSTHOF
 Wyler's Light
 WypAll
 WYZE
+X-Tronic
 Xerox
 XFX
 Xiaomi
+XPEL
 Yale
 YAMAHA
 Yankee Candle
