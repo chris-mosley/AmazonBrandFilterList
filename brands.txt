@@ -44,6 +44,8 @@ Arm & Hammer
 arteza
 Ascend
 ASICS
+ASRock
+ASRock Rack
 Astro Pneumatic Tool
 Astro Tools
 Asus
@@ -93,6 +95,7 @@ Burt's Bees
 Burton
 Bushnell
 Butter Buds
+C2G
 Cabela's
 Cable Matters
 Cadet
@@ -207,8 +210,10 @@ Energizer
 Epson
 eSUN
 eufy Security
+Everest Media Solutions
 everyhero
 Everyone
+EVGA
 Evolution
 EZ-Sweetz
 Faber-Castell
@@ -322,6 +327,7 @@ Kibbles 'n Bits
 King of Christmas
 King Size
 Kingston
+KIOXIA
 Kirk's
 Kitchenaide
 Klass Aguas Frescas
@@ -357,6 +363,7 @@ Lenox
 Level
 Lever 2000
 Levi's
+Leviton
 Lexar
 Lexivon
 Lexmark
@@ -374,6 +381,7 @@ Magbak
 Magpul
 MAHLE
 Makita
+Manhattan
 Mann-Filter
 MANNKITCHEN
 Marantz
@@ -395,6 +403,7 @@ Method
 MG Chemicals
 Michelin
 Microflex
+Micron
 Microsoft
 Milwaukee
 Mio
@@ -419,6 +428,7 @@ My Weigh
 Native
 Natural Balance
 Nature Made
+NavePoint
 Neiko
 Nespresso
 Nesquik
@@ -426,6 +436,7 @@ NETGEAR
 Neutrogena
 New Balance
 Newair
+NewYork Cables
 NGK
 Nike
 Nikon
@@ -446,6 +457,7 @@ NUTRI FIT
 NutriBullet
 NutriChef
 Nutro
+NVIDIA
 Nylabone
 NYX PROFESSIONAL MAKEUP
 NZXT
@@ -472,6 +484,7 @@ OVERTURE
 OXO
 Palmolive
 Panasonic
+Panduit
 Paper Mate
 Parodontax
 Patagonia
@@ -494,6 +507,7 @@ Pirelli
 Plugable
 PNY
 Polaroid
+PowerColor
 Prada
 PRIME HYDRATION
 Prismacolor
@@ -508,6 +522,7 @@ Purina Pro Plan
 Pyle
 Quest Nutrition
 Rachael Ray
+Rackstuds
 Ralcam
 Raven Fightwear
 Rawlings
@@ -532,11 +547,13 @@ Rockville
 Rubbermaid
 Ryobi
 S.M.S.L
+SABRENT
 Saft
 Salomon
 SAMSUNG
 Sand Castle Games
 Sandisk
+Sapphire Technology
 Sappo Hill
 SawStop
 Schick
@@ -545,6 +562,7 @@ Schwinn
 Schwinn Fitness
 Scotch
 Scotch-Mount
+Seagate
 Seasonic
 Sennheiser Consumer Audio
 Seventh Generation
@@ -592,6 +610,7 @@ Stur
 Sunex
 SUNLU
 Sunny Health & Fitness
+Supermicro
 Suunto
 Swann
 Sweet Baby Ray's
@@ -623,6 +642,7 @@ Titleist
 Tom's of Maine
 Tommy Hilfiger
 Topeak
+Toshiba
 TP-Link
 Transcend
 TRENDnet
@@ -696,4 +716,5 @@ Zero Friction
 Zipfizz
 Ziploc
 Zojirushi
+ZOTAC
 ZWILLING
