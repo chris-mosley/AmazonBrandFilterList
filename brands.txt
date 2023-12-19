@@ -21,6 +21,7 @@ Amazfit
 Amazing Abby
 Amazing Grass
 Amazon Basics
+Amazon Essentials
 AMD
 American Standard
 ANEX
@@ -135,6 +136,7 @@ Command
 Continental
 Cooper
 Copper Fit
+Cooler Master
 Corsair
 Costa Del Mar
 COUNTRY TIME
@@ -146,6 +148,7 @@ Creative Mark
 Crescent
 crest
 Crocs
+Crucial
 Crush
 Crystal Light
 Cuisinart
@@ -162,6 +165,7 @@ De'Longhi
 DeepCool
 Deer Valley
 DELTA FAUCET
+Dell
 Denon
 Denso
 DeWalt
@@ -170,8 +174,9 @@ Diablo
 Dial
 Dickies
 Digilent
+Dirt Devil
 Dockers
-dole
+Dole
 Dorman
 Dove
 DOVE MEN + CARE
@@ -237,9 +242,9 @@ Gigabyte
 Gillette
 GIRO
 Gizmo Dorks
-glad
+Glad
 Glade
-gold bjj
+Gold BJJ
 Goodyear
 Google
 Gorilla Grip
@@ -248,9 +253,10 @@ Great Value
 Greater Goods
 Greenies
 GROHE
-gum
+Gum
 Hacksaw
-halberd
+Halberd
+Hamilton Beach
 Hanes
 HANKOOK
 Hantek
@@ -258,16 +264,16 @@ Harbinger
 Harman Kardon
 HAWAIIAN PUNCH
 Heat Storm
-heinz
+Heinz
 HESTRA
 Hibbent
 Hikenture
-HILL'S PRESCRIPTION DIET
+Hill's Prescription Diet
 Hill's Science Diet
 Himalaya
-hoist
+Hoist
 HOKA
-hollow
+Hollow
 Honda
 Honeywell
 Hotel Spa
@@ -283,7 +289,7 @@ IDEAL Electrical
 IDEAL Industries
 iFixit
 Igloo
-imarku
+Imarku
 Indigo Wild
 Inland
 Insta360
@@ -301,7 +307,7 @@ JBL
 Jessica Simpson
 JLab
 John Deere
-john paul mitchell systems
+John Paul Mitchell Systems
 Jolly Rancher
 Jose Cuervo
 JOYCA & CO.
@@ -316,14 +322,14 @@ Kingston
 Kirk's
 Kitchenaide
 Klass Aguas Frescas
-kleenex
+Kleenex
 Klein
 Klein Tools
 Klipsch
 Kobalt
 Kodak
 KOHLER
-koken
+Koken
 KONG
 Kool-Aid
 Koss
@@ -334,7 +340,7 @@ Kumho
 Kwikset
 KYOCERA
 L'Occitane
-lactaid
+Lactaid
 Lancôme
 Lasko
 LAURA GELLER NEW YORK
@@ -349,7 +355,7 @@ Level
 Lever 2000
 Levi's
 Lexar
-lexivon
+Lexivon
 Lexmark
 LG
 Lian Lian
@@ -357,10 +363,10 @@ LiCB
 Linksys
 Linsoul
 Lipton
-lisle
+Lisle
 Listerine
 Logitech
-lululemon
+Lululemon
 Magbak
 Magpul
 MAHLE
@@ -373,22 +379,24 @@ Master Lock
 Maui Jim
 MAXWELL HOUSE
 MAYBELLINE
-mccormick
+McCormick
 MCR Safety
 MCTi
-mead
+Mead
 Mediabridge
 Memphis Glove
 Meraki
-mercer culinary
+Mercer Culinary
 Merrell
 Method
 MG Chemicals
 Michelin
 Microflex
-microsoft
+Microsoft
 Milwaukee
 Mio
+
+
 Miracle II
 Mistral
 Miti
@@ -432,7 +440,7 @@ Nordic Naturals
 Nordic Ware
 NOW
 Nu Calgon
-nugo
+Nugo
 NUTRI FIT
 NutriBullet
 NutriChef
@@ -441,12 +449,13 @@ Nylabone
 NYX PROFESSIONAL MAKEUP
 NZXT
 O Naturals
-o'keeffe's
+O'Keeffe's
 Oakley
 Ocean Potion
 Ocean Spray
 On
 One With Nature
+OnePlus
 Onkyo
 Oppo
 Optimum Nutrition
@@ -466,8 +475,8 @@ Paper Mate
 Parodontax
 Patagonia
 Patriot Memory
-paudin
-paul mitchell
+Paudin
+Paul Mitchell
 PB Swiss
 PCCOOLER
 Pedigree
@@ -494,27 +503,27 @@ Puma
 Pure Encapsulations
 Purell
 Purina ONE
-purina pro plan
+Purina Pro Plan
 Pyle
 Quest Nutrition
 Rachael Ray
-raven fightwear
+Raven Fightwear
 Rawlings
 Ray-Ban
 Raycon
 Rayovac
-razer
-rdx
+Razer
+RDX
 Red Duck
 Reebok
-refresh
+Refresh
 Retrospec
 REVLON
 RICOH
 Rigol
 Ring
 Rinse & Robust
-ripple
+Ripple
 Roborock
 Rockler
 Rockville
@@ -524,7 +533,7 @@ S.M.S.L
 Saft
 Salomon
 SAMSUNG
-sand castle games
+Sand Castle Games
 Sandisk
 Sappo Hill
 SawStop
@@ -534,20 +543,21 @@ Schwinn
 Schwinn Fitness
 Scotch
 Scotch-Mount
-seasonic
+Seasonic
 Sennheiser Consumer Audio
 Seventh Generation
 SheaMoisture
 SHIMANO
 Shure
+Shark
 Shuttle Art
 Siglent Technologies
 Silonn
-simple solution
+Simple Solution
 SimpliSafe
 SIMPLY
 SINGLES TO GO!
-SK hynix
+SK Hynix
 Skechers
 Skil
 Skittles
@@ -572,36 +582,36 @@ SPLENDA
 Spyder
 STAEDTLER
 Stanley
-starling games
+Starling Games
 Starrett
 StarTech.com
-sterilite
+Sterilite
 Stur
-sunex
+Sunex
 SUNLU
 Sunny Health & Fitness
 Suunto
 Swann
-sweet baby ray's
+Sweet Baby Ray's
 Sweet Water Decor
 SwiftGrip
 Swiss Miss
+TCL
 Tag Heuer
-TANG
 TaylorMade
 Taytools
-tea tree
+Tea Tree
 TEAMGROUP
 Technivorm
-tekton
+Tekton
 Tektronics
 Tenda
 Teslong
 THE NORTH FACE
-theragun
+Theragun
 Thermalright
 Thermaltake
-thermopro
+Thermopro
 Thorne
 Thymes
 Tide
@@ -617,39 +627,41 @@ TRENDnet
 Triple Paste
 True Citrus
 Tweezerman
-tylenol
+Tylenol
 Ubiquiti
 UGREEN
 Umbro
 Under Armour
-uni-ball
+Uni-ball
 Unicorn
 URBAN DECAY
-vanicream
+Vanicream
 Vashe
-vector kgm
-velcro
+Vector KGM
+Velcro
 VELCRO Brand
 Venom Steel
 Verbatim
 Versace
 Vertiv
-vetriscience
+Vetriscience
 Vgo...
 Victorinox
 Vineyard Vines
 Vitamix
 VTOMAN
-vuori
+Vuori
 Wahoo
+Walker's
 Waterpik
 Weber
 Wells Lamont
 WEN
+Western Digital
 Wera
-WESTON BRANDS
-wet n wild
-wiha
+Weston Brands
+Wet n Wild
+Wiha
 Wildhorn
 Williams
 Wilson
@@ -665,7 +677,7 @@ Wyler's Light
 WypAll
 WYZE
 Xerox
-xfx
+XFX
 Xiaomi
 Yale
 YAMAHA
@@ -677,6 +689,6 @@ ZARA
 ZEISS
 Zero Friction
 Zipfizz
-ziploc
+Ziploc
 Zojirushi
 ZWILLING
