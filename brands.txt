@@ -42,6 +42,8 @@ Arm & Hammer
 arteza
 Ascend
 ASICS
+Astro Pneumatic Tool
+Astro Tools
 Asus
 Audio-Technica
 Audioengine
@@ -110,6 +112,7 @@ CELSIUS
 CeraVe
 Cetaphil
 Champion
+Channellock
 Chapman
 Chef Craft
 chemical guys
@@ -168,6 +171,7 @@ Dickies
 Digilent
 Dockers
 dole
+Dorman
 Dove
 DOVE MEN + CARE
 Dr. Bonner's
@@ -180,6 +184,7 @@ Dreo
 Duke Cannon Supply Co.
 DUNLOP
 Duracell
+DURATECH
 DYMO
 Dyson
 e.l.f.
@@ -273,6 +278,8 @@ Hydroflask
 HyperX
 Iams
 iBuyPower
+IDEAL Electrical
+IDEAL Industries
 iFixit
 Igloo
 imarku
@@ -285,6 +292,7 @@ Irish Spring
 IRWIN
 Isopure
 Ivory
+IWISS
 J.R. Watkins
 Jabra
 Jackpot Candles
@@ -309,6 +317,7 @@ Kitchenaide
 Klass Aguas Frescas
 kleenex
 Klein
+Klein Tools
 Klipsch
 Kobalt
 Kodak
@@ -442,6 +451,7 @@ Oppo
 Optimum Nutrition
 Oral-B
 Orgain
+OTC
 Otterbox
 Our Own Candle Company
 Oura
