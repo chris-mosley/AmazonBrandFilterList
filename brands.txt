@@ -64,6 +64,7 @@ Berkey
 Betty Crocker
 beyerdynamic
 BFGoodrich
+BIC
 Big Train
 BLACK+DECKER
 Blink
@@ -477,6 +478,7 @@ Peugeot
 Pfister
 Phanteks
 Philips
+PILOT
 PIONEER
 Pirelli
 Plugable
@@ -657,6 +659,7 @@ Withings
 WoodWick
 WORKPRO
 Wrangler Authentics
+WRITECH
 WÜSTHOF
 Wyler's Light
 WypAll
