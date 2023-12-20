@@ -129,6 +129,7 @@ Caswell-Massey
 Cellucor
 CELSIUS
 CeraVe
+Cesar
 Cetaphil
 Champion
 Channellock
@@ -560,6 +561,7 @@ Psychedelic Water
 Puma
 Pure Encapsulations
 Purell
+Purina
 Purina ONE
 Purina Pro Plan
 Pyle
@@ -730,6 +732,7 @@ Waterpik
 Weber
 Weleda
 Weller
+Wellness Natural Pet Food
 Wells Lamont
 WEN
 Wera
