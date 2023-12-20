@@ -4,9 +4,11 @@
 7UP
 8Bitdo
 A LA MAISON
+A-Premium
 Abus
 AC Infinity
 Accusize Industrial Tools
+ACDelco
 Acqua Panna
 Adata
 adidas
@@ -25,6 +27,7 @@ Amazon Basics
 Amazon Echo
 Amazon Essentials
 Amazon Fire
+Amazon.com
 AMD
 American Standard
 ANEX
@@ -51,10 +54,12 @@ ASRock Rack
 Astro Pneumatic Tool
 Astro Tools
 Asus
+Audi
 Audio-Technica
 Audioengine
 Australian Botanical Soap
 Bad Birdie
+Baldwin
 Ballard Products
 band-aid
 Bang & Olufsen
@@ -62,6 +67,7 @@ bareMinerals
 Bath & Body Works
 be quiet!
 Beats
+Beck/Arnley
 Beekman
 Belkin
 Benchmade
@@ -79,6 +85,8 @@ Blum
 bobs red mill
 BODYARMOR
 bollé
+BOSCH
+Bosch Automotive
 Bosche
 Bose
 Bosu
@@ -115,6 +123,7 @@ Carhartt
 Carnation Breakfast Essentials
 CASETiFY
 Casio
+Castrol
 Caswell-Massey
 Cellucor
 CELSIUS
@@ -126,6 +135,7 @@ Chapman
 Chef Craft
 chemical guys
 Chesapeake Bay Candle
+Chrysler
 Cisco
 Citizen
 CIVIVI
@@ -184,6 +194,7 @@ Dickies
 Digilent
 Dirt Devil
 Diurex
+Doc's Diesel
 Dockers
 Dole
 Dorman
@@ -205,6 +216,7 @@ Dyson
 e.l.f.
 Eargasm
 ecobee
+ECOGARD
 Eddie Bauer
 Edifier
 Ego Power+
@@ -222,6 +234,7 @@ EZ-Sweetz
 Faber-Castell
 Farberware
 Febreze
+Fel-Pro
 Fenix
 Ferrero
 FiiO
@@ -233,8 +246,10 @@ Fitbit
 Fluke
 Focal
 FoodSaver
+Ford
 Fossil
 Fowler
+Fram
 Freud
 Frigidaire
 fruit of the loom
@@ -256,6 +271,7 @@ GIRO
 Gizmo Dorks
 Glad
 Glade
+GM
 Gold BJJ
 Goodyear
 Google
@@ -277,6 +293,7 @@ Harman Kardon
 HAWAIIAN PUNCH
 Heat Storm
 Heinz
+Hengst
 HESTRA
 Hibbent
 Hikenture
@@ -295,6 +312,7 @@ Huawei
 Huffy
 Hydroflask
 HyperX
+HYUNDAI
 Iams
 iBuyPower
 IDEAL Electrical
@@ -325,6 +343,7 @@ Jolly Rancher
 Jose Cuervo
 JOYCA & CO.
 JSAUX
+K&N
 Kasa Smart
 Kershaw
 Keurig
@@ -357,6 +376,7 @@ KYOCERA
 L'Occitane
 Lactaid
 Lancôme
+Land Rover
 Lasko
 LAURA GELLER NEW YORK
 Le Creuset
@@ -373,21 +393,25 @@ Leviton
 Lexar
 Lexivon
 Lexmark
+LEXUS
 LG
 Lian Lian
 LiCB
 Linksys
 Linsoul
 Lipton
+Liqui Moly
 Lisle
 Listerine
 Logitech
+Luber-finer
 Lululemon
 Magbak
 Magpul
 MAHLE
 Makita
 Manhattan
+Mann Filter
 Mann-Filter
 MANNKITCHEN
 Marantz
@@ -423,8 +447,11 @@ Mobil 1
 Moen
 Monoprice
 Monster Energy
+Mopar
 Mossy Oak
+Motorcraft
 Motorola
+Motul
 Mr. Clean
 Mr. Coffee
 Mr. Heater
@@ -450,6 +477,7 @@ Nikon
 NinetoFiveLife
 Ninja
 Nintendo
+Nissan
 Nitto
 No7
 NOCO
@@ -503,6 +531,7 @@ PCCOOLER
 Pedigree
 Peloton
 Penn Scale
+Pennzoil
 Pentel
 Peugeot
 Pfister
@@ -513,9 +542,11 @@ PIONEER
 Pirelli
 Plugable
 PNY
+Polaris
 Polaroid
 PowerColor
 Prada
+Premium Guard
 PRIME HYDRATION
 Prismacolor
 Propel
@@ -551,6 +582,7 @@ Ripple
 Roborock
 Rockler
 Rockville
+Royal Purple
 Rubbermaid
 Ryobi
 S.M.S.L
@@ -615,6 +647,7 @@ Starrett
 StarTech.com
 Sterilite
 Stur
+Subaru
 Sunex
 SUNLU
 Sunny Health & Fitness
@@ -651,6 +684,7 @@ Tom's of Maine
 Tommy Hilfiger
 Topeak
 Toshiba
+Toyota
 TP-Link
 Transcend
 TRENDnet
@@ -665,6 +699,7 @@ Under Armour
 Uni-ball
 Unicorn
 URBAN DECAY
+Valvoline
 Vanicream
 Vashe
 Vector KGM
@@ -679,6 +714,7 @@ Vgo...
 Victorinox
 Vineyard Vines
 Vitamix
+Volkswagen
 VTOMAN
 Vuori
 Wahoo
@@ -700,6 +736,7 @@ Wilson
 Wilwood
 Wirefy
 Withings
+Wix
 WoodWick
 WORKPRO
 Wrangler Authentics
