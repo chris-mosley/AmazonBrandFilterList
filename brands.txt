@@ -2,6 +2,7 @@
 3M
 4C
 7UP
+8Bitdo
 A LA MAISON
 Abus
 AC Infinity
@@ -21,7 +22,9 @@ Amazfit
 Amazing Abby
 Amazing Grass
 Amazon Basics
+Amazon Echo
 Amazon Essentials
+Amazon Fire
 AMD
 American Standard
 ANEX
@@ -86,6 +89,7 @@ Braun
 Brembo
 Bridgestone
 BRINKS
+Brita
 Brooks
 Brother
 Bruno Marc
@@ -219,6 +223,7 @@ Faber-Castell
 Farberware
 Febreze
 Fenix
+Ferrero
 FiiO
 FIJI
 Fila
@@ -303,6 +308,7 @@ Insta360
 Intel
 Intellinet
 Irish Spring
+iRobot
 IRWIN
 Isopure
 Ivory
@@ -344,6 +350,7 @@ Koss
 Kraus
 KREG
 KRUPS
+Kryptonite
 Kumho
 Kwikset
 KYOCERA
@@ -398,6 +405,7 @@ Memphis Glove
 Meraki
 Mercer Culinary
 Merrell
+Meta
 Method
 MG Chemicals
 Michelin
@@ -597,6 +605,7 @@ Speakman
 SPECIALIZED
 Speck
 Sperry
+Spigen
 SPLENDA
 Spyder
 STAEDTLER
@@ -683,6 +692,7 @@ Wera
 Western Digital
 Weston Brands
 Wet n Wild
+Whitestone
 Wiha
 Wildhorn
 Williams
