@@ -57,6 +57,7 @@ Asus
 Audi
 Audio-Technica
 Audioengine
+Auromere
 Australian Botanical Soap
 Bad Birdie
 Baldwin
@@ -200,11 +201,11 @@ Dole
 Dorman
 Dove
 DOVE MEN + CARE
-Dr. Bonner's
 Dr. Bronner's
 Dr. Scholl's
 Dr. Scholl's Shoes
 Dr. Squatch
+Dr. Woods
 Drano
 Dreo
 Duke Cannon Supply Co.
@@ -250,6 +251,7 @@ Ford
 Fossil
 Fowler
 Fram
+FreshPet
 Freud
 Frigidaire
 fruit of the loom
@@ -429,6 +431,7 @@ Memphis Glove
 Meraki
 Mercer Culinary
 Merrell
+Merrick
 Meta
 Method
 MG Chemicals
@@ -462,6 +465,7 @@ My Weigh
 Native
 Natural Balance
 Nature Made
+Nature's Recipe
 NavePoint
 Neiko
 Nespresso
@@ -491,6 +495,7 @@ Nugo
 NUTRI FIT
 NutriBullet
 NutriChef
+NutriSource
 Nutro
 NVIDIA
 Nylabone
@@ -560,6 +565,7 @@ Purina Pro Plan
 Pyle
 Quest Nutrition
 Rachael Ray
+Rachael Ray Nutrish
 Rackstuds
 Ralcam
 Raven Fightwear
@@ -582,6 +588,7 @@ Ripple
 Roborock
 Rockler
 Rockville
+Royal Canin
 Royal Purple
 Rubbermaid
 Ryobi
@@ -721,6 +728,7 @@ Wahoo
 Walker's
 Waterpik
 Weber
+Weleda
 Weller
 Wells Lamont
 WEN
