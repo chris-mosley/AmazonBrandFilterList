@@ -13,12 +13,15 @@ Acqua Panna
 Adata
 adidas
 Advil
+Aeropress
+Affresh
 Airpura
 AKG
 Alani Nu
 alaway
 Aleve
 Alienware
+Allegra
 altoids
 Amazfit
 Amazing Abby
@@ -30,6 +33,7 @@ Amazon Fire
 Amazon.com
 AMD
 American Standard
+Anchor Hocking
 ANEX
 Anker
 Anon
@@ -116,6 +120,7 @@ Califia Farms
 Callaway
 Calvin Klein
 Cambridge Audio
+Campbell Hausfeld
 Candle-lite
 Canon
 CAP Barbell
@@ -203,6 +208,7 @@ Dorman
 Dove
 DOVE MEN + CARE
 Dr. Bronner's
+Dr. Elsey's
 Dr. Scholl's
 Dr. Scholl's Shoes
 Dr. Squatch
@@ -225,7 +231,9 @@ Ego Power+
 empire
 Energizer
 Epson
+Estwing
 eSUN
+eufy
 eufy Security
 Everest Media Solutions
 everyhero
@@ -233,10 +241,12 @@ Everyone
 EVGA
 Evolution
 EZ-Sweetz
+EZY DOSE
 Faber-Castell
 Farberware
 Febreze
 Fel-Pro
+Fellow
 Fenix
 Ferrero
 FiiO
@@ -255,6 +265,7 @@ Fram
 FreshPet
 Freud
 Frigidaire
+Frost King
 fruit of the loom
 Fujifilm
 g.skill
@@ -286,6 +297,7 @@ Greenies
 GROHE
 Gum
 Hacksaw
+Hakko
 Halberd
 Hamilton Beach
 Hanes
@@ -302,6 +314,7 @@ Hibbent
 Hikenture
 Hill's Prescription Diet
 Hill's Science Diet
+Hiltex
 Himalaya
 Hoist
 HOKA
@@ -333,7 +346,9 @@ iRobot
 IRWIN
 Isopure
 Ivory
+IVY Classic
 IWISS
+J-B Weld
 J.R. Watkins
 Jabra
 Jackpot Candles
@@ -349,6 +364,7 @@ JSAUX
 K&N
 Kasa Smart
 Kershaw
+Kester
 Keurig
 Kibbles 'n Bits
 King of Christmas
@@ -369,6 +385,7 @@ Koken
 KONG
 Kool-Aid
 Koss
+Kraft
 Kraus
 KREG
 KRUPS
@@ -382,6 +399,7 @@ Lancôme
 Land Rover
 Lasko
 LAURA GELLER NEW YORK
+LD Products
 Le Creuset
 Leatherman
 LeCroy
@@ -427,6 +445,7 @@ McCormick
 MCR Safety
 MCTi
 Mead
+MEAN WELL
 Mediabridge
 Memphis Glove
 Meraki
@@ -524,6 +543,7 @@ OutdoorMaster
 OVERTURE
 OXO
 Palmolive
+Pampers
 Panasonic
 Panduit
 Paper Mate
@@ -544,8 +564,10 @@ Pfister
 Phanteks
 Philips
 PILOT
+PINE64
 PIONEER
 Pirelli
+Plackers
 Plugable
 PNY
 Polaris
@@ -554,6 +576,7 @@ PowerColor
 Prada
 Premium Guard
 PRIME HYDRATION
+PRIME-LINE
 Prismacolor
 Propel
 Protectli
@@ -569,6 +592,7 @@ Quest Nutrition
 Rachael Ray
 Rachael Ray Nutrish
 Rackstuds
+Raid
 Ralcam
 Raven Fightwear
 Rawlings
@@ -577,6 +601,7 @@ Raycon
 Rayovac
 Razer
 RDX
+Rectorseal
 Red Duck
 Reebok
 Refresh
@@ -637,8 +662,11 @@ Smith
 Smith & Nephew
 Smith & Wesson
 Soapbox
+sodastream
 Softsoap
 Solaris
+Solidigm
+SONOFF
 Sony
 Soundcore
 SparkPod
@@ -667,6 +695,7 @@ Sweet Baby Ray's
 Sweet Water Decor
 SwiftGrip
 Swiss Miss
+SwitchBot
 Tag Heuer
 TaylorMade
 Taytools
@@ -678,6 +707,7 @@ Tekton
 Tektronics
 Tenda
 Teslong
+The Hillman Group
 THE NORTH FACE
 Theragun
 Thermalright
@@ -688,6 +718,7 @@ Thymes
 Tide
 Tile
 Timberland
+Titebond
 Titleist
 Tom's of Maine
 Tommy Hilfiger
@@ -698,6 +729,7 @@ TP-Link
 Transcend
 TRENDnet
 Triple Paste
+Tripp Lite
 True Citrus
 Tweezerman
 Tylenol
@@ -708,6 +740,7 @@ Under Armour
 Uni-ball
 Unicorn
 URBAN DECAY
+USAOPOLY
 Valvoline
 Vanicream
 Vashe
