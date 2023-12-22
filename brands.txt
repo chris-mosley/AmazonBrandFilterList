@@ -9,10 +9,12 @@ Abus
 AC Infinity
 Accusize Industrial Tools
 ACDelco
+Acer
 Acqua Panna
 Adata
 adidas
 Advil
+AEG
 Aeropress
 Affresh
 Airpura
@@ -21,6 +23,7 @@ Alani Nu
 alaway
 Aleve
 Alienware
+All-Clad
 Allegra
 altoids
 Amazfit
@@ -38,6 +41,7 @@ ANEX
 Anker
 Anon
 ANOVA
+Ansmann
 Antarctic Star
 Antec
 Antigravity Batteries
@@ -70,10 +74,12 @@ band-aid
 Bang & Olufsen
 bareMinerals
 Bath & Body Works
+Bauknecht
 be quiet!
 Beats
 Beck/Arnley
 Beekman
+Beko
 Belkin
 Benchmade
 Beneful
@@ -90,6 +96,7 @@ Blum
 bobs red mill
 BODYARMOR
 bollé
+Bomann
 BOSCH
 Bosch Automotive
 Bosche
@@ -118,6 +125,7 @@ Cadet
 CalDigit
 Califia Farms
 Callaway
+Calphalon
 Calvin Klein
 Cambridge Audio
 Campbell Hausfeld
@@ -147,6 +155,7 @@ Cisco
 Citizen
 CIVIVI
 Clarks
+Clatronik
 Clif Bar
 clorox
 Coach
@@ -172,6 +181,7 @@ Creative Mark
 Crescent
 crest
 Crocs
+Cross
 Crucial
 Crush
 Crystal Light
@@ -215,6 +225,7 @@ Dr. Squatch
 Dr. Woods
 Drano
 Dreo
+Duck
 Duke Cannon Supply Co.
 DUNLOP
 Duracell
@@ -228,8 +239,10 @@ ECOGARD
 Eddie Bauer
 Edifier
 Ego Power+
+Einhell
 empire
 Energizer
+Engelbert Strauss
 Epson
 Estwing
 eSUN
@@ -253,6 +266,7 @@ FiiO
 FIJI
 Fila
 First Alert
+Fisher Space Pen
 Fiskars
 Fitbit
 Fluke
@@ -265,6 +279,7 @@ Fram
 FreshPet
 Freud
 Frigidaire
+FROGTAPE
 Frost King
 fruit of the loom
 Fujifilm
@@ -291,14 +306,17 @@ Goodyear
 Google
 Gorilla Grip
 Govee
+Granitestone
 Great Value
 Greater Goods
 Greenies
 GROHE
 Gum
 Hacksaw
+Haier
 Hakko
 Halberd
+Hama
 Hamilton Beach
 Hanes
 HANKOOK
@@ -310,6 +328,7 @@ Heat Storm
 Heinz
 Hengst
 HESTRA
+HexClad
 Hibbent
 Hikenture
 Hill's Prescription Diet
@@ -321,6 +340,8 @@ HOKA
 Hollow
 Honda
 Honeywell
+Hoover
+HORI
 Hotel Spa
 HP
 HTC
@@ -424,6 +445,7 @@ Lipton
 Liqui Moly
 Lisle
 Listerine
+Lodge
 Logitech
 Luber-finer
 Lululemon
@@ -438,6 +460,7 @@ MANNKITCHEN
 Marantz
 Margaritaville
 Master Lock
+Mattel
 Maui Jim
 MAXWELL HOUSE
 MAYBELLINE
@@ -447,6 +470,7 @@ MCTi
 Mead
 MEAN WELL
 Mediabridge
+Medion
 Memphis Glove
 Meraki
 Mercer Culinary
@@ -459,6 +483,7 @@ Michelin
 Microflex
 Micron
 Microsoft
+Miele
 Milwaukee
 Mio
 Miracle II
@@ -470,6 +495,7 @@ Mobil 1
 Moen
 Monoprice
 Monster Energy
+MONTBLANC
 Mopar
 Mossy Oak
 Motorcraft
@@ -478,8 +504,10 @@ Motul
 Mr. Clean
 Mr. Coffee
 Mr. Heater
+Mr. Pen
 MRS. MEYER'S CLEAN DAY
 MSI
+Mueller Austria
 MxVol
 My Weigh
 Native
@@ -526,6 +554,7 @@ O'Keeffe's
 Oakley
 Ocean Potion
 Ocean Spray
+OLIGHT
 On
 One With Nature
 OnePlus
@@ -547,6 +576,7 @@ Pampers
 Panasonic
 Panduit
 Paper Mate
+Parker
 Parodontax
 Patagonia
 Patriot Memory
@@ -572,6 +602,7 @@ Plugable
 PNY
 Polaris
 Polaroid
+PowerA
 PowerColor
 Prada
 Premium Guard
@@ -591,6 +622,7 @@ Pyle
 Quest Nutrition
 Rachael Ray
 Rachael Ray Nutrish
+Rachel Ray
 Rackstuds
 Raid
 Ralcam
@@ -612,6 +644,7 @@ Rigol
 Ring
 Rinse & Robust
 Ripple
+Rite in the Rain
 Roborock
 Rockler
 Rockville
@@ -622,6 +655,7 @@ Ryobi
 S.M.S.L
 SABRENT
 Saft
+Sakura
 Salomon
 SAMSUNG
 Sand Castle Games
@@ -634,16 +668,19 @@ Schiit
 Schwinn
 Schwinn Fitness
 Scotch
+Scotch Painter's Tape
 Scotch-Mount
 Seagate
 Seasonic
 Sennheiser Consumer Audio
 Seventh Generation
 Shark
+Sharpie
 SheaMoisture
 SHIMANO
 Shure
 Shuttle Art
+Siemens
 Siglent Technologies
 Silonn
 Simple Solution
@@ -691,22 +728,27 @@ Sunny Health & Fitness
 Supermicro
 Suunto
 Swann
+Swarovski
 Sweet Baby Ray's
 Sweet Water Decor
 SwiftGrip
 Swiss Miss
 SwitchBot
+T-fal
 Tag Heuer
 TaylorMade
 Taytools
 TCL
 Tea Tree
 TEAMGROUP
+TechniSat
 Technivorm
+Tefal
 Tekton
 Tektronics
 Tenda
 Teslong
+Teufel
 The Hillman Group
 THE NORTH FACE
 Theragun
@@ -738,11 +780,13 @@ UGREEN
 Umbro
 Under Armour
 Uni-ball
+Uniball
 Unicorn
 URBAN DECAY
 USAOPOLY
 Valvoline
 Vanicream
+Varta
 Vashe
 Vector KGM
 Velcro
@@ -757,10 +801,12 @@ Victorinox
 Vineyard Vines
 Vitamix
 Volkswagen
+Vorwerk
 VTOMAN
 Vuori
 Wahoo
 Walker's
+Waterman
 Waterpik
 Weber
 Weleda
@@ -772,6 +818,7 @@ Wera
 Western Digital
 Weston Brands
 Wet n Wild
+Whirlpool
 Whitestone
 Wiha
 Wildhorn
@@ -784,7 +831,8 @@ Wix
 WoodWick
 WORKPRO
 Wrangler Authentics
-WRITECH
+Writech
+Würth
 WÜSTHOF
 Wyler's Light
 WypAll
@@ -801,6 +849,7 @@ Yardley
 YARDLEY LONDON
 Yeti
 ZARA
+ZEBRA
 ZEISS
 Zero Friction
 Zipfizz
