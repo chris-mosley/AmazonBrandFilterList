@@ -81,6 +81,7 @@ Beck/Arnley
 Beekman
 Beko
 Belkin
+Bellroy
 Benchmade
 Beneful
 Berkey
@@ -248,6 +249,7 @@ Estwing
 eSUN
 eufy
 eufy Security
+EVEREST
 Everest Media Solutions
 everyhero
 Everyone
@@ -269,6 +271,7 @@ First Alert
 Fisher Space Pen
 Fiskars
 Fitbit
+Fjallraven
 Fluke
 Focal
 FoodSaver
@@ -327,9 +330,11 @@ HAWAIIAN PUNCH
 Heat Storm
 Heinz
 Hengst
+Herschel
 HESTRA
 HexClad
 Hibbent
+High Sierra
 Hikenture
 Hill's Prescription Diet
 Hill's Science Diet
@@ -373,6 +378,7 @@ J-B Weld
 J.R. Watkins
 Jabra
 Jackpot Candles
+JanSport
 JBL
 Jessica Simpson
 JLab
@@ -447,6 +453,7 @@ Lisle
 Listerine
 Lodge
 Logitech
+LOVEVOOK
 Luber-finer
 Lululemon
 Magbak
@@ -460,6 +467,7 @@ MANNKITCHEN
 Marantz
 Margaritaville
 Master Lock
+MATEIN
 Mattel
 Maui Jim
 MAXWELL HOUSE
@@ -563,6 +571,7 @@ Oppo
 Optimum Nutrition
 Oral-B
 Orgain
+Osprey
 OTC
 Otterbox
 Our Own Candle Company
@@ -609,6 +618,7 @@ Premium Guard
 PRIME HYDRATION
 PRIME-LINE
 Prismacolor
+ProEtrade
 Propel
 Protectli
 Psychedelic Water
@@ -733,6 +743,7 @@ Sweet Baby Ray's
 Sweet Water Decor
 SwiftGrip
 Swiss Miss
+SwissGear
 SwitchBot
 T-fal
 Tag Heuer
@@ -756,10 +767,12 @@ Thermalright
 Thermaltake
 Thermopro
 Thorne
+Thule
 Thymes
 Tide
 Tile
 Timberland
+Timbuk2
 Titebond
 Titleist
 Tom's of Maine
@@ -768,6 +781,7 @@ Topeak
 Toshiba
 Toyota
 TP-Link
+Trail maker
 Transcend
 TRENDnet
 Triple Paste
