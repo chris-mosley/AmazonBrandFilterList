@@ -129,6 +129,7 @@ Brach's
 Braun
 Brembo
 Bridgestone
+Brightown
 BRINKS
 Brita
 Brooks
@@ -157,6 +158,7 @@ Canon
 CAP Barbell
 Caress
 Carhartt
+Carlinkit
 Carnation Breakfast Essentials
 Case Logic
 CASETiFY
@@ -255,6 +257,7 @@ Dr. Woods
 Drano
 Dreo
 Dry Idea
+Dual Electronics
 Duck
 Duke Cannon Supply Co.
 DUNLOP
@@ -374,6 +377,7 @@ Hacksaw
 Haier
 Hakko
 Halberd
+Hallmark
 Hama
 Hamilton Beach
 Hanes
@@ -492,6 +496,7 @@ KREG
 KRUPS
 Kryptonite
 Kumho
+Kurt S. Adler
 Kwikset
 KYOCERA
 L'Occitane
@@ -604,6 +609,7 @@ Mossy Oak
 Motorcraft
 Motorola
 Motul
+Mr. Christmas
 Mr. Clean
 Mr. Coffee
 Mr. Heater
@@ -641,6 +647,7 @@ Noctua
 Nokia
 Nordic Naturals
 Nordic Ware
+Northlight
 NOW
 Now and Later
 Nu Calgon
@@ -671,9 +678,11 @@ Oppo
 Optimum Nutrition
 Oral-B
 Orgain
+Ornativity
 Osprey
 OTC
 Otterbox
+OTTOCAST
 Our Own Candle Company
 Oura
 Outdoor Research
@@ -897,6 +906,7 @@ Teufel
 THAYERS
 The Ginger People
 The Hillman Group
+The Lakeside Collection
 THE NORTH FACE
 Theragun
 Thermalright
@@ -954,6 +964,7 @@ Vertiv
 Vetriscience
 VEVOR
 Vgo...
+Vickerman
 Vicks
 Victorinox
 Vineyard Vines
