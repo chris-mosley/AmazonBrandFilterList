@@ -1,5 +1,8 @@
+ Nautica
+3-IN-ONE
 365 by Whole Foods Market
 3M
+4711
 4C
 7UP
 8Bitdo
@@ -13,6 +16,7 @@ Acer
 Acqua Panna
 Adata
 adidas
+adidas Originals
 Advil
 AEG
 Aeropress
@@ -20,6 +24,7 @@ Affresh
 Airheads
 Airpura
 AKG
+Akk
 Alani Nu
 alaway
 Alba Botanica
@@ -62,6 +67,7 @@ Arctix
 Arizona
 Arlo
 Arm & Hammer
+Armaf
 Arrid
 arteza
 Ascend
@@ -82,6 +88,7 @@ Australian Botanical Soap
 Aveeno
 Aveeno Baby
 AXE
+Azzaro
 Bad Birdie
 Baldwin
 Ballard Products
@@ -104,6 +111,7 @@ Beneful
 BenQ
 Berkey
 Betty Crocker
+Beverly Hills Polo Club
 beyerdynamic
 BFGoodrich
 BIC
@@ -113,6 +121,7 @@ Blink
 Blue Buffalo
 Blum
 bobs red mill
+BodiLove
 BODYARMOR
 bollé
 Bomann
@@ -150,9 +159,11 @@ Califia Farms
 Callaway
 Calphalon
 Calvin Klein
+Camay
 Cambridge Audio
 Camelbak
 Campbell Hausfeld
+CANADA WEATHER GEAR
 Candle-lite
 Canon
 CAP Barbell
@@ -160,6 +171,7 @@ Caress
 Carhartt
 Carlinkit
 Carnation Breakfast Essentials
+Carolina Herrera
 Case Logic
 CASETiFY
 Casio
@@ -184,6 +196,7 @@ CIVIVI
 Clarks
 Clatronik
 Clif Bar
+Clinique
 clorox
 Coach
 Cobra
@@ -192,6 +205,7 @@ Coleman
 colgate
 Colonial Candle
 Columbia
+Comeon
 Command
 Continental
 Cooler Master
@@ -203,7 +217,9 @@ COUNTRY TIME
 COVERGIRL
 Craft & Kin
 Craftsman
+Crate 61 Organics
 Crayola
+CRC
 Creative Mark
 Crescent
 crest
@@ -215,12 +231,14 @@ Crystal Essence
 Crystal Light
 Cuisinart
 curad
+Curve
 CUTTER & BUCK 
 CyberPower
 D-Link
 Dakine
 DALI
 Darn Tough
+DAVIDOFF
 Dawn
 DC
 De'Longhi
@@ -238,11 +256,14 @@ di Oro Living
 Diablo
 Dial
 Dickies
+Diesel
 Digilent
+Dior
 Dirt Devil
 Diurex
 Doc's Diesel
 Dockers
+Dolce & Gabbana
 Dole
 Dorman
 Dove
@@ -260,6 +281,7 @@ Dry Idea
 Dual Electronics
 Duck
 Duke Cannon Supply Co.
+Dunhill
 DUNLOP
 Duracell
 DURATECH
@@ -272,6 +294,7 @@ Eargasm
 Earth Rated
 ecobee
 ECOGARD
+ED HARDY
 Eddie Bauer
 Edifier
 Edward Tools
@@ -302,6 +325,7 @@ EZY DOSE
 Faber-Castell
 Farberware
 Febreze
+Feethit
 Fel-Pro
 Fellow
 Fenix
@@ -315,6 +339,7 @@ First Alert
 Fisher Space Pen
 Fiskars
 Fitbit
+FitVille
 Fjallraven
 Flame King
 Fluke
@@ -339,6 +364,7 @@ Garden of Life
 Gardner Bender
 Garmin
 Garnier
+Gasoila
 Gatorade
 GearIT
 GEARWRENCH
@@ -349,7 +375,9 @@ Ghirardelli
 GHome Smart
 Gigabyte
 Gillette
+GIORGIO ARMANI
 GIRO
+Givenchy
 Gizmo Dorks
 Glad
 Glade
@@ -364,7 +392,9 @@ Google
 Gorilla
 Gorilla Grip
 Govee
+GRACE KARIN
 Granitestone
+Gravity Defyer
 GREASE MONKEY
 Great Value
 Greater Goods
@@ -372,7 +402,10 @@ Greenies
 Greenworks
 Grizzly Industrial
 GROHE
+Gucci
+GUESS
 Gum
+Guy Laroche
 Hacksaw
 Haier
 Hakko
@@ -406,6 +439,8 @@ Hiltex
 Himalaya
 Hoist
 HOKA
+HOKA ONE ONE
+Hollister
 Hollow
 Honda
 Honeywell
@@ -451,16 +486,19 @@ JASON
 JBL
 Jessica Simpson
 Jet
+JIMMY CHOO
 JLab
 John Deere
 John Paul Mitchell Systems
 Johnson & Johnson
 Jolly Rancher
 Jose Cuervo
+Jovan
 JOYCA & CO.
 JSAUX
 Justrite
 K&N
+Karl Lagerfeld Paris
 Kasa Smart
 KD Supplies
 Kershaw
@@ -493,6 +531,7 @@ KP KOOL PRODUCTS
 Kraft
 Kraus
 KREG
+KROIL
 KRUPS
 Kryptonite
 Kumho
@@ -536,10 +575,13 @@ Liqui Moly
 Lisle
 Listerine
 Lite-On
+LIZ CLAIBORNE
 Loctite
 Lodge
 Logitech
+LONDON FOG
 LOVEVOOK
+LTRA
 Luber-finer
 LUCAS
 Lululemon
@@ -576,6 +618,7 @@ Megababe
 Memphis Glove
 Mentos
 Meraki
+Mercedes-Benz
 Mercer Culinary
 Merrell
 Merrick
@@ -583,6 +626,8 @@ Meta
 Metabo HPT
 Method
 MG Chemicals
+Michael Jordan
+Michel Design Works
 Michelin
 Microflex
 Micron
@@ -651,6 +696,7 @@ Northlight
 NOW
 Now and Later
 Nu Calgon
+Nubian Heritage
 Nugo
 NUTRI FIT
 NutriBullet
@@ -679,6 +725,7 @@ Optimum Nutrition
 Oral-B
 Orgain
 Ornativity
+Orolay
 Osprey
 OTC
 Otterbox
@@ -689,6 +736,7 @@ Outdoor Research
 OutdoorMaster
 OVERTURE
 OXO
+Paco Rabanne
 Palmer's
 Palmolive
 Pampers
@@ -701,7 +749,9 @@ Patagonia
 Patriot Memory
 Paudin
 Paul Mitchell
+Paul Sebastian
 PAYDAY
+PB ParfumsBelcam
 PB Swiss
 PCCOOLER
 Pedigree
@@ -729,6 +779,7 @@ PowerColor
 POWERMASTER
 Powermatic
 Prada
+Pre de Provence
 Premium Guard
 PRIME HYDRATION
 PRIME-LINE
@@ -753,6 +804,7 @@ Rachel Ray
 Rackstuds
 Raid
 Ralcam
+RASASI
 Raven Fightwear
 Rawlings
 Ray-Ban
@@ -797,6 +849,7 @@ Sand Castle Games
 Sandisk
 Sapphire Technology
 Sappo Hill
+Saucony
 SawStop
 Schick
 Schiit
@@ -806,6 +859,7 @@ Schwinn Fitness
 Scotch
 Scotch Painter's Tape
 Scotch-Mount
+SDolphin
 Seagate
 Seasonic
 Secret
@@ -866,6 +920,8 @@ Starrett
 StarTech.com
 SteelSeries
 Sterilite
+Stetson
+Steve Madden
 Stormguard
 Stur
 Suave
@@ -921,6 +977,7 @@ Timberland
 Timbuk2
 Titebond
 Titleist
+Tom Ford
 Tom's of Maine
 Tommy Hilfiger
 Tootsie Roll
@@ -967,6 +1024,7 @@ Vgo...
 Vickerman
 Vicks
 Victorinox
+Viktor & Rolf
 Vineyard Vines
 Vitamix
 Volkswagen
@@ -979,6 +1037,7 @@ Walker's
 Waterman
 Waterpik
 Wavian
+WD-40
 Weber
 WELCH ALLYN
 Weleda
@@ -994,12 +1053,14 @@ Weston Brands
 Wet n Wild
 Whirlpool
 Whitestone
+Whole Foods Market
 Wiha
 Wildhorn
 Williams
 Wilson
 Wilwood
 Wirefy
+Wiseorb
 Withings
 Wix
 Wonka
@@ -1013,6 +1074,7 @@ Wyler's Light
 WypAll
 WYZE
 X-Tronic
+Xdro Shoes
 Xerox
 XFX
 Xiaomi
@@ -1025,9 +1087,11 @@ YARDLEY LONDON
 Yeti
 YORK
 YumEarth
+YVES SAINT LAURENT
 ZARA
 ZEBRA
 ZEISS
+Zep
 Zero Friction
 Zipfizz
 Ziploc
