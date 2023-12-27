@@ -14,9 +14,11 @@ Accusize Industrial Tools
 ACDelco
 Acer
 Acqua Panna
+Adam & Eve
 Adata
 adidas
 adidas Originals
+Adiva Intimates
 Advil
 AEG
 Aeropress
@@ -34,6 +36,7 @@ Alienware
 All-Clad
 Allegra
 Almay
+Aloe Cadabra
 altoids
 Alvera
 Amazfit
@@ -50,6 +53,7 @@ AMD
 American Standard
 Anchor Hocking
 ANEX
+ANGCURE
 Anker
 Anon
 ANOVA
@@ -76,6 +80,7 @@ ASRock
 ASRock Rack
 Astro Pneumatic Tool
 Astro Tools
+Astroglide
 Asus
 Atlantic Safety Products
 ATTITUDE
@@ -158,8 +163,10 @@ Cabela's
 Cable Matters
 Cadet
 Café
+Cake
 CalDigit
 Califia Farms
+California Exotic Novelties
 Callaway
 Calphalon
 Calvin Klein
@@ -183,6 +190,7 @@ CASETiFY
 Casio
 Castrol
 Caswell-Massey
+Caution Wear
 Cellucor
 CELSIUS
 CeraVe
@@ -291,6 +299,7 @@ Dunhill
 DUNLOP
 Duracell
 DURATECH
+Durex
 DYMO
 Dyson
 e.l.f.
@@ -393,8 +402,10 @@ Gladiator
 Glorious
 Glorious PC Gaming Race
 Gloveworks
+GLYDE
 GM
 Gold BJJ
+Good Clean Love
 Goodyear
 Google
 Gorilla
@@ -465,6 +476,7 @@ HyperX
 HYUNDAI
 Iams
 iBuyPower
+ID Lubricants
 IDEAL Electrical
 IDEAL Industries
 iFixit
@@ -506,6 +518,7 @@ JOYCA & CO.
 JSAUX
 Jura
 Justrite
+K-Y
 K&N
 Karl Lagerfeld Paris
 Kasa Smart
@@ -578,6 +591,7 @@ LG
 Lian Lian
 LiCB
 Life Savers
+LifeStyles
 Lindt
 Linksys
 Linsoul
@@ -590,10 +604,13 @@ LIZ CLAIBORNE
 Loctite
 Lodge
 Logitech
+LOLA
 LONDON FOG
 LOVEVOOK
 LTRA
+LUBELAB
 Luber-finer
+LUBILICIOUS PERSONAL WATER BASED LUBRICANT
 LUCAS
 Lululemon
 Lume
@@ -619,6 +636,7 @@ Maui Jim
 MAXWELL HOUSE
 MAYBELLINE
 McCormick
+McKesson
 MCR Safety
 MCTi
 Mead
@@ -677,6 +695,7 @@ MxVol
 My Weigh
 Native
 Natural Balance
+Naturalamb
 Nature Made
 Nature's Recipe
 NavePoint
@@ -704,6 +723,7 @@ Nokia
 Nordic Naturals
 Nordic Ware
 Northlight
+NOTTY BOY
 NOW
 Now and Later
 Nu Calgon
@@ -728,6 +748,7 @@ Olay
 Old Spice
 OLIGHT
 On
+ONE Condoms
 One With Nature
 OnePlus
 Onkyo
@@ -756,6 +777,7 @@ Panduit
 Paper Mate
 Parker
 Parodontax
+Passion Lube
 Patagonia
 Patriot Memory
 Paudin
@@ -767,6 +789,7 @@ PB Swiss
 PCCOOLER
 Pedigree
 Peloton
+Penchant
 Penn Scale
 Pennzoil
 Pentel
@@ -779,6 +802,7 @@ PILOT
 PINE64
 PIONEER
 Pirelli
+pjur
 Plackers
 Plugable
 Plusivo
@@ -800,6 +824,7 @@ Procter & Gamble
 ProEtrade
 Propel
 Protectli
+PS
 Psychedelic Water
 Puma
 Pure Encapsulations
@@ -831,6 +856,7 @@ Redragon
 Reebok
 Reese's
 Refresh
+Replens
 Retrospec
 REVLON
 RICOH
@@ -847,7 +873,9 @@ ROCKET ESPRESSO MILANO
 Rockler
 Rockville
 Rolo
+ROMAN
 RotopaX
+Royal
 Royal Canin
 Royal Purple
 Rubbermaid
@@ -862,6 +890,7 @@ SAMSUNG
 Sand Castle Games
 Sandisk
 Sapphire Technology
+Sappho from lesbos
 Sappo Hill
 Saucony
 SawStop
@@ -899,7 +928,10 @@ Skechers
 Skil
 Skittles
 Skullcandy
+SKYN
 SlimFast
+Slippery Stuff
+Sliquid
 Smart Weigh
 Smartwool
 Smeg
@@ -958,8 +990,10 @@ Sweet Water Decor
 SweeTARTS
 SwiftGrip
 Swiss Miss
+SWISS NAVY
 SwissGear
 SwitchBot
+System Jo
 T-fal
 Tag Heuer
 Targus
@@ -1009,12 +1043,14 @@ Transcend
 TRENDnet
 Triple Paste
 Tripp Lite
+TROJAN
 Trolli
 True Citrus
 Tweezerman
 Twix
 Twizzlers
 Tylenol
+Uberlube
 Ubiquiti
 UGREEN
 UltraPro
@@ -1024,9 +1060,11 @@ Uni-ball
 Uniball
 Unicorn
 URBAN DECAY
+USA
 USAOPOLY
 Valvoline
 Vanicream
+Vanish
 Varta
 Vaseline
 Vashe
@@ -1070,6 +1108,7 @@ Western Digital
 Westinghouse
 Westinghouse Outdoor Power Equipment
 Weston Brands
+Wet
 Wet n Wild
 Whirlpool
 Whitestone
@@ -1097,6 +1136,7 @@ WYZE
 X-Tronic
 Xdro Shoes
 Xerox
+XESSO
 XFX
 Xiaomi
 XPEL
@@ -1115,6 +1155,7 @@ ZEBRA
 ZEISS
 Zep
 Zero Friction
+ZIOXX
 Zipfizz
 Ziploc
 Zojirushi
