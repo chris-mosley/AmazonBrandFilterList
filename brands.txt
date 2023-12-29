@@ -1,4 +1,3 @@
- Nautica
 3-IN-ONE
 365 by Whole Foods Market
 3M
@@ -152,6 +151,8 @@ Brita
 Brooks
 Brother
 Bruno Marc
+Buddy Biscuits
+Buddy Wash
 bumble
 Burt's Bees
 Burton
@@ -234,6 +235,7 @@ Craftsman
 Crate 61 Organics
 Crayola
 CRC
+Creative
 Creative Mark
 Crescent
 crest
@@ -246,7 +248,7 @@ Crystal Light
 Cuisinart
 curad
 Curve
-CUTTER & BUCK 
+CUTTER & BUCK
 CyberPower
 D-Link
 Dakine
@@ -321,6 +323,7 @@ Energizer
 Engelbert Strauss
 EO
 Epson
+Equate
 Estwing
 eSUN
 Etekcity
@@ -442,7 +445,9 @@ HAWAIIAN PUNCH
 Heat Storm
 Heinz
 hello
+Hello Bello
 Hengst
+Herbal Essences
 Herschel
 HERSHEY'S
 HESTRA
@@ -518,8 +523,8 @@ JOYCA & CO.
 JSAUX
 Jura
 Justrite
-K-Y
 K&N
+K-Y
 Karl Lagerfeld Paris
 Kasa Smart
 KD Supplies
@@ -698,6 +703,7 @@ Natural Balance
 Naturalamb
 Nature Made
 Nature's Recipe
+Nautica
 NavePoint
 Neiko
 Nespresso
@@ -867,6 +873,7 @@ Ring Pop
 Rinse & Robust
 Ripple
 Rite in the Rain
+Robitussin
 Roborock
 ROCCAT
 ROCKET ESPRESSO MILANO
@@ -880,8 +887,8 @@ Royal Canin
 Royal Purple
 Rubbermaid
 Ryobi
-S.M.S.L
 S&F STEAD & FAST
+S.M.S.L
 SABRENT
 Saft
 Sakura
@@ -1004,6 +1011,8 @@ Tea Tree
 TEAMGROUP
 TechniSat
 Technivorm
+Tecnu
+Tecnu Extreme
 Tefal
 Tekton
 Tektronics
@@ -1128,11 +1137,11 @@ WoodWick
 WORKPRO
 Wrangler Authentics
 Writech
-Würth
-WÜSTHOF
 Wyler's Light
 WypAll
 WYZE
+Würth
+WÜSTHOF
 X-Tronic
 Xdro Shoes
 Xerox
