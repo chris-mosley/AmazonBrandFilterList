@@ -613,6 +613,7 @@ LOLA
 LONDON FOG
 LOVEVOOK
 LTRA
+LU
 LUBELAB
 Luber-finer
 LUBILICIOUS PERSONAL WATER BASED LUBRICANT
@@ -815,6 +816,7 @@ Plusivo
 PNY
 Polaris
 Polaroid
+Porsche
 PowerA
 PowerColor
 POWERMASTER
@@ -901,6 +903,7 @@ Sappho from lesbos
 Sappo Hill
 Saucony
 SawStop
+Scalextric
 Schick
 Schiit
 Schmidt's
@@ -1049,6 +1052,7 @@ Toyota
 TP-Link
 Trail maker
 Transcend
+Traxxas
 TRENDnet
 Triple Paste
 Tripp Lite
