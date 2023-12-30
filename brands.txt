@@ -108,6 +108,7 @@ be quiet!
 Beats
 Beck/Arnley
 Beekman
+Behringer
 Beko
 Belkin
 Bellroy
@@ -622,6 +623,7 @@ Lululemon
 Lume
 Lutron
 M&M'S
+Mackie
 Magbak
 Magpul
 MAHLE
@@ -881,6 +883,7 @@ ROCCAT
 ROCKET ESPRESSO MILANO
 Rockler
 Rockville
+Rode
 Rolo
 ROMAN
 RotopaX
@@ -1045,6 +1048,7 @@ Titleist
 Tom Ford
 Tom's of Maine
 Tommy Hilfiger
+TONOR
 Tootsie Roll
 Topeak
 Toshiba
