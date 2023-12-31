@@ -524,8 +524,8 @@ JOYCA & CO.
 JSAUX
 Jura
 Justrite
-K&N
 K-Y
+K&N
 Karl Lagerfeld Paris
 Kasa Smart
 KD Supplies
@@ -892,8 +892,8 @@ Royal Canin
 Royal Purple
 Rubbermaid
 Ryobi
-S&F STEAD & FAST
 S.M.S.L
+S&F STEAD & FAST
 SABRENT
 Saft
 Sakura
@@ -1032,6 +1032,7 @@ The Hillman Group
 The Lakeside Collection
 THE NORTH FACE
 Theragun
+Thermajohn
 Thermalright
 Thermaltake
 Thermopro
@@ -1145,11 +1146,11 @@ WoodWick
 WORKPRO
 Wrangler Authentics
 Writech
+Würth
+WÜSTHOF
 Wyler's Light
 WypAll
 WYZE
-Würth
-WÜSTHOF
 X-Tronic
 Xdro Shoes
 Xerox
