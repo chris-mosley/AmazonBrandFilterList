@@ -24,6 +24,7 @@ Aeropress
 Affresh
 Airheads
 Airpura
+AJC
 AKG
 Akk
 Alani Nu
@@ -60,6 +61,7 @@ Ansmann
 Antarctic Star
 Antec
 Antigravity Batteries
+APC
 Apex
 Apple
 apple & eve
@@ -146,6 +148,7 @@ Braun
 Brembo
 Breville
 Bridgestone
+Bright Way Group
 Brightown
 BRINKS
 Brita
@@ -388,6 +391,7 @@ Gasoila
 Gatorade
 GearIT
 GEARWRENCH
+Geekworm
 GERBER
 GERmanikure
 Gevi
@@ -596,10 +600,12 @@ LEXUS
 LG
 Lian Lian
 LiCB
+Liebert
 Life Savers
 LifeStyles
 Lindt
 Linksys
+LINOVISION
 Linsoul
 Lipton
 Liqui Moly
@@ -671,6 +677,7 @@ Micron
 Microsoft
 Midwest Can
 Miele
+Mighty Max Battery
 Milfra
 Milwaukee
 Mio
@@ -735,6 +742,7 @@ Northlight
 NOTTY BOY
 NOW
 Now and Later
+NPP
 Nu Calgon
 Nubian Heritage
 Nugo
@@ -753,6 +761,7 @@ Oakley
 Oars + Alps
 Ocean Potion
 Ocean Spray
+OGIO
 Olay
 Old Spice
 OLIGHT
@@ -910,6 +919,7 @@ Scalextric
 Schick
 Schiit
 Schmidt's
+Schneider Electric
 Schwinn
 Schwinn Fitness
 Scotch
@@ -930,6 +940,7 @@ Shure
 Shuttle Art
 Siemens
 Siglent Technologies
+SigmasTek
 Silonn
 Simple Solution
 SimpliSafe
@@ -992,6 +1003,7 @@ Sunbeam
 Sunex
 SUNLU
 Sunny Health & Fitness
+SUPERDANNY
 Supermicro
 Sure
 Surecan
@@ -1009,6 +1021,7 @@ SwitchBot
 System Jo
 T-fal
 Tag Heuer
+Talentcell
 Targus
 TaylorMade
 Taytools
@@ -1077,6 +1090,7 @@ Under Armour
 Uni-ball
 Uniball
 Unicorn
+UPS Battery Center
 URBAN DECAY
 USA
 USAOPOLY
@@ -1133,6 +1147,7 @@ Whitestone
 Whole Foods Market
 Wiha
 Wildhorn
+WildHorn Outfitters
 Williams
 Wilson
 Wilwood
