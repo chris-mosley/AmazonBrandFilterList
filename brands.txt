@@ -1,6 +1,7 @@
 3-IN-ONE
 303 Products
 365 by Whole Foods Market
+365 Everyday Value
 3D
 3M
 4711
@@ -55,6 +56,7 @@ Amazon.com
 Ambi
 AMD
 American Standard
+Amoretti
 Anchor Hocking
 ands
 ANEX
@@ -140,6 +142,7 @@ BIC
 Bickmore
 Big Cock Ranch
 Big Train
+Bigelow Tea
 BLACK+DECKER
 Blink
 Blue Buffalo
@@ -151,6 +154,7 @@ Bodyprox
 bollé
 Bomann
 Boncare
+Bonne Maman
 BOSCH
 Bosch Automotive
 Bosche
@@ -226,6 +230,8 @@ Chapman
 Chef Craft
 chemical guys
 Chesapeake Bay Candle
+Chobani
+Chocolove
 Chrysler
 Cisco
 Citizen
@@ -268,6 +274,7 @@ crest
 Cricut
 Crock-Pot
 Crocs
+Crofters
 Cross
 Crucial
 Crush
@@ -352,6 +359,7 @@ Edward Tools
 Ego Power+
 Einhell
 Elmer's
+Emergen-C
 empire
 Enbrighten
 Energizer
@@ -537,6 +545,7 @@ HyperX
 HYUNDAI
 Iams
 iBuyPower
+Ice Breakers
 ID Lubricants
 IDEAL Electrical
 IDEAL Industries
@@ -567,6 +576,7 @@ Jackpot Candles
 JanSport
 JASON
 JBL
+Jell-O
 Jessica Simpson
 Jet
 JIMMY CHOO
@@ -580,6 +590,7 @@ Jovan
 JOYCA & CO.
 JSAUX
 June Moon Spice Company
+Jungle Powders
 Jura
 Justrite
 K-Y
@@ -699,6 +710,7 @@ Manhattan
 Mann Filter
 Mann-Filter
 MANNKITCHEN
+Maple Grove Farms
 Marantz
 Margaritaville
 Mars
@@ -767,6 +779,7 @@ Mossy Oak
 Motorcraft
 Motorola
 Motul
+Mountain Fruit Co.
 Mr. Christmas
 Mr. Clean
 Mr. Coffee
@@ -782,9 +795,11 @@ Native
 Natural Balance
 Naturalamb
 Nature Made
+Nature's Bakery
 Nature's Recipe
 Nautica
 NavePoint
+Navitas Organics
 Neiko
 Nespresso
 Nesquik
@@ -807,6 +822,7 @@ No7
 NOCO
 Noctua
 Nokia
+Noosa
 Nordic Naturals
 Nordic Ware
 Northlight
@@ -822,6 +838,7 @@ NUTRI FIT
 NutriBullet
 NutriChef
 NutriSource
+Nutristore
 Nutro
 Nuwave
 NVIDIA
@@ -912,6 +929,7 @@ Plusivo
 PNY
 Polaris
 Polaroid
+poppi
 Porsche
 PowerA
 PowerColor
@@ -934,6 +952,7 @@ PS
 Psychedelic Water
 Puma
 Pure Encapsulations
+Pure Leaf
 Purell
 Purina
 Purina ONE
@@ -974,6 +993,7 @@ Ring Pop
 Rinse & Robust
 Ripple
 Rite in the Rain
+RJ's Licorice
 Robitussin
 Roborock
 ROCCAT
@@ -998,6 +1018,7 @@ Salomon
 SAMSUNG
 Sand Castle Games
 Sandisk
+Santa Cruz ORGANIC
 Sapphire Technology
 Sappho from lesbos
 Sappo Hill
@@ -1031,10 +1052,12 @@ SHIMANO
 Shure
 Shuttle Art
 Siemens
+siggi's
 Siglent Technologies
 SigmasTek
 Silonn
 Simple Green
+Simple Mills
 Simple Solution
 SimpliSafe
 SIMPLY
@@ -1057,6 +1080,7 @@ Smeg
 Smith
 Smith & Nephew
 Smith & Wesson
+Smucker's
 Snickers
 Soapbox
 sodastream
@@ -1070,6 +1094,7 @@ Sony
 Soundcore
 Sour Patch Kids
 Southwire
+Sparkling ICE
 SparkPod
 Speakman
 SPECIALIZED
@@ -1086,6 +1111,7 @@ Spigen
 SPLENDA
 SPTA
 Spyder
+St. Dalfour
 St. Ives
 STAEDTLER
 Standard Motor Products
@@ -1101,9 +1127,11 @@ Sterilite
 Stetson
 Steve Madden
 Stormguard
+Stretch Island
 Stur
 Suave
 Subaru
+Suja
 Sunbeam
 Sunex
 SUNLU
@@ -1132,6 +1160,7 @@ System Jo
 T-fal
 Tag Heuer
 Talentcell
+talenti
 Targus
 TaylorMade
 Taytools
@@ -1163,6 +1192,7 @@ Thermalright
 Thermaltake
 Thermopro
 Thorne
+Thousand Lakes
 Thule
 Thymes
 Tide
@@ -1178,9 +1208,11 @@ Tommy Hilfiger
 TONOR
 Tootsie Roll
 Topeak
+Torani
 Toshiba
 Toyota
 TP-Link
+Traditional Medicinals
 Traeger
 Trail maker
 Transcend
@@ -1310,6 +1342,7 @@ ZEBRA
 ZEISS
 Zep
 Zero Friction
+Zevia
 ZIOXX
 Zipfizz
 Ziploc
