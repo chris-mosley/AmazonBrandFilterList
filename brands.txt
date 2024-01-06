@@ -350,6 +350,7 @@ Edifier
 Edward Tools
 Ego Power+
 Einhell
+Elmer's
 empire
 Enbrighten
 Energizer
@@ -373,6 +374,7 @@ everyhero
 Everyone
 EVGA
 Evolution
+Excel Blades
 EZ-POUR
 EZ-Sweetz
 EZY DOSE
@@ -811,6 +813,7 @@ NOTTY BOY
 NOW
 Now and Later
 NPP
+NT Cutter
 Nu Calgon
 Nubian Heritage
 Nugo
@@ -836,6 +839,7 @@ OGIO
 Olay
 Old Bay
 Old Spice
+OLFA
 OLIGHT
 On
 One Ball
@@ -1042,6 +1046,7 @@ Skil
 Skittles
 Skullcandy
 SKYN
+Slice
 SlimFast
 Slippery Stuff
 Sliquid
@@ -1232,6 +1237,7 @@ Vorwerk
 VP Racing
 VTOMAN
 Vuori
+VViViD
 WACACO
 Wahoo
 Walker's
@@ -1280,6 +1286,7 @@ WÜSTHOF
 Wyler's Light
 WypAll
 WYZE
+X-Acto
 X-Tronic
 Xdro Shoes
 Xerox
