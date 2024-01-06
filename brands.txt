@@ -50,11 +50,13 @@ Amazon Basics
 Amazon Echo
 Amazon Essentials
 Amazon Fire
+Amazon Fresh
 Amazon.com
 Ambi
 AMD
 American Standard
 Anchor Hocking
+ands
 ANEX
 ANGCURE
 Anker
@@ -79,6 +81,7 @@ Arlo
 Arm & Hammer
 Armaf
 Armor All
+Aroma Housewares
 Arrid
 arteza
 Ascend
@@ -104,10 +107,12 @@ Aveeno Baby
 AXE
 Azzaro
 Bad Birdie
+Badia
 Baldwin
 Ballard Products
 band-aid
 Bang & Olufsen
+Bar Keepers Friend
 Baratza
 Barbie
 bareMinerals
@@ -132,6 +137,8 @@ beyerdynamic
 BFGoodrich
 Bialetti
 BIC
+Bickmore
+Big Cock Ranch
 Big Train
 BLACK+DECKER
 Blink
@@ -167,6 +174,7 @@ Bruno Marc
 Buddy Biscuits
 Buddy Wash
 bumble
+Burlap & Barrel
 Burt's Bees
 Burton
 Bushnell
@@ -199,6 +207,7 @@ Carlinkit
 Carnation Breakfast Essentials
 Carolina Herrera
 Casabrews
+Cascade
 Case Logic
 CASETiFY
 Casio
@@ -225,15 +234,19 @@ Clarks
 Clatronik
 Clif Bar
 Clinique
+Cloralen
 clorox
+CloroxPro
 Coach
 Cobra
+Coghlan's
 Cole & Mason
 Coleman
 colgate
 Colonial Candle
 Columbia
 Comeon
+Comet
 Command
 Continental
 Cooler Master
@@ -252,6 +265,7 @@ Creative
 Creative Mark
 Crescent
 crest
+Crock-Pot
 Crocs
 Cross
 Crucial
@@ -266,21 +280,26 @@ CyberPower
 D-Link
 Dakine
 DALI
+Dan-O's
 Darn Tough
 DAVIDOFF
 Dawn
 DC
 De'Longhi
+Dean Jacob's
 DeepCool
 Deer Valley
 Degree
 Degree Men
+DeLallo
 Dell
 Delphi
 DELTA FAUCET
 Denon
 Denso
 DEPSTECH
+Detail Dudes
+Detail Factory
 DeWalt
 di Oro Living
 Diablo
@@ -346,6 +365,7 @@ Ethos Handcrafted Car Care
 Eucerin
 eufy
 eufy Security
+Eurow
 EVEREST
 Everest Media Solutions
 Every Man Jack
@@ -357,6 +377,8 @@ EZ-POUR
 EZ-Sweetz
 EZY DOSE
 Faber-Castell
+Fabuloso
+Fantastik
 Farberware
 Febreze
 Feethit
@@ -372,23 +394,29 @@ Fila
 First Alert
 Fisher Space Pen
 Fiskars
+Fissler
 Fitbit
 FitVille
 Fjallraven
 Flame King
+Flatiron Spice
 Fluke
 Focal
 FoodSaver
 Ford
+Formula 409
 Fosi Audio
 Fossil
 Fowler
+Fox Trot
 Fram
+FreshJax
 FreshPet
 Freud
 Frida Baby
 Frigidaire
 FROGTAPE
+Frontier Co-op
 Frost King
 fruit of the loom
 Fujifilm
@@ -419,6 +447,7 @@ Gizmo Dorks
 Glad
 Glade
 Gladiator
+Glisten
 Glorious
 Glorious PC Gaming Race
 Gloveworks
@@ -445,6 +474,7 @@ GROHE
 Gucci
 GUESS
 Gum
+Gustus Vitae
 Guy Laroche
 Hacksaw
 Haier
@@ -456,11 +486,14 @@ Hamilton Beach
 Hanes
 HANKOOK
 Hantek
+Happy Belly
 Harbinger
 Haribo
 Harman Kardon
+Harney & Sons
 HAWAIIAN PUNCH
 Heat Storm
+Hefty
 Heinz
 hello
 Hello Bello
@@ -482,6 +515,7 @@ Himalaya
 Hoist
 HOKA
 HOKA ONE ONE
+Holikme
 Hollister
 Hollow
 Honda
@@ -510,6 +544,7 @@ Indigo Wild
 Ingersoll Rand
 Inland
 Insta360
+Instant Pot
 Intel
 Intellinet
 iProven
@@ -518,6 +553,7 @@ Irish Spring
 iRobot
 IRWIN
 Isopure
+iSpice
 Ivory
 IVY Classic
 IWISS
@@ -540,11 +576,13 @@ Jose Cuervo
 Jovan
 JOYCA & CO.
 JSAUX
+June Moon Spice Company
 Jura
 Justrite
 K-Y
 K&N
 K2
+Kamenstein
 Karl Lagerfeld Paris
 Kasa Smart
 KD Supplies
@@ -593,11 +631,14 @@ Lady Speed Stick
 Laffy Taffy
 Lancôme
 Land Rover
+LANON Protection
 Lasko
 LAURA GELLER NEW YORK
 Lavazza
+Lawry's
 LD Products
 Le Creuset
+Leather Honey
 Leatherman
 LeCroy
 Lego
@@ -611,6 +652,7 @@ Leviton
 Lexar
 Lexivon
 Lexmark
+Lexol
 LEXUS
 LG
 Lian Lian
@@ -643,6 +685,7 @@ LUCAS
 Lululemon
 Lume
 Lutron
+Lysol
 M&M'S
 Mackie
 Magbak
@@ -665,14 +708,19 @@ Maui Jim
 MAXWELL HOUSE
 MAYBELLINE
 McCormick
+McCormick Culinary
+McCormick Gourmet
+McCormick Grill Mates
 McKesson
 MCR Safety
 MCTi
 Mead
 MEAN WELL
+MED PRIDE
 Mediabridge
 Medion
 Megababe
+Megachef
 Meguiar's
 Memphis Glove
 Mentos
@@ -710,6 +758,8 @@ Monoprice
 Monster Energy
 MONTBLANC
 Mopar
+Morton
+Morton & Bassett
 Mossy Oak
 Motorcraft
 Motorola
@@ -719,6 +769,7 @@ Mr. Clean
 Mr. Coffee
 Mr. Heater
 Mr. Pen
+MR.SIGA
 MRS. MEYER'S CLEAN DAY
 MSI
 Mueller Austria
@@ -737,6 +788,7 @@ Nesquik
 NETGEAR
 Neutrogena
 New Balance
+New brothread
 Newair
 NewYork Cables
 NGK
@@ -767,18 +819,22 @@ NutriBullet
 NutriChef
 NutriSource
 Nutro
+Nuwave
 NVIDIA
 Nylabone
 NYX PROFESSIONAL MAKEUP
 NZXT
 O Naturals
+O-Cedar
 O'Keeffe's
 Oakley
 Oars + Alps
 Ocean Potion
 Ocean Spray
+OdoBan
 OGIO
 Olay
+Old Bay
 Old Spice
 OLIGHT
 On
@@ -803,7 +859,11 @@ Oura
 Outdoor Research
 OutdoorMaster
 OVERTURE
+OxiClean
 OXO
+P & S PROFESSIONAL DETAIL PRODUCTS
+P&G PROFESSIONAL
+P&S Detail Products
 Paco Rabanne
 Palmer's
 Palmolive
@@ -824,6 +884,7 @@ PB ParfumsBelcam
 PB Swiss
 PCCOOLER
 Pedigree
+Peet's Coffee
 Peloton
 Penchant
 Penn Scale
@@ -840,6 +901,7 @@ PIONEER
 Pirelli
 pjur
 Plackers
+Pledge
 Plugable
 Plusivo
 PNY
@@ -853,12 +915,14 @@ Powermatic
 Prada
 Pre de Provence
 Premium Guard
+Presto
 PRIME HYDRATION
 PRIME-LINE
 Primula
 Prismacolor
 Procter & Gamble
 ProEtrade
+PROJE'
 Propel
 Protectli
 PS
@@ -871,6 +935,7 @@ Purina ONE
 Purina Pro Plan
 Push Pop
 Pyle
+Qaestfy
 Quest Nutrition
 Rachael Ray
 Rachael Ray Nutrish
@@ -933,6 +998,7 @@ Sappho from lesbos
 Sappo Hill
 Saucony
 SawStop
+SC Johnson
 Scalextric
 Schick
 Schiit
@@ -942,7 +1008,10 @@ Schwinn
 Schwinn Fitness
 Scotch
 Scotch Painter's Tape
+Scotch-Brite
 Scotch-Mount
+Scrub Daddy
+Scrubbing Bubbles
 SDolphin
 Seagate
 Seasonic
@@ -960,9 +1029,11 @@ Siemens
 Siglent Technologies
 SigmasTek
 Silonn
+Simple Green
 Simple Solution
 SimpliSafe
 SIMPLY
+Simply Organic
 Singer
 SINGLES TO GO!
 SK Hynix
@@ -983,6 +1054,8 @@ Smith & Wesson
 Snickers
 Soapbox
 sodastream
+Soeos
+Soft Scrub
 Softsoap
 Solaris
 Solidigm
@@ -997,6 +1070,12 @@ SPECIALIZED
 Speck
 Speed Stick
 Sperry
+Spic And Span
+Spice Classics
+Spice Hunter
+Spice Islands
+SPICE TRAIN
+Spiceology
 Spigen
 SPLENDA
 SPTA
@@ -1007,6 +1086,7 @@ Standard Motor Products
 Stanley
 Starbucks
 Starburst
+Stardrops
 Starling Games
 Starrett
 StarTech.com
@@ -1023,7 +1103,9 @@ Sunex
 SUNLU
 Sunny Health & Fitness
 SUPERDANNY
+Superior Threads
 Supermicro
+SupplyTiger
 Sure
 Surecan
 Suunto
@@ -1032,6 +1114,7 @@ Swarovski
 Sweet Baby Ray's
 Sweet Water Decor
 SweeTARTS
+Swiffer
 Swift Auto Care
 SwiftGrip
 Swiss Miss
@@ -1067,6 +1150,7 @@ The Hillman Group
 The Lakeside Collection
 THE NORTH FACE
 The Rag Company
+The Spice Lab
 Theragun
 Thermajohn
 Thermalright
@@ -1091,6 +1175,7 @@ Topeak
 Toshiba
 Toyota
 TP-Link
+Traeger
 Trail maker
 Transcend
 Traxxas
@@ -1104,6 +1189,7 @@ Tweezerman
 Twix
 Twizzlers
 Tylenol
+U.S. Art Supply
 Uberlube
 Ubiquiti
 UGREEN
@@ -1117,6 +1203,7 @@ UPS Battery Center
 URBAN DECAY
 USA
 USAOPOLY
+VAHDAM
 Valvoline
 Vanicream
 Vanish
@@ -1150,9 +1237,11 @@ Wahoo
 Walker's
 Waterman
 Waterpik
+Watkins
 Wavian
 WD-40
 Weber
+Weiman
 WELCH ALLYN
 Weleda
 Weller
@@ -1175,6 +1264,7 @@ WildHorn Outfitters
 Williams
 Wilson
 Wilwood
+Windex
 Wirefy
 wirsh
 Wiseorb
