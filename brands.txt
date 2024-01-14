@@ -1,6 +1,7 @@
 3-IN-ONE
 303 Products
 365 by Whole Foods Market
+365 Everyday Value
 3D
 3M
 4711
@@ -56,6 +57,7 @@ AmazonCommercial
 Ambi
 AMD
 American Standard
+Amoretti
 Anchor Hocking
 ands
 ANEX
@@ -142,6 +144,7 @@ BIC
 Bickmore
 Big Cock Ranch
 Big Train
+Bigelow Tea
 Black Wolf
 BLACK+DECKER
 Blink
@@ -154,6 +157,7 @@ Bodyprox
 bollé
 Bomann
 Boncare
+Bonne Maman
 BOSCH
 Bosch Automotive
 Bosche
@@ -230,6 +234,8 @@ Chapman
 Chef Craft
 chemical guys
 Chesapeake Bay Candle
+Chobani
+Chocolove
 Chrysler
 Cisco
 Citizen
@@ -270,8 +276,10 @@ Creative
 Creative Mark
 Crescent
 crest
+Cricut
 Crock-Pot
 Crocs
+Crofters
 Cross
 Crucial
 Crush
@@ -358,6 +366,8 @@ Edifier
 Edward Tools
 Ego Power+
 Einhell
+Elmer's
+Emergen-C
 Elite Gourmet
 Empava
 empire
@@ -383,6 +393,7 @@ everyhero
 Everyone
 EVGA
 Evolution
+Excel Blades
 EZ-POUR
 EZ-Sweetz
 EZY DOSE
@@ -551,6 +562,7 @@ HyperX
 HYUNDAI
 Iams
 iBuyPower
+Ice Breakers
 ID Lubricants
 IDEAL Electrical
 IDEAL Industries
@@ -582,6 +594,7 @@ Jackpot Candles
 JanSport
 JASON
 JBL
+Jell-O
 Jessica Simpson
 Jet
 JIMMY CHOO
@@ -596,6 +609,7 @@ Jovan
 JOYCA & CO.
 JSAUX
 June Moon Spice Company
+Jungle Powders
 Jura
 Justrite
 K-Y
@@ -716,6 +730,7 @@ Manhattan
 Mann Filter
 Mann-Filter
 MANNKITCHEN
+Maple Grove Farms
 Marantz
 Margaritaville
 Mars
@@ -785,6 +800,7 @@ Mossy Oak
 Motorcraft
 Motorola
 Motul
+Mountain Fruit Co.
 Mr. Christmas
 Mr. Clean
 Mr. Coffee
@@ -800,9 +816,11 @@ Native
 Natural Balance
 Naturalamb
 Nature Made
+Nature's Bakery
 Nature's Recipe
 Nautica
 NavePoint
+Navitas Organics
 Neiko
 Nespresso
 Nesquik
@@ -825,6 +843,7 @@ No7
 NOCO
 Noctua
 Nokia
+Noosa
 Nordic Naturals
 Nordic Ware
 Northlight
@@ -833,6 +852,7 @@ NOTTY BOY
 NOW
 Now and Later
 NPP
+NT Cutter
 Nu Calgon
 Nubian Heritage
 Nugo
@@ -840,6 +860,7 @@ NUTRI FIT
 NutriBullet
 NutriChef
 NutriSource
+Nutristore
 Nutro
 Nuwave
 NVIDIA
@@ -858,6 +879,7 @@ OGIO
 Olay
 Old Bay
 Old Spice
+OLFA
 OLIGHT
 On
 One Ball
@@ -930,6 +952,7 @@ Plusivo
 PNY
 Polaris
 Polaroid
+poppi
 Porsche
 PowerA
 PowerColor
@@ -954,6 +977,7 @@ PS
 Psychedelic Water
 Puma
 Pure Encapsulations
+Pure Leaf
 Purell
 Purina
 Purina ONE
@@ -995,6 +1019,7 @@ Ring Pop
 Rinse & Robust
 Ripple
 Rite in the Rain
+RJ's Licorice
 Robitussin
 Roborock
 ROCCAT
@@ -1019,6 +1044,7 @@ Salomon
 SAMSUNG
 Sand Castle Games
 Sandisk
+Santa Cruz ORGANIC
 Sapphire Technology
 Sappho from lesbos
 Sappo Hill
@@ -1055,10 +1081,12 @@ SHIMANO
 Shure
 Shuttle Art
 Siemens
+siggi's
 Siglent Technologies
 SigmasTek
 Silonn
 Simple Green
+Simple Mills
 Simple Solution
 SimpliSafe
 SIMPLY
@@ -1071,6 +1099,7 @@ Skil
 Skittles
 Skullcandy
 SKYN
+Slice
 SlimFast
 Slippery Stuff
 Sliquid
@@ -1080,6 +1109,7 @@ Smeg
 Smith
 Smith & Nephew
 Smith & Wesson
+Smucker's
 Snickers
 Soapbox
 sodastream
@@ -1093,6 +1123,7 @@ Sony
 Soundcore
 Sour Patch Kids
 Southwire
+Sparkling ICE
 SparkPod
 Speakman
 SPECIALIZED
@@ -1110,6 +1141,7 @@ SPLENDA
 SPTA
 SPY
 Spyder
+St. Dalfour
 St. Ives
 STAEDTLER
 Standard Motor Products
@@ -1125,9 +1157,11 @@ Sterilite
 Stetson
 Steve Madden
 Stormguard
+Stretch Island
 Stur
 Suave
 Subaru
+Suja
 Sunbeam
 Sunex
 SUNLU
@@ -1157,6 +1191,7 @@ System Jo
 T-fal
 Tag Heuer
 Talentcell
+talenti
 Targus
 TaylorMade
 Taytools
@@ -1188,6 +1223,7 @@ Thermalright
 Thermaltake
 Thermopro
 Thorne
+Thousand Lakes
 Thule
 Thymes
 Tide
@@ -1203,9 +1239,11 @@ Tommy Hilfiger
 TONOR
 Tootsie Roll
 Topeak
+Torani
 Toshiba
 Toyota
 TP-Link
+Traditional Medicinals
 Traeger
 Trail maker
 Transcend
@@ -1265,6 +1303,7 @@ Vorwerk
 VP Racing
 VTOMAN
 Vuori
+VViViD
 WACACO
 Wahoo
 Walker's
@@ -1316,6 +1355,7 @@ WÜSTHOF
 Wyler's Light
 WypAll
 WYZE
+X-Acto
 X-Tronic
 Xdro Shoes
 Xerox
@@ -1339,6 +1379,7 @@ ZEBRA
 ZEISS
 Zep
 Zero Friction
+Zevia
 ZIOXX
 Zipfizz
 Ziploc
