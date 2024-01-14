@@ -52,6 +52,7 @@ Amazon Essentials
 Amazon Fire
 Amazon Fresh
 Amazon.com
+AmazonCommercial
 Ambi
 AMD
 American Standard
@@ -106,6 +107,7 @@ Aveeno
 Aveeno Baby
 AXE
 Azzaro
+Babish
 Bad Birdie
 Badia
 Baldwin
@@ -140,6 +142,7 @@ BIC
 Bickmore
 Big Cock Ranch
 Big Train
+Black Wolf
 BLACK+DECKER
 Blink
 Blue Buffalo
@@ -221,6 +224,7 @@ Certain Dri
 Cesar
 Cetaphil
 Champion
+Champion Chamois
 Channellock
 Chapman
 Chef Craft
@@ -253,6 +257,7 @@ Cooler Master
 Cooper
 Copper Fit
 Corsair
+COSORI
 Costa Del Mar
 COUNTRY TIME
 COVERGIRL
@@ -282,6 +287,7 @@ Dakine
 DALI
 Dan-O's
 Darn Tough
+DASH
 DAVIDOFF
 Dawn
 DC
@@ -329,6 +335,8 @@ Dreo
 Dry Idea
 Dual Electronics
 Duck
+Duke
+Duke Cannon
 Duke Cannon Supply Co.
 Dunhill
 DUNLOP
@@ -350,6 +358,8 @@ Edifier
 Edward Tools
 Ego Power+
 Einhell
+Elite Gourmet
+Empava
 empire
 Enbrighten
 Energizer
@@ -423,12 +433,15 @@ Fujifilm
 Funko
 g.skill
 Gaggia
+Galanz
 Garden of Life
 Gardner Bender
 Garmin
 Garnier
 Gasoila
 Gatorade
+GE
+GE PROFILE
 GearIT
 GEARWRENCH
 Geekworm
@@ -455,13 +468,16 @@ GLYDE
 GM
 Gold BJJ
 Good Clean Love
+GoodCook
 Goodyear
 Google
 Gorilla
 Gorilla Grip
+Gourmia
 Govee
 GRACE KARIN
 Granitestone
+Grave Before Shave
 Gravity Defyer
 GREASE MONKEY
 Great Value
@@ -519,6 +535,7 @@ Holikme
 Hollister
 Hollow
 Honda
+Honest Amish
 Honeywell
 Hoover
 HORI
@@ -544,6 +561,7 @@ Indigo Wild
 Ingersoll Rand
 Inland
 Insta360
+Instant
 Instant Pot
 Intel
 Intellinet
@@ -573,6 +591,7 @@ John Paul Mitchell Systems
 Johnson & Johnson
 Jolly Rancher
 Jose Cuervo
+Joseph Joseph
 Jovan
 JOYCA & CO.
 JSAUX
@@ -586,6 +605,7 @@ Kamenstein
 Karl Lagerfeld Paris
 Kasa Smart
 KD Supplies
+Kenmore
 Kershaw
 Kester
 Keurig
@@ -597,7 +617,7 @@ Kingston
 KIOXIA
 Kirk's
 Kit Kat
-Kitchenaide
+Kitchenaid
 Klass Aguas Frescas
 Kleenex
 Klein
@@ -753,6 +773,7 @@ Mitutoyo
 Mizuno
 Mobil 1
 Moen
+Moffat
 Mondelez International
 Monoprice
 Monster Energy
@@ -807,6 +828,7 @@ Nokia
 Nordic Naturals
 Nordic Ware
 Northlight
+Nostalgia
 NOTTY BOY
 NOW
 Now and Later
@@ -851,6 +873,7 @@ Orgain
 Ornativity
 Orolay
 Osprey
+Oster
 OTC
 Otterbox
 OTTOCAST
@@ -915,6 +938,7 @@ Powermatic
 Prada
 Pre de Provence
 Premium Guard
+Prepworks by Progressive
 Presto
 PRIME HYDRATION
 PRIME-LINE
@@ -922,6 +946,7 @@ Primula
 Prismacolor
 Procter & Gamble
 ProEtrade
+Progressive International
 PROJE'
 Propel
 Protectli
@@ -959,6 +984,7 @@ Reebok
 Reese's
 Refresh
 Replens
+Restaurantware
 Retrospec
 REVLON
 RICOH
@@ -1008,6 +1034,7 @@ Schwinn
 Schwinn Fitness
 Scotch
 Scotch Painter's Tape
+Scotch Porter
 Scotch-Brite
 Scotch-Mount
 Scrub Daddy
@@ -1018,10 +1045,12 @@ Seasonic
 Secret
 Sennheiser Consumer Audio
 Seventh Generation
+ShamWow
 Shardor
 Shark
 Sharpie
 SheaMoisture
+SHEEPSKIN ELITE
 SHIMANO
 Shure
 Shuttle Art
@@ -1079,6 +1108,7 @@ Spiceology
 Spigen
 SPLENDA
 SPTA
+SPY
 Spyder
 St. Ives
 STAEDTLER
@@ -1103,6 +1133,7 @@ Sunex
 SUNLU
 Sunny Health & Fitness
 SUPERDANNY
+Superio
 Superior Threads
 Supermicro
 SupplyTiger
@@ -1224,10 +1255,12 @@ Vgo...
 Vickerman
 Vicks
 Victorinox
+Viking Revolution
 Viktor & Rolf
 Vineyard Vines
 Vitamix
 Volkswagen
+Vollrath
 Vorwerk
 VP Racing
 VTOMAN
@@ -1239,6 +1272,7 @@ Waterman
 Waterpik
 Watkins
 Wavian
+WD_BLACK
 WD-40
 Weber
 Weiman
@@ -1264,12 +1298,14 @@ WildHorn Outfitters
 Williams
 Wilson
 Wilwood
+Winco
 Windex
 Wirefy
 wirsh
 Wiseorb
 Withings
 Wix
+WOLF GOURMET
 Wonka
 WoodWick
 WORKPRO
@@ -1295,6 +1331,7 @@ Yardley
 YARDLEY LONDON
 Yeti
 YORK
+Yubico
 YumEarth
 YVES SAINT LAURENT
 ZARA
