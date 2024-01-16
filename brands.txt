@@ -6,6 +6,7 @@
 3M
 4711
 4C
+5th Element
 7UP
 8Bitdo
 A LA MAISON
@@ -14,6 +15,7 @@ Abus
 AC Infinity
 Accusize Industrial Tools
 ACDelco
+ACEBEAM
 Acer
 Acqua Panna
 Adam & Eve
@@ -49,6 +51,7 @@ Amazing Grass
 Amazon Basic Care
 Amazon Basics
 Amazon Echo
+Amazon Elements
 Amazon Essentials
 Amazon Fire
 Amazon Fresh
@@ -207,6 +210,7 @@ CANADA WEATHER GEAR
 Candle-lite
 Canon
 CAP Barbell
+CAPiTA
 Capresso
 Caress
 Carhartt
@@ -248,6 +252,7 @@ Cloralen
 clorox
 CloroxPro
 Coach
+Coast
 Cobra
 Coghlan's
 Cole & Mason
@@ -328,6 +333,7 @@ Doc's Diesel
 Dockers
 Dolce & Gabbana
 Dole
+Dorcy
 Dorman
 Dove
 DOVE MEN + CARE
@@ -366,11 +372,12 @@ Edifier
 Edward Tools
 Ego Power+
 Einhell
+Elite Gourmet
 Elmer's
 Emergen-C
-Elite Gourmet
 Empava
 empire
+Emsco Group
 Enbrighten
 Energizer
 Engelbert Strauss
@@ -386,6 +393,7 @@ Eucerin
 eufy
 eufy Security
 Eurow
+Eveready
 EVEREST
 Everest Media Solutions
 Every Man Jack
@@ -421,6 +429,7 @@ FitVille
 Fjallraven
 Flame King
 Flatiron Spice
+Flexible Flyer
 Fluke
 Focal
 FoodSaver
@@ -431,6 +440,7 @@ Fossil
 Fowler
 Fox Trot
 Fram
+FREE SOLDIER
 FreshJax
 FreshPet
 Freud
@@ -555,6 +565,8 @@ HP
 HTC
 Huawei
 Huffy
+HUGGIES
+Hurley
 Husqvarna
 Hyde
 Hydroflask
@@ -603,6 +615,8 @@ John Deere
 John Paul Mitchell Systems
 Johnson & Johnson
 Jolly Rancher
+Jones
+Jones New York
 Jose Cuervo
 Joseph Joseph
 Jovan
@@ -723,9 +737,11 @@ Lysol
 M&M'S
 Mackie
 Magbak
+MagLite
 Magpul
 MAHLE
 Makita
+Mama Bear
 Manhattan
 Mann Filter
 Mann-Filter
@@ -837,6 +853,9 @@ NinetoFiveLife
 Ninja
 Nintendo
 Nissan
+Nite Ize
+Nitecore
+Nitro
 Nitto
 NIVEA
 No7
@@ -1012,6 +1031,7 @@ Restaurantware
 Retrospec
 REVLON
 RICOH
+Ride
 Right Guard
 Rigol
 Ring
@@ -1114,6 +1134,7 @@ Snickers
 Soapbox
 sodastream
 Soeos
+sofirn
 Soft Scrub
 Softsoap
 Solaris
@@ -1156,7 +1177,9 @@ SteelSeries
 Sterilite
 Stetson
 Steve Madden
+StoreYourBoard
 Stormguard
+Streamlight
 Stretch Island
 Stur
 Suave
@@ -1224,6 +1247,7 @@ Thermaltake
 Thermopro
 Thorne
 Thousand Lakes
+ThruNite
 Thule
 Thymes
 Tide
@@ -1309,6 +1333,7 @@ Wahoo
 Walker's
 Waterman
 Waterpik
+WaterWipes
 Watkins
 Wavian
 WD_BLACK
