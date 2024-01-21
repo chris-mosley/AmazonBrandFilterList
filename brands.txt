@@ -135,6 +135,7 @@ Beko
 Belkin
 Bellroy
 Benchmade
+BenchPro
 Beneful
 BenQ
 Berkey
@@ -165,6 +166,7 @@ BOSCH
 Bosch Automotive
 Bosche
 Bose
+Boss Office Products
 Bosu
 boveda
 Bowers & Wilkins
@@ -231,6 +233,7 @@ CeraVe
 Certain Dri
 Cesar
 Cetaphil
+Chair Master
 Champion
 Champion Chamois
 Channellock
@@ -428,6 +431,7 @@ Fitbit
 FitVille
 Fjallraven
 Flame King
+Flash Furniture
 Flatiron Spice
 Flexible Flyer
 Fluke
@@ -555,6 +559,7 @@ HOKA ONE ONE
 Holikme
 Hollister
 Hollow
+HON
 Honda
 Honest Amish
 Honeywell
@@ -626,8 +631,8 @@ June Moon Spice Company
 Jungle Powders
 Jura
 Justrite
-K-Y
 K&N
+K-Y
 K2
 Kamenstein
 Karl Lagerfeld Paris
@@ -681,6 +686,7 @@ Lancôme
 Land Rover
 LANON Protection
 Lasko
+Laura Davidson Furniture
 LAURA GELLER NEW YORK
 Lavazza
 Lawry's
@@ -803,6 +809,7 @@ Miti
 Mitutoyo
 Mizuno
 Mobil 1
+Modway
 Moen
 Moffat
 Mondelez International
@@ -887,13 +894,14 @@ Nylabone
 NYX PROFESSIONAL MAKEUP
 NZXT
 O Naturals
-O-Cedar
 O'Keeffe's
+O-Cedar
 Oakley
 Oars + Alps
 Ocean Potion
 Ocean Spray
 OdoBan
+Office Star
 OGIO
 Olay
 Old Bay
@@ -1055,8 +1063,8 @@ Royal Canin
 Royal Purple
 Rubbermaid
 Ryobi
-S.M.S.L
 S&F STEAD & FAST
+S.M.S.L
 SABRENT
 Saft
 Sakura
@@ -1336,8 +1344,8 @@ Waterpik
 WaterWipes
 Watkins
 Wavian
-WD_BLACK
 WD-40
+WD_BLACK
 Weber
 Weiman
 WELCH ALLYN
@@ -1375,11 +1383,11 @@ WoodWick
 WORKPRO
 Wrangler Authentics
 Writech
-Würth
-WÜSTHOF
 Wyler's Light
 WypAll
 WYZE
+WÜSTHOF
+Würth
 X-Acto
 X-Tronic
 Xdro Shoes
@@ -1411,5 +1419,5 @@ Ziploc
 Zojirushi
 ZOTAC
 Zulay Kitchen
-ZÜMWAX
 ZWILLING
+ZÜMWAX
