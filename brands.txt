@@ -631,8 +631,8 @@ June Moon Spice Company
 Jungle Powders
 Jura
 Justrite
-K&N
 K-Y
+K&N
 K2
 Kamenstein
 Karl Lagerfeld Paris
@@ -894,8 +894,8 @@ Nylabone
 NYX PROFESSIONAL MAKEUP
 NZXT
 O Naturals
-O'Keeffe's
 O-Cedar
+O'Keeffe's
 Oakley
 Oars + Alps
 Ocean Potion
@@ -1063,8 +1063,8 @@ Royal Canin
 Royal Purple
 Rubbermaid
 Ryobi
-S&F STEAD & FAST
 S.M.S.L
+S&F STEAD & FAST
 SABRENT
 Saft
 Sakura
@@ -1121,6 +1121,8 @@ SIMPLY
 Simply Organic
 Singer
 SINGLES TO GO!
+Sjobergs
+Sjöbergs
 SK Hynix
 Skechers
 Skil
@@ -1344,8 +1346,8 @@ Waterpik
 WaterWipes
 Watkins
 Wavian
-WD-40
 WD_BLACK
+WD-40
 Weber
 Weiman
 WELCH ALLYN
@@ -1383,11 +1385,11 @@ WoodWick
 WORKPRO
 Wrangler Authentics
 Writech
+Würth
+WÜSTHOF
 Wyler's Light
 WypAll
 WYZE
-WÜSTHOF
-Würth
 X-Acto
 X-Tronic
 Xdro Shoes
@@ -1419,5 +1421,5 @@ Ziploc
 Zojirushi
 ZOTAC
 Zulay Kitchen
-ZWILLING
 ZÜMWAX
+ZWILLING
