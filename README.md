@@ -8,7 +8,7 @@ This is the list that AmazonBrandFilter uses to filter with.
 
  **Table of content:**
 
- - [Why?](#iwhy)
+ - [Why?](#why)
 
  - [Missing a Brand?](#missing-brand)
 
