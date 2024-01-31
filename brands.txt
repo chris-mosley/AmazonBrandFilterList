@@ -182,6 +182,7 @@ BRINKS
 Brita
 Brooks
 Brother
+BrüMate
 Bruno Marc
 Buddy Biscuits
 Buddy Wash
@@ -266,10 +267,12 @@ Columbia
 Comeon
 Comet
 Command
+Contigo
 Continental
 Cooler Master
 Cooper
 Copper Fit
+Corkcicle
 Corsair
 COSORI
 Costa Del Mar
@@ -376,6 +379,7 @@ Edward Tools
 Ego Power+
 Einhell
 Elite Gourmet
+Ello
 Elmer's
 Emergen-C
 Empava
@@ -385,6 +389,7 @@ Enbrighten
 Energizer
 Engelbert Strauss
 EO
+EPOMAKER
 Epson
 Equate
 Estwing
@@ -508,6 +513,7 @@ GREASE MONKEY
 Great Value
 Greater Goods
 Greenies
+Greens Steel
 Greenworks
 Griot's Garage
 Grizzly Industrial
@@ -574,6 +580,7 @@ HUGGIES
 Hurley
 Husqvarna
 Hyde
+Hydro Flask
 Hydroflask
 HyperX
 HYUNDAI
@@ -598,6 +605,7 @@ iProven
 iProvèn
 Irish Spring
 iRobot
+IRON °FLASK
 IRWIN
 Isopure
 iSpice
@@ -626,6 +634,7 @@ Jose Cuervo
 Joseph Joseph
 Jovan
 JOYCA & CO.
+JoyJolt
 JSAUX
 June Moon Spice Company
 Jungle Powders
@@ -642,6 +651,7 @@ Kenmore
 Kershaw
 Kester
 Keurig
+Keychron
 Kibbles 'n Bits
 Kinder Bueno
 King of Christmas
@@ -727,6 +737,7 @@ LIZ CLAIBORNE
 Loctite
 Lodge
 Logitech
+Logitech G
 LOLA
 LONDON FOG
 LOVEVOOK
@@ -741,6 +752,7 @@ Lume
 Lutron
 Lysol
 M&M'S
+Maars Drinkware
 Mackie
 Magbak
 MagLite
@@ -882,6 +894,7 @@ NT Cutter
 Nu Calgon
 Nubian Heritage
 Nugo
+nuphy
 NUTRI FIT
 NutriBullet
 NutriChef
@@ -1048,6 +1061,7 @@ Rinse & Robust
 Ripple
 Rite in the Rain
 RJ's Licorice
+RK ROYAL KLUDGE
 Robitussin
 Roborock
 ROCCAT
@@ -1061,6 +1075,7 @@ RotopaX
 Royal
 Royal Canin
 Royal Purple
+RTIC
 Rubbermaid
 Ryobi
 S.M.S.L
@@ -1115,6 +1130,7 @@ SigmasTek
 Silonn
 Simple Green
 Simple Mills
+Simple Modern
 Simple Solution
 SimpliSafe
 SIMPLY
@@ -1241,6 +1257,7 @@ Tekton
 Tektronics
 Tenda
 TERA PUMP
+Tervis
 Teslong
 Teufel
 THAYERS
@@ -1409,6 +1426,7 @@ YORK
 Yubico
 YumEarth
 YVES SAINT LAURENT
+Zak Designs
 ZARA
 ZEBRA
 ZEISS

@@ -15,11 +15,7 @@ This is the list that AmazonBrandFilter uses to filter with.
  - [Submission Criteria](#submission-criteria)
 
  
-
-
- <a id="why"></a>
-
- ### Why?
+  ### Why?
 
 See [here](https://github.com/chris-mosley/AmazonBrandFilter)
 
@@ -29,11 +25,13 @@ See [here](https://github.com/chris-mosley/AmazonBrandFilter)
 
  ### Missing a Brand?
 
+This is an Allowlist.  This means that anything not on this list gets filtered.  That also means we need to add as many brands to this list as possible.
+
 There are two ways to go about this.
 
 1. "I know how to do a Pull Request"
 
-   -   Please submit a pull request just adding the missing brands to brands.txt folllowing the [Submission Criteria](#submission-criteria)
+   -   Please submit a pull request just adding the missing brands to brands.txt following the [Submission Criteria](#submission-criteria)
 
 2.  "What is a Pull Request?"
     
