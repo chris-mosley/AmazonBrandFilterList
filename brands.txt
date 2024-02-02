@@ -33,6 +33,12 @@ Airpura
 AJC
 AKG
 Akk
+AFMAT
+Airheads
+Airpura
+AJC
+AKG
+Akk
 Alani Nu
 alaway
 Alba Botanica
@@ -151,6 +157,7 @@ Big Train
 Bigelow Tea
 Black Wolf
 BLACK+DECKER
+Blackwing
 Blink
 Blue Buffalo
 Blum
@@ -684,6 +691,7 @@ KRUPS
 Kryptonite
 Kumho
 Kurt S. Adler
+KUTSUWA
 Kwikset
 KYOCERA
 L'Occitane
@@ -709,6 +717,7 @@ Lego
 Leica
 Lenovo
 Lenox
+LEUCHTTURM1917
 Level
 Lever 2000
 Levi's
@@ -972,6 +981,7 @@ Pedigree
 Peet's Coffee
 Peloton
 Penchant
+Pencil Guy
 Penn Scale
 Pennzoil
 Pentel
@@ -1286,6 +1296,7 @@ Titebond
 Titleist
 Tom Ford
 Tom's of Maine
+Tombow
 Tommy Hilfiger
 TONOR
 Tootsie Roll
@@ -1316,6 +1327,7 @@ UGREEN
 UltraPro
 Umbro
 Under Armour
+uni
 Uni-ball
 Uniball
 Unicorn
@@ -1437,6 +1449,7 @@ ZIOXX
 Zipfizz
 Ziploc
 Zojirushi
+ZOTA
 ZOTAC
 Zulay Kitchen
 ZÜMWAX
