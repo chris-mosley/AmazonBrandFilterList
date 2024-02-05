@@ -11,6 +11,7 @@
 8Bitdo
 A LA MAISON
 A-Premium
+A&R
 Abus
 AC Infinity
 Accusize Industrial Tools
@@ -28,11 +29,6 @@ Advil
 AEG
 Aeropress
 Affresh
-Airheads
-Airpura
-AJC
-AKG
-Akk
 AFMAT
 Airheads
 Airpura
@@ -281,6 +277,7 @@ Cooper
 Copper Fit
 Corkcicle
 Corsair
+Cosclay
 COSORI
 Costa Del Mar
 COUNTRY TIME
@@ -655,6 +652,7 @@ Karl Lagerfeld Paris
 Kasa Smart
 KD Supplies
 Kenmore
+Keoker
 Kershaw
 Kester
 Keurig
@@ -698,6 +696,7 @@ L'Occitane
 La Pavoni
 La Roche-Posay
 Lactaid
+Ladder-Max
 Lady Speed Stick
 Laffy Taffy
 Lancôme
@@ -719,6 +718,7 @@ Lenovo
 Lenox
 LEUCHTTURM1917
 Level
+Levelok
 Lever 2000
 Levi's
 Leviton
@@ -749,6 +749,7 @@ Logitech
 Logitech G
 LOLA
 LONDON FOG
+Louisville Ladder
 LOVEVOOK
 LTRA
 LU
@@ -820,6 +821,7 @@ Microsoft
 Midwest Can
 Miele
 Mighty Max Battery
+MikroTik
 Milfra
 Milwaukee
 Mio
@@ -1035,6 +1037,7 @@ Purina Pro Plan
 Push Pop
 Pyle
 Qaestfy
+QNAP
 Quest Nutrition
 Rachael Ray
 Rachael Ray Nutrish
@@ -1081,6 +1084,7 @@ Rockville
 Rode
 Rolo
 ROMAN
+Roseart
 RotopaX
 Royal
 Royal Canin
@@ -1225,6 +1229,7 @@ Sunbeam
 Sunex
 SUNLU
 Sunny Health & Fitness
+Super Sculpey
 SUPERDANNY
 Superio
 Superior Threads
@@ -1368,6 +1373,7 @@ VTOMAN
 Vuori
 VViViD
 WACACO
+Wago
 Wahoo
 Walker's
 Waterman
@@ -1386,6 +1392,7 @@ Wellness Natural Pet Food
 Wells Lamont
 WEN
 Wera
+Werner
 Western Digital
 Westinghouse
 Westinghouse Outdoor Power Equipment
@@ -1393,6 +1400,7 @@ Weston Brands
 Wet
 Wet n Wild
 Whirlpool
+Whitemorph
 Whitestone
 Whole Foods Market
 Wiha
