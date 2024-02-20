@@ -213,6 +213,7 @@ Cambridge Audio
 Camelbak
 Campbell Hausfeld
 CANADA WEATHER GEAR
+CANAWELD
 Candle-lite
 Canon
 CAP Barbell
@@ -339,6 +340,7 @@ Digilent
 Dior
 Dirt Devil
 Diurex
+Dixon
 Doc's Diesel
 Dockers
 Dolce & Gabbana
@@ -374,6 +376,7 @@ Each & Every
 Eagle
 Eargasm
 Earth Rated
+Eastwood
 ecobee
 ECOGARD
 ED HARDY
@@ -408,6 +411,7 @@ Eurow
 Eveready
 EVEREST
 Everest Media Solutions
+Everlast
 Every Man Jack
 everyhero
 Everyone
@@ -823,6 +827,7 @@ Miele
 Mighty Max Battery
 MikroTik
 Milfra
+Miller Electric
 Milwaukee
 Mio
 Miracle II
@@ -1086,6 +1091,7 @@ Rolo
 ROMAN
 Roseart
 RotopaX
+Rotring
 Royal
 Royal Canin
 Royal Purple
@@ -1292,6 +1298,7 @@ Thousand Lakes
 ThruNite
 Thule
 Thymes
+Ticonderoga
 Tide
 Tile
 Timberland
@@ -1386,6 +1393,7 @@ WD-40
 Weber
 Weiman
 WELCH ALLYN
+Weldpro
 Weleda
 Weller
 Wellness Natural Pet Food
@@ -1449,6 +1457,7 @@ YVES SAINT LAURENT
 Zak Designs
 ZARA
 ZEBRA
+Zebra Pen
 ZEISS
 Zep
 Zero Friction
