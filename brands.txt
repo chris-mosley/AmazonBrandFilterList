@@ -1424,6 +1424,7 @@ wirsh
 Wiseorb
 Withings
 Wix
+WMF
 WOLF GOURMET
 Wonka
 WoodWick
