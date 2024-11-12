@@ -35,6 +35,7 @@ Airpura
 AJC
 AKG
 Akk
+Akona
 Alani Nu
 alaway
 Alba Botanica
@@ -77,6 +78,7 @@ Antigravity Batteries
 APA
 apa AUTO PARTS AVENUE
 APC
+Apeks
 Apex
 Apple
 apple & eve
@@ -101,6 +103,7 @@ Astro Tools
 Astroglide
 Asus
 Atlantic Safety Products
+Atomic
 ATTITUDE
 Audi
 Audio-Technica
@@ -291,6 +294,7 @@ CRC
 Creative
 Creative Mark
 Crescent
+Cressi
 crest
 Cricut
 Crock-Pot
@@ -552,6 +556,7 @@ Hefty
 Heinz
 hello
 Hello Bello
+Henderson
 Hengst
 Herbal Essences
 Herschel
@@ -571,6 +576,7 @@ Hoist
 HOKA
 HOKA ONE ONE
 Holikme
+Hollis
 Hollister
 Hollow
 HON
@@ -930,6 +936,7 @@ Oakley
 Oars + Alps
 Ocean Potion
 Ocean Spray
+Oceanic
 OdoBan
 Office Star
 OGIO
@@ -1129,10 +1136,13 @@ Scotch-Brite
 Scotch-Mount
 Scrub Daddy
 Scrubbing Bubbles
+Scubapro
 SDolphin
+Seac
 Seagate
 Seasonic
 Secret
+Seiko
 Sennheiser Consumer Audio
 Seventh Generation
 ShamWow
@@ -1140,6 +1150,7 @@ Shardor
 Shark
 Sharpie
 SheaMoisture
+Shearwater
 SHEEPSKIN ELITE
 SHIMANO
 Shure
@@ -1329,6 +1340,7 @@ Tripp Lite
 TROJAN
 Trolli
 True Citrus
+TUSA
 Tweezerman
 Twix
 Twizzlers
@@ -1458,6 +1470,7 @@ YumEarth
 YVES SAINT LAURENT
 Zak Designs
 ZARA
+Zeagle
 ZEBRA
 Zebra Pen
 ZEISS
