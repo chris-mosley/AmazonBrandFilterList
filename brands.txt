@@ -46,6 +46,7 @@ All-Clad
 Allegra
 Almay
 Aloe Cadabra
+alpen
 altoids
 Alvera
 Amazfit
@@ -122,6 +123,7 @@ Bad Birdie
 Badia
 Baldwin
 Ballard Products
+BALLISTOL
 band-aid
 Bang & Olufsen
 Bar Keepers Friend
@@ -142,8 +144,10 @@ Bellroy
 Benchmade
 BenchPro
 Beneful
+BENNING
 BenQ
 Berkey
+Bessey
 Betty Crocker
 Beverly Hills Polo Club
 beyerdynamic
@@ -180,6 +184,7 @@ Bowflex
 Brach's
 Braun
 Brembo
+brennenstuhl
 Breville
 Bridgestone
 Bright Way Group
@@ -193,6 +198,7 @@ Bruno Marc
 Buddy Biscuits
 Buddy Wash
 bumble
+BURG-WÄCHTER
 Burlap & Barrel
 Burt's Bees
 Burton
@@ -334,6 +340,7 @@ Denso
 DEPSTECH
 Detail Dudes
 Detail Factory
+deuter
 DeWalt
 di Oro Living
 Diablo
@@ -360,6 +367,7 @@ Dr. Scholl's
 Dr. Scholl's Shoes
 Dr. Squatch
 Dr. Woods
+Dräger
 Drano
 Dreo
 Dry Idea
@@ -395,6 +403,7 @@ Elmer's
 Emergen-C
 Empava
 empire
+Emsa
 Emsco Group
 Enbrighten
 Energizer
@@ -441,6 +450,7 @@ FiiO
 FIJI
 Fila
 First Alert
+fischer
 Fisher Space Pen
 Fiskars
 Fissler
@@ -477,6 +487,7 @@ g.skill
 Gaggia
 Galanz
 Garden of Life
+GARDENA
 Gardner Bender
 Garmin
 Garnier
@@ -486,6 +497,7 @@ GE
 GE PROFILE
 GearIT
 GEARWRENCH
+GEDORE
 Geekworm
 GERBER
 GERmanikure
@@ -513,6 +525,7 @@ Good Clean Love
 GoodCook
 Goodyear
 Google
+GoPro
 Gorilla
 Gorilla Grip
 Gourmia
@@ -551,6 +564,7 @@ Haribo
 Harman Kardon
 Harney & Sons
 HAWAIIAN PUNCH
+Hazet
 Heat Storm
 Hefty
 Heinz
@@ -571,6 +585,7 @@ Hill's Prescription Diet
 Hill's Science Diet
 Hillman
 Hiltex
+Hilti
 Himalaya
 Hoist
 HOKA
@@ -607,6 +622,7 @@ IDEAL Industries
 iFixit
 Igloo
 Imarku
+INBUS
 Indigo Wild
 Ingersoll Rand
 Inland
@@ -641,6 +657,7 @@ JLab
 John Deere
 John Paul Mitchell Systems
 Johnson & Johnson
+JOKARI
 Jolly Rancher
 Jones
 Jones New York
@@ -658,6 +675,7 @@ K-Y
 K&N
 K2
 Kamenstein
+Kärcher
 Karl Lagerfeld Paris
 Kasa Smart
 KD Supplies
@@ -681,6 +699,8 @@ Kleenex
 Klein
 Klein Tools
 Klipsch
+Knauf
+KNIPEX
 KNIPEX
 Kobalt
 Kodak
@@ -812,6 +832,7 @@ Medion
 Megababe
 Megachef
 Meguiar's
+Melitta
 Memphis Glove
 Mentos
 Meraki
@@ -820,6 +841,7 @@ Mercer Culinary
 Merrell
 Merrick
 Meta
+Metabo
 Metabo HPT
 Method
 MG Chemicals
@@ -852,6 +874,7 @@ Monoprice
 Monster Energy
 MONTBLANC
 Mopar
+Morakniv
 Morton
 Morton & Bassett
 Mossy Oak
@@ -910,6 +933,7 @@ Nordic Ware
 Northlight
 Nostalgia
 NOTTY BOY
+Novus
 NOW
 Now and Later
 NPP
@@ -952,12 +976,14 @@ One With Nature
 ONEBALL
 OnePlus
 Onkyo
+Opinel
 Oppo
 Optimum Nutrition
 Oral-B
 Orgain
 Ornativity
 Orolay
+Ortlieb
 Osprey
 Oster
 OTC
@@ -985,6 +1011,7 @@ Parodontax
 Passion Lube
 Patagonia
 Patriot Memory
+Pattex
 Paudin
 Paul Mitchell
 Paul Sebastian
@@ -1005,6 +1032,7 @@ Pfister
 Phanteks
 Philips
 Philips Hue
+Pica
 PILOT
 PINE64
 PIONEER
@@ -1038,6 +1066,7 @@ Progressive International
 PROJE'
 Propel
 Protectli
+Proxxon
 PS
 Psychedelic Water
 Puma
@@ -1098,6 +1127,7 @@ Rode
 Rolo
 ROMAN
 Roseart
+RÖSLE
 RotopaX
 Rotring
 Royal
@@ -1158,7 +1188,9 @@ Shuttle Art
 Siemens
 siggi's
 Siglent Technologies
+SIGMA
 SigmasTek
+Silit
 Silonn
 Simple Green
 Simple Mills
@@ -1222,7 +1254,9 @@ SPY
 Spyder
 St. Dalfour
 St. Ives
+Stabila
 STAEDTLER
+STAHLWILLE
 Standard Motor Products
 Stanley
 Starbucks
@@ -1235,6 +1269,8 @@ SteelSeries
 Sterilite
 Stetson
 Steve Madden
+STIER
+Stihl
 StoreYourBoard
 Stormguard
 Streamlight
@@ -1352,6 +1388,7 @@ UGREEN
 UltraPro
 Umbro
 Under Armour
+Unger
 uni
 Uni-ball
 Uniball
@@ -1360,6 +1397,8 @@ UPS Battery Center
 URBAN DECAY
 USA
 USAOPOLY
+Uvex
+uvexSports
 VAHDAM
 Valvoline
 Vanicream
@@ -1368,6 +1407,7 @@ Vans
 Varta
 Vaseline
 Vashe
+VAUDE
 Vector KGM
 Velcro
 VELCRO Brand
@@ -1427,6 +1467,7 @@ Whole Foods Market
 Wiha
 Wildhorn
 WildHorn Outfitters
+Wilkinson Sword
 Williams
 Wilson
 Wilwood
@@ -1439,6 +1480,7 @@ Withings
 Wix
 WMF
 WOLF GOURMET
+Wolfcraft
 Wonka
 WoodWick
 WORKPRO
@@ -1450,6 +1492,7 @@ Wyler's Light
 WypAll
 WYZE
 X-Acto
+X-Sense
 X-Tronic
 Xdro Shoes
 Xerox
