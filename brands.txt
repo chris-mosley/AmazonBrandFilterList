@@ -365,6 +365,7 @@ Degree
 Degree Men
 Dehner
 DeLallo
+deleyCON
 Dell
 Delphi
 DELTA FAUCET
@@ -382,6 +383,7 @@ Dial
 Dickies
 Diesel
 Digilent
+Digitus
 Dior
 Dirt Devil
 Diurex
@@ -847,6 +849,7 @@ Liebert
 Life Savers
 LifeStyles
 Lindt
+LINDY
 Linksys
 LINOVISION
 Linsoul
@@ -858,6 +861,7 @@ Lite-On
 LIZ CLAIBORNE
 Loctite
 Lodge
+Logilink
 Logitech
 Logitech G
 LOLA
