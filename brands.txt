@@ -264,6 +264,7 @@ Casio
 Castrol
 Caswell-Massey
 Caution Wear
+Cecotec
 Celestron
 Cellucor
 CELSIUS
@@ -906,6 +907,7 @@ Mars Hydro
 Marshall
 Marvel
 Master Lock
+MasterChef
 MATEIN
 Mattel
 Maui Jim
@@ -981,6 +983,7 @@ Mossy Oak
 Motorcraft
 Motorola
 Motul
+Moulinex
 Mountain Fruit Co.
 Mr. Christmas
 Mr. Clean
@@ -1471,6 +1474,7 @@ Talentcell
 talenti
 Targus
 Tassimo
+Taurus
 TaylorMade
 Taytools
 TCL
