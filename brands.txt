@@ -735,6 +735,7 @@ JOKARI
 Jolly Rancher
 Jones
 Jones New York
+JOOLA
 Jose Cuervo
 Joseph Joseph
 Jovan
@@ -1315,6 +1316,7 @@ Seasonic
 Sebamed
 Secret
 Seiko
+Selkirk
 Sennheiser
 Sennheiser Consumer Audio
 Seramis
@@ -1360,6 +1362,7 @@ Slice
 SlimFast
 Slippery Stuff
 Sliquid
+SLK
 Smart Weigh
 Smartwool
 Smeg
@@ -1576,6 +1579,7 @@ Vans
 Varta
 Vaseline
 Vashe
+Vatic
 VAUDE
 Vector KGM
 Velcro
