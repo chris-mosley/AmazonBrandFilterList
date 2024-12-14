@@ -6,6 +6,8 @@
 3M
 4711
 4C
+5.11
+5.11 Tactical
 5th Element
 7UP
 8Bitdo
@@ -54,6 +56,7 @@ Alpine
 altoids
 Alvera
 Always
+Always Discreet
 Amazfit
 Amazing Abby
 Amazing Grass
@@ -74,8 +77,10 @@ Anchor Hocking
 ands
 ANEX
 ANGCURE
+Angel Soft
 Anker
 Ankerkraut
+Anne Klein
 Anon
 ANOVA
 Ansmann
@@ -83,6 +88,7 @@ Antarctic Star
 Antec
 Antigravity Batteries
 Anycubic
+AOC
 APA
 apa AUTO PARTS AVENUE
 APC
@@ -91,10 +97,12 @@ Apex
 Apple
 apple & eve
 Aquaphor
+AquaSonic
 Arc'teryx
 arcan
 ARCTIC
 Arctix
+ARIAT
 Ariel
 Arizona
 Arlo
@@ -108,6 +116,7 @@ Ascend
 ASICS
 ASRock
 ASRock Rack
+Astro
 Astro Pneumatic Tool
 Astro Tools
 Astroglide
@@ -120,12 +129,13 @@ Audio-Technica
 Audioengine
 Aune
 Auromere
+Aurora
+Austin Air
 Australian Botanical Soap
 Auto Parts Avenue
 Autofiber
 Aveeno
 Aveeno Baby
-AVM
 AVM
 AXE
 AZdelivery
@@ -155,11 +165,13 @@ Beekman
 Behringer
 Beierdorf
 Beko
+Belk
 Belkin
 Bellroy
 Benchmade
 BenchPro
 Beneful
+Benevolence LA
 BENNING
 BenQ
 Berkey
@@ -176,7 +188,11 @@ Big Cock Ranch
 Big Train
 Bigelow Tea
 Biobizz
+Biolage
 Biotherm
+Birkenstock
+Biscoff
+Bissell
 Black Diamond
 Black Wolf
 BLACK+DECKER
@@ -184,6 +200,7 @@ Blackwing
 Blink
 Blistex
 Blue Buffalo
+Blueair
 BLUETTI
 Blum
 Blumat
@@ -202,6 +219,8 @@ Bosche
 Bose
 Boss Office Products
 Bosu
+Bounce
+Bounty
 Boveda
 Bowers & Wilkins
 Bowflex
@@ -233,6 +252,8 @@ Burton
 Bushnell
 Butter Buds
 Butterfinger
+C.C
+C.C Beanie
 C2G
 Cabela's
 Cable Matters
@@ -251,11 +272,13 @@ Camelbak
 Campbell Hausfeld
 CANADA WEATHER GEAR
 CANAWELD
+Candle Warmers
 Candle-lite
 Canon
 CAP Barbell
 CAPiTA
 Capresso
+Carefree
 Caress
 Carhartt
 Carlinkit
@@ -273,6 +296,7 @@ Cecotec
 Celestron
 Cellucor
 CELSIUS
+Celtic Sea Salt
 CeraVe
 Certain Dri
 Cesar
@@ -282,6 +306,7 @@ Champion
 Champion Chamois
 Channellock
 Chapman
+Charmin
 Chef Craft
 chemical guys
 Cherry
@@ -323,13 +348,19 @@ Cooler Master
 Cooper
 Copper Fit
 Coral
+Core Power
+Corelle
 Corkcicle
+Corning Ware
+Corningware
 Corsair
 Cosclay
 COSORI
 Costa Del Mar
+Cottonelle
 COUNTRY TIME
 COVERGIRL
+Coway
 Craft & Kin
 Craftsman
 Crate 61 Organics
@@ -337,6 +368,7 @@ Crayola
 CRC
 Creative
 Creative Mark
+Cremo
 Crescent
 Cressi
 crest
@@ -367,6 +399,8 @@ Dawn
 DC
 De'Longhi
 Dean Jacob's
+Dearfoams
+Death Wish Coffee
 DeepCool
 Deer Valley
 Degree
@@ -379,6 +413,8 @@ Delphi
 DELTA FAUCET
 Denon
 Denso
+DenTek
+Depend
 DEPSTECH
 Detail Dudes
 Detail Factory
@@ -396,16 +432,20 @@ Digitus
 Dior
 Dirt Devil
 Diurex
+Dixie
 Dixon
 DJI
 Doc's Diesel
 Dockers
 Dolce & Gabbana
 Dole
+Dooney & Bourke
+Dooney and Bourke
 Dorcy
 Dorman
 Dove
 DOVE MEN + CARE
+Dr Pepper
 Dr Teal's
 Dr. Beckmann
 Dr. Bronner's
@@ -424,6 +464,7 @@ Dremel
 Dreo
 Dry Idea
 Dual Electronics
+Dubinik
 Duck
 Duke
 Duke Cannon
@@ -469,10 +510,12 @@ eneloop
 Energizer
 Engelbert Strauss
 EO
+eos
 EPOMAKER
 Eppendorf
 Epson
 Equate
+Escort
 ESR
 Estwing
 eSUN
@@ -496,6 +539,7 @@ EVGA
 Evolution
 Excel Blades
 Extech
+EXTRA
 EZ-POUR
 EZ-Sweetz
 EZY DOSE
@@ -507,6 +551,7 @@ Farberware
 Febreze
 Feethit
 FEIN
+Feit Electric
 Fel-Pro
 Felix
 Fellow
@@ -518,6 +563,7 @@ FiiO
 FIJI
 Fila
 Fimo
+Finish
 First Alert
 Fischer
 Fisher Space Pen
@@ -574,11 +620,13 @@ GEDORE
 Geekworm
 GERBER
 GERmanikure
+GermGuardian
 Gevi
 Gevi Household
 Ghirardelli
 GHome Smart
 Gigabyte
+Gildan
 Gillette
 GIORGIO ARMANI
 GIRO
@@ -588,6 +636,7 @@ Gizmo Dorks
 Glad
 Glade
 Gladiator
+glerups
 Glisten
 Gloria
 Glorious
@@ -628,6 +677,7 @@ Gustus Vitae
 Guy Laroche
 Haba
 Hacksaw
+Haflinger
 Haier
 Hakko
 Hakle
@@ -645,6 +695,7 @@ Harbinger
 Haribo
 Harman Kardon
 Harney & Sons
+Harry's
 Hasbro
 HAWAIIAN PUNCH
 Hazet
@@ -654,14 +705,18 @@ Heinz
 Heitmann
 hello
 Hello Bello
+Henckels
 Henderson
 Hengst
+Henson Shaving
 Herbal Essences
 Herlitz
 Herschel
 HERSHEY'S
 HESTRA
 HexClad
+Hey Dude
+HEYDUDE
 Hibbent
 HIFIMAN
 High Peak
@@ -719,6 +774,7 @@ INBUS
 Indigo Wild
 Ingersoll Rand
 Inland
+INSIGNIA
 Insta360
 Instant
 Instant Pot
@@ -745,6 +801,7 @@ Jacobs
 JanSport
 JASON
 JBL
+JCPenney
 Jell-O
 Jessica Simpson
 Jet
@@ -778,6 +835,7 @@ Karl Lagerfeld Paris
 Kasa Smart
 KD Supplies
 Kenmore
+Kenwood
 Keoker
 Kershaw
 Kester
@@ -823,8 +881,12 @@ Kurt S. Adler
 KUTSUWA
 Kwikset
 KYOCERA
+L.
+L.L. Bean
 L'Occitane
 L'Oréal
+L'Oreal Paris
+La Jolie Muse
 La Pavoni
 La Roche-Posay
 Lactaid
@@ -836,6 +898,8 @@ Lamy
 Lancom
 Lancôme
 Land Rover
+Lands End
+Lands’ End
 LANON Protection
 Lasko
 Läufer
@@ -849,6 +913,8 @@ Leather Honey
 Leatherman
 LeCroy
 Ledlenser
+Lee
+Legendary Whitetails
 Lego
 Leica
 Leifheit
@@ -860,8 +926,10 @@ LEUCHTTURM1917
 Level
 Levelok
 Lever 2000
+Levi Strauss
 Levi's
 Leviton
+LEVOIT
 Lexar
 Lexivon
 Lexmark
@@ -880,10 +948,12 @@ LINOVISION
 Linsoul
 Lipton
 Liqui Moly
+Liquid Death
 Lisle
 Listerine
 Lite-On
 LIZ CLAIBORNE
+LL Bean
 Loctite
 Lodge
 Logilink
@@ -891,6 +961,7 @@ Logitech
 Logitech G
 LOLA
 LONDON FOG
+Lotus Biscoff
 Louisville Ladder
 LOVEVOOK
 LTRA
@@ -901,6 +972,7 @@ LUBILICIOUS PERSONAL WATER BASED LUBRICANT
 LUCAS
 Lululemon
 Lume
+Lumify
 Lutron
 Lysol
 M&M
@@ -909,7 +981,6 @@ Maars Drinkware
 Mackie
 Magbak
 Maglite
-MagLite
 Magpul
 MAHLE
 Makita
@@ -929,6 +1000,7 @@ Marmot
 Mars
 Mars Hydro
 Marshall
+Maruchan
 Marvel
 Master Lock
 MasterChef
@@ -969,6 +1041,7 @@ Metabo HPT
 Method
 MG Chemicals
 Michael Jordan
+Michael Korz
 Michel Design Works
 Michelin
 Microflex
@@ -983,6 +1056,7 @@ Milfra
 Milka
 Miller Electric
 Milwaukee
+Minnetonka
 Mio
 Miracle II
 Mistral
@@ -998,6 +1072,7 @@ Molto
 Mondelez International
 Monoprice
 Monster Energy
+Montana West
 MONTBLANC
 Mopar
 Morakniv
@@ -1044,6 +1119,7 @@ Newair
 NewYork Cables
 Nexa Lotte
 NGK
+NICETOWN
 Nigrin
 Nike
 Nikon
@@ -1099,6 +1175,8 @@ Oceanic
 OdoBan
 Office Star
 OGIO
+OGX
+Olaplex
 Olay
 Old Bay
 Old Spice
@@ -1184,6 +1262,7 @@ Plackers
 Plantura
 Play-Doh
 Playmobil
+Playtex
 Pledge
 Plugable
 Plusivo
@@ -1192,6 +1271,7 @@ Polar
 Polaris
 Polaroid
 poppi
+PopSockets
 Porsche
 PowerA
 Powerade
@@ -1200,6 +1280,7 @@ POWERMASTER
 Powermatic
 Prada
 Pre de Provence
+Premier Protein
 Premium Guard
 Prepworks by Progressive
 Presto
@@ -1218,14 +1299,18 @@ Proxxon
 PS
 Psychedelic Water
 Puma
+PUR
+PÜR
 Pure Encapsulations
 Pure Leaf
 Purell
+Pureology
 Purina
 Purina ONE
 Purina Pro Plan
 Push Pop
 Pyle
+Pyrex
 Qaestfy
 QNAP
 Quest Nutrition
@@ -1249,6 +1334,7 @@ RDX
 Rectorseal
 Red Duck
 Redken
+REDMOND
 Redragon
 Reebok
 Reese's
@@ -1260,6 +1346,8 @@ Restaurantware
 Retrospec
 Revlon
 Rexona
+Reynolds
+Reynolds Kitchens
 RICOH
 Ride
 Right Guard
@@ -1280,6 +1368,7 @@ Rockler
 Rockville
 Rode
 Røde
+Roku
 Rolo
 ROMAN
 Roseart
@@ -1301,6 +1390,7 @@ S&F STEAD & FAST
 SABRENT
 Saft
 Sagrotan
+Sailwind
 Sakura
 Salomon
 Samsonite
@@ -1317,6 +1407,8 @@ Saucony
 SawStop
 SC Johnson
 Scalextric
+ScentSationals
+Sceptre
 Schick
 Schiit
 Schleich
@@ -1329,11 +1421,13 @@ Schott
 Schwalbe
 Schwinn
 Schwinn Fitness
+Scosche
 Scotch
 Scotch Painter's Tape
 Scotch Porter
 Scotch-Brite
 Scotch-Mount
+Scott
 Scrub Daddy
 Scrubbing Bubbles
 Scubapro
@@ -1345,6 +1439,7 @@ Sebamed
 Secret
 Seiko
 Selkirk
+Selsun Blue
 Sennheiser
 Sennheiser Consumer Audio
 Seramis
@@ -1353,6 +1448,7 @@ Severin
 ShamWow
 Shardor
 Shark
+Sharp
 Sharpie
 SheaMoisture
 Shearwater
@@ -1412,10 +1508,12 @@ Solidigm
 Somat
 Sonax
 SONOFF
+Sonos
 Sony
 Soundcore
 Sour Patch Kids
 Southwire
+Sparkle
 Sparkling ICE
 SparkPod
 SPAX
@@ -1452,6 +1550,7 @@ Stardrops
 Starling Games
 Starrett
 StarTech.com
+Stayfree
 SteelSeries
 Sterilite
 Sterillium
@@ -1496,11 +1595,14 @@ SWISS NAVY
 SwissGear
 SwitchBot
 Swix
+Sylvania
+Systane
 System Jo
 T-fal
 Tag Heuer
 Talentcell
 talenti
+Tampax
 Tanos
 Targus
 Tassimo
@@ -1531,10 +1633,13 @@ TFA Dostmann
 THAYERS
 The Ginger People
 The Hillman Group
+The Honest Company
+The Honey Pot Company
 The Lakeside Collection
 The North Face
 The Rag Company
 The Spice Lab
+TheraBreath
 Theragun
 Thermajohn
 Thermalright
@@ -1552,6 +1657,7 @@ Tile
 Timberland
 Timbuk2
 TIMEMORE
+Timex
 Tipp-Ex
 Titebond
 Titleist
@@ -1562,6 +1668,7 @@ Tommy Hilfiger
 TONOR
 Tootsie Roll
 Topeak
+Topo Chico
 Torani
 Toshiba
 TOX
@@ -1574,20 +1681,24 @@ Transcend
 Traxxas
 TrekStor
 TRENDnet
+Trident
 Trigema
 Triple Paste
 Tripp Lite
 TROJAN
 Trolli
 True Citrus
+Turtle Beach
 TUSA
 Tweezerman
 Twix
 Twizzlers
 Tylenol
+U by Kotex
 U.S. Art Supply
 Uberlube
 Ubiquiti
+UGG
 UGREEN
 UHU
 UltraPro
@@ -1599,6 +1710,7 @@ Uni-ball
 Uni-T
 Uniball
 Unicorn
+Uniden
 Unitec
 UPS Battery Center
 URBAN DECAY
@@ -1606,6 +1718,7 @@ USA
 USAOPOLY
 Uvex
 uvexSports
+Vagisil
 VAHDAM
 Valvoline
 Vanicream
@@ -1620,6 +1733,7 @@ Vector KGM
 Velcro
 VELCRO Brand
 Venom Steel
+Vera Bradley
 Verbatim
 Versace
 Vertiv
@@ -1630,6 +1744,7 @@ Vickerman
 Vicks
 Victorinox
 Viking Revolution
+Vikings Blade
 Viktor & Rolf
 Vileda
 Villeroy & Boch
@@ -1638,6 +1753,7 @@ Viparspectra
 Vitafit
 Vitakraft
 Vitamix
+VIZIO
 Volkswagen
 Vollrath
 Voltcraft
@@ -1689,10 +1805,12 @@ WildHorn Outfitters
 Wilkinson Sword
 Williams
 Wilson
+Wilton
 Wilwood
 Winco
 Windex
 Windhager
+Winix
 Wirefy
 wirsh
 Wiseorb
@@ -1706,6 +1824,7 @@ Wonka
 WoodWick
 WORKPRO
 Worx
+Wrangler
 Wrangler Authentics
 Writech
 Würth
@@ -1730,6 +1849,7 @@ Yankee Candle
 Yardley
 YARDLEY LONDON
 Yeti
+Yokohama
 YORK
 Yubico
 YumEarth
