@@ -9,6 +9,7 @@
 5.11
 5.11 Tactical
 5th Element
+686
 7UP
 8Bitdo
 A LA MAISON
@@ -1497,6 +1498,7 @@ Rolo
 ROMAN
 Roseart
 Rösle
+Rossignol
 Rotho
 RotopaX
 Rotring
@@ -1794,6 +1796,7 @@ Thermajohn
 Thermalright
 Thermaltake
 Thermopro
+ThirtyTwo
 Thomy
 Thorne
 Thousand Lakes
