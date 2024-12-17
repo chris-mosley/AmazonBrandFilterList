@@ -105,6 +105,7 @@ AquaSonic
 Arc'teryx
 arcan
 ARCTIC
+Arctic Zone
 Arctix
 ARIAT
 Ariel
@@ -152,6 +153,7 @@ Ballard Products
 BALLISTOL
 band-aid
 Bang & Olufsen
+BAOFENG
 Bar Keepers Friend
 Baratza
 Barbie
@@ -257,6 +259,7 @@ Brother
 Brüder Mannesmann
 BrüMate
 Bruno Marc
+Buck Knives
 Buddy Biscuits
 Buddy Wash
 BUG-A-SALT
@@ -269,6 +272,7 @@ Burton
 Bushnell
 Butter Buds
 Butterfinger
+ByronStatics
 C.C
 C.C Beanie
 C2G
@@ -279,6 +283,7 @@ Café
 Cake
 CalDigit
 Califia Farms
+Califone
 California Design Den
 California Exotic Novelties
 Callaway
@@ -370,6 +375,7 @@ Colonial Candle
 Columbia
 Comeon
 Comet
+Comfort Colors
 Command
 Compo
 Contigo
@@ -394,6 +400,7 @@ COVERGIRL
 Coway
 Craft & Kin
 Craftsman
+Craig
 Crate 61 Organics
 Crayola
 CRC
@@ -523,6 +530,7 @@ Earth Rated
 Eastpak
 Eastwood
 Eberhard Faber
+Eberlestock
 EBL
 ecobee
 ECOFLOW
@@ -540,6 +548,7 @@ Elite Gourmet
 Ello
 Elmer's
 Emergen-C
+Emerson
 Empava
 empire
 Emsa
@@ -661,6 +670,7 @@ Garmin
 Garnier
 Gasoila
 Gatorade
+GCI Outdoor
 GE
 GE PROFILE
 GearIT
@@ -669,6 +679,7 @@ GEDORE
 Geekworm
 General Mills
 GERBER
+Gerber Gear
 GERmanikure
 GermGuardian
 Gevi
@@ -710,6 +721,7 @@ Got2b
 Gourmanity
 Gourmia
 Govee
+GPX
 GRACE KARIN
 Granitestone
 Grave Before Shave
@@ -734,6 +746,7 @@ Guy Laroche
 Haba
 Hacksaw
 Haflinger
+Haggar
 Haier
 Hairitage
 Hakko
@@ -741,7 +754,9 @@ Hakle
 Halberd
 Hallmark
 Hama
+Hamilton
 Hamilton Beach
+Hamilton Buhl
 Hammermill
 Hanes
 HANKOOK
@@ -806,7 +821,9 @@ Honest Amish
 Honeywell
 Hoover
 HORI
+Hot Topic
 Hotel Spa
+HotHands
 HP
 HTC
 Huawei
@@ -820,6 +837,7 @@ Hybrid
 Hyde
 Hydro Flask
 Hydroflask
+HydroJug
 HyperX
 HYUNDAI
 Iams
@@ -867,6 +885,7 @@ JASON
 JBL
 JCPenney
 Jell-O
+JENSEN
 Jessica Simpson
 Jet
 JIMMY CHOO
@@ -1018,6 +1037,7 @@ LiCB
 Liebert
 Life
 Life Savers
+LifeStraw
 LifeStyles
 Lindt
 LINDY
@@ -1042,6 +1062,7 @@ LONDON FOG
 Lotus Biscoff
 Louis Vuitton
 Louisville Ladder
+Loungefly
 LOVEVOOK
 LTRA
 LU
@@ -1061,6 +1082,7 @@ Mackie
 MadeGood
 Magbak
 Maglite
+Magnavox
 Magpul
 MAHLE
 Makita
@@ -1093,6 +1115,7 @@ MATEIN
 Mattel
 Maui Jim
 Max Factor
+Maxell
 MAXWELL HOUSE
 MAYBELLINE
 McCormick
@@ -1134,6 +1157,7 @@ Microflex
 Micron
 Microsoft
 Midea
+Midland
 Midwest Can
 Miele
 Mielle Organics
@@ -1151,6 +1175,7 @@ Mistral
 Mitchum
 Miti
 Mitutoyo
+Mixxtape
 Mizuno
 Mobil 1
 Modway
@@ -1172,6 +1197,7 @@ Morton & Bassett
 Mossy Oak
 Motorcraft
 Motorola
+Motorola Solutions
 Motul
 Moulinex
 Mountain Fruit Co.
@@ -1195,6 +1221,7 @@ Nature Valley
 Nature's Bakery
 Nature's Path
 Nature's Recipe
+Naturehike
 Nautica
 NavePoint
 Navitas Organics
@@ -1212,6 +1239,7 @@ New brothread
 Newair
 NewYork Cables
 Nexa Lotte
+Nextmug
 Nexxus
 NGK
 NICETOWN
@@ -1309,9 +1337,11 @@ Oura
 Outdoor Research
 OutdoorMaster
 OVERTURE
+Owala
 Owon
 OxiClean
 OXO
+OZARK TRAIL
 P & S PROFESSIONAL DETAIL PRODUCTS
 P&G PROFESSIONAL
 P&S Detail Products
@@ -1331,6 +1361,7 @@ Patagonia
 Patriot Memory
 Pattex
 Paudin
+Paul Fredrick
 Paul Mitchell
 Paul Sebastian
 PAYDAY
@@ -1383,6 +1414,7 @@ Polar
 Polaris
 Polaroid
 POLO RALPH LAUREN
+Poo-Pourri
 poppi
 PopSockets
 Porsche
@@ -1627,6 +1659,7 @@ SlimFast
 Slippery Stuff
 Sliquid
 SLK
+SlumberPod
 Smart Weigh
 Smartwool
 Smeg
@@ -1652,6 +1685,7 @@ Sonos
 Sony
 Soundcore
 Sour Patch Kids
+Southpole
 Southwire
 Sparkle
 Sparkling ICE
@@ -1686,6 +1720,7 @@ STAHLWILLE
 Stalwart
 Standard Motor Products
 Stanley
+Stansport
 Staples
 Starbucks
 Starburst
@@ -1708,6 +1743,7 @@ Stormguard
 Streamlight
 Stretch Island
 STUBAI
+Studebaker
 Stur
 Suave
 Suavecito
@@ -1739,6 +1775,7 @@ SweeTARTS
 Swiffer
 Swift Auto Care
 SwiftGrip
+Swiss Eagle
 Swiss Miss
 SWISS NAVY
 SwissGear
@@ -1800,6 +1837,7 @@ ThirtyTwo
 Thomy
 Thorne
 Thousand Lakes
+Thread Wallets
 ThruNite
 Thule
 Thymes
@@ -1812,6 +1850,7 @@ Timbuk2
 TIMEMORE
 Timex
 Tipp-Ex
+Titan by Arctic Zone
 Titebond
 Titleist
 Tom Ford
@@ -1863,7 +1902,9 @@ UGREEN
 UHU
 UltraPro
 Umbro
+Uncle Henry
 Under Armour
+Under the Weather
 Unger
 uni
 Uni-ball
@@ -1872,6 +1913,7 @@ Uniball
 Unicorn
 Uniden
 Unilever
+UNIONBAY
 Unitec
 UPS Battery Center
 URBAN DECAY
@@ -1886,6 +1928,7 @@ Vagisil
 VAHDAM
 Valentino
 Valvoline
+Van Heusen
 Vanicream
 Vanish
 Vans
@@ -1897,6 +1940,7 @@ VAUDE
 VAULTEK
 Vaultz
 Vector KGM
+VEET
 Velcro
 VELCRO Brand
 Venom Steel
@@ -1910,6 +1954,7 @@ Vgo...
 Vickerman
 Vicks
 Victorinox
+Victrola
 Viking Revolution
 Vikings Blade
 Viktor & Rolf
@@ -1942,6 +1987,8 @@ Watkins
 Wavian
 WD_BLACK
 WD-40
+WeatherPod
+Weatherproof Vintage
 Weber
 WEICON
 Weiman
