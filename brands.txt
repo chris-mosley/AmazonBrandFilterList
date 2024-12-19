@@ -28,6 +28,7 @@ Adata
 adidas
 adidas Originals
 Adiva Intimates
+Advanced Clinicals
 Advil
 AEG
 AEROPOSTALE
@@ -75,6 +76,7 @@ Ambi
 AMD
 American Crew
 American Standard
+AmLactin
 Amoretti
 Anchor Hocking
 ands
@@ -394,6 +396,7 @@ Corningware
 Corsair
 Cosclay
 COSORI
+COSRX
 Costa Del Mar
 Cottonelle
 COUNTRY TIME
@@ -779,6 +782,7 @@ Heinz
 Heitmann
 hello
 Hello Bello
+Hempz
 Henckels
 Henderson
 Hengst
@@ -887,6 +891,7 @@ JBL
 JCPenney
 Jell-O
 JENSEN
+Jergens
 Jessica Simpson
 Jet
 JIMMY CHOO
@@ -1070,6 +1075,7 @@ LU
 LUBELAB
 Luber-finer
 LUBILICIOUS PERSONAL WATER BASED LUBRICANT
+Lubriderm
 LUCAS
 Lululemon
 Lume
@@ -1104,6 +1110,7 @@ Marc Jacobs
 Mares
 Margaritaville
 Maria Nila
+Mario Badescu
 Marmot
 Mars
 Mars Hydro
@@ -1132,6 +1139,7 @@ MED PRIDE
 Mediabridge
 Medion
 Medisana
+Medline
 Megababe
 Megachef
 Meguiar's
@@ -1933,6 +1941,7 @@ Van Heusen
 Vanicream
 Vanish
 Vans
+Vantrue
 Varta
 Vaseline
 Vashe
@@ -1962,6 +1971,7 @@ Viktor & Rolf
 Vileda
 Villeroy & Boch
 Vineyard Vines
+Viofo
 Viparspectra
 Vitafit
 Vitakraft
