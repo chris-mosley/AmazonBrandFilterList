@@ -32,7 +32,6 @@ Advanced Clinicals
 Advil
 AEG
 AEROPOSTALE
-Aeropr
 Aeropress
 Aeroxon
 Affresh
@@ -229,8 +228,8 @@ Blueair
 BLUETTI
 Blum
 Blumat
-Bob's Red Mill (Current item on list does not include apostrophe. Replace or include in addition)
-bobs red mill
+Bob's Red Mill
+Bobs Red Mill
 BodiLove
 Body Glove
 BODYARMOR
@@ -1391,7 +1390,6 @@ Omnicharge
 On
 One Ball
 ONE Condoms
-One Degr
 One Degree
 One Degree Organic Foods
 One Mfg
