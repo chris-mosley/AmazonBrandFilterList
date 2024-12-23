@@ -28,10 +28,6 @@ Adata
 adidas
 adidas Originals
 Adiva Intimates
-Advil
-AEG
-AEROPOSTALE
-Aeropr
 Advanced Clinicals
 Advil
 AEG
@@ -52,14 +48,17 @@ alaway
 Alba Botanica
 Albanese
 Aleve
+Alexander Del Rossa
 Alienware
 All-Clad
 Allegra
+Allstar Innovations
 Almay
 Aloe Cadabra
 alpen
 Alpina
 Alpine
+Alpine Swiss
 altoids
 Alvera
 Always
@@ -77,6 +76,7 @@ Amazon Fresh
 Amazon.com
 AmazonCommercial
 Ambi
+Amco
 AMD
 American Crew
 American Standard
@@ -123,6 +123,7 @@ Armor All
 Aroma Housewares
 Arrid
 arteza
+Arus
 Ascend
 ASICS
 ASRock
@@ -155,6 +156,7 @@ Babish
 Bad Birdie
 Badia
 Baldwin
+Balega
 Ballard Products
 BALLISTOL
 band-aid
@@ -168,6 +170,7 @@ Bath & Body Works
 Bauknecht
 Bayer
 Bazooka Candy Brands
+BCBGMAXAZRIA
 be quiet!
 Beats
 BeaverCraft
@@ -180,7 +183,9 @@ Beierdorf
 Beko
 Belk
 Belkin
+bella
 Bellroy
+Ben Sherman
 Benchmade
 BenchPro
 Beneful
@@ -216,16 +221,20 @@ Blackwing
 Blind Barber
 Blink
 Blistex
+Bloomingville
 Blue Buffalo
+Blue Diamond
 Blueair
 BLUETTI
 Blum
 Blumat
-Bob's Red Mill (Current item on list does not include apostrophe. Replace or include in addition)
-bobs red mill
+Bob's Red Mill
+Bobs Red Mill
 BodiLove
+Body Glove
 BODYARMOR
 Bodyprox
+Bogey Bros
 BÖKER PLUS
 bolle
 bollé
@@ -236,6 +245,7 @@ BOSCH
 Bosch Automotive
 Bosche
 Bose
+BOSS
 Boss Office Products
 Bostitch
 Bosu
@@ -256,12 +266,14 @@ Brickell
 Brickell Men's Products
 Bridgestone
 Bright Way Group
+Brightech
 Brightown
 BRINKS
 Brio
 Brita
 Brooklinen
 Brooks
+Brooks Brothers
 Brother
 Brüder Mannesmann
 BrüMate
@@ -270,6 +282,7 @@ Buck Knives
 Buddy Biscuits
 Buddy Wash
 BUG-A-SALT
+Built
 bumble
 BURG-WÄCHTER
 Burlap & Barrel
@@ -308,6 +321,7 @@ Canon
 CAP Barbell
 CAPiTA
 Capresso
+Caraway
 Carefree
 Caress
 Carhartt
@@ -315,6 +329,7 @@ Cariloha
 Carlinkit
 Carnation Breakfast Essentials
 Carolina Herrera
+CAROTE
 Casabrews
 Cascade
 Cascadian Farm
@@ -322,6 +337,7 @@ Case Logic
 Caseology
 CASETiFY
 Casio
+Casper
 Castrol
 Caswell-Massey
 Caution Wear
@@ -345,10 +361,13 @@ Charmin
 Cheerios
 Cheetos
 Chef Craft
+Chef'n
 chemical guys
 Cherry
 Chesapeake Bay Candle
 Chex
+Chicago Metallic
+Children's Factory
 Chobani
 Chocolove
 Chrysler
@@ -364,6 +383,7 @@ Clarks
 Clatronic
 Clatronik
 Clementoni
+CleverMade
 Clif Bar
 Clinique
 Cloralen
@@ -390,6 +410,7 @@ Continental
 Converse
 Cooler Master
 Cooper
+Copco
 Copper Fit
 Coral
 Core Power
@@ -406,6 +427,7 @@ Cottonelle
 COUNTRY TIME
 COVERGIRL
 Coway
+Craft
 Craft & Kin
 Craftsman
 Craig
@@ -414,6 +436,7 @@ Crayola
 CRC
 Cream of Wheat
 Creative
+Creative Co-Op
 Creative Mark
 Cree
 Cree Lighting
@@ -582,6 +605,7 @@ Eubos
 Eucerin
 eufy
 eufy Security
+EUREKA
 Eurow
 Eve
 EverBrite
@@ -622,6 +646,7 @@ FiiO
 FIJI
 Fila
 Fimo
+Finch + Fennel
 Finish
 First Alert
 Fischer
@@ -630,6 +655,8 @@ Fiskars
 Fissler
 Fitbit
 FitVille
+Fitz & Floyd
+Fitz and Floyd
 Fjallraven
 Fjällräven
 Flame King
@@ -686,6 +713,8 @@ GEARWRENCH
 GEDORE
 Geekworm
 General Mills
+Gentle Souls
+Genuine Fred
 GERBER
 Gerber Gear
 GERmanikure
@@ -708,6 +737,7 @@ Glade
 Gladiator
 glerups
 Glisten
+Globe Electric
 Gloria
 Glorious
 Glorious PC Gaming Race
@@ -716,6 +746,7 @@ GLYDE
 GM
 Gold BJJ
 Gold Bond
+GOLDTOE
 Good Clean Love
 GoodCook
 Goodyear
@@ -726,6 +757,7 @@ Gorilant
 Gorilla
 Gorilla Grip
 Got2b
+Gotham Steel
 Gourmanity
 Gourmia
 Govee
@@ -741,6 +773,7 @@ Greater Goods
 Greenception
 Greenies
 Greenlite
+GreenPan
 Greens Steel
 Greenworks
 Griot's Garage
@@ -780,6 +813,7 @@ Harry's
 Hasbro
 HAWAIIAN PUNCH
 Hazet
+Healing Solutions
 Heat Storm
 Hefty
 Heinz
@@ -816,6 +850,7 @@ Hilti
 Himalaya
 Hipp
 Hisense
+Hoffritz
 Hoist
 HOKA
 HOKA ONE ONE
@@ -824,15 +859,18 @@ Hollis
 Hollister
 Hollow
 Homax
+hOmeLabs
 HON
 Honda
 Honest Amish
+Honey-Can-Do
 Honeywell
 Hoover
 HORI
 Hot Topic
 Hotel Spa
 HotHands
+Household Essentials
 HP
 HTC
 Huawei
@@ -857,6 +895,7 @@ IDEAL Electrical
 IDEAL Industries
 iFixit
 Igloo
+ILLUME
 Imarku
 Impresan
 INBUS
@@ -869,6 +908,7 @@ Instant
 Instant Pot
 Intel
 Intellinet
+International Silver
 Intex
 iProven
 iProvèn
@@ -881,6 +921,7 @@ iSpice
 Ivory
 IVY Classic
 IWISS
+IZOD
 J-B Weld
 J.R. Watkins
 Jabra
@@ -896,6 +937,7 @@ JCPenney
 Jell-O
 JENSEN
 Jergens
+Jerzees
 Jessica Simpson
 Jet
 JIMMY CHOO
@@ -908,6 +950,7 @@ Johnny Slicks
 Johnson & Johnson
 JOKARI
 Jolly Rancher
+JONATHAN Y
 Jones
 Jones New York
 JOOLA
@@ -934,6 +977,8 @@ KD Supplies
 Keebler
 Kellogg's
 Kenmore
+Kenneth Cole
+Kensington
 Kenwood
 Keoker
 Kershaw
@@ -956,6 +1001,7 @@ KIRSCHEN
 Kit Kat
 Kitchenaid
 Kix
+Kizmos
 Klass Aguas Frescas
 Kleenex
 Klein
@@ -995,6 +1041,7 @@ L'Oreal Paris
 La Jolie Muse
 La Pavoni
 La Roche-Posay
+Lacoste
 Lactaid
 Lacura
 Ladder-Max
@@ -1005,6 +1052,7 @@ Lancom
 Lancôme
 Land Rover
 Lands End
+Lands' End
 Lands’ End
 LANON Protection
 Lasko
@@ -1049,6 +1097,7 @@ Life
 Life Savers
 LifeStraw
 LifeStyles
+Lifetime Brands Inc.
 Lindt
 LINDY
 Linksys
@@ -1085,12 +1134,15 @@ Lululemon
 Lume
 Lumify
 Lutron
+LUXRITE
 Lysol
 M&M
 M&M'S
 Maars Drinkware
 Mackie
+Made In
 MadeGood
+madesmart
 Magbak
 Maglite
 Magnavox
@@ -1116,9 +1168,11 @@ Margaritaville
 Maria Nila
 Mario Badescu
 Marmot
+MARQUESS
 Mars
 Mars Hydro
 Marshall
+MARTHA STEWART
 Maruchan
 Marvel
 Master Lock
@@ -1148,6 +1202,7 @@ Megababe
 Megachef
 Meguiar's
 Meister
+Melannco
 Melitta
 Member's Mark
 Memphis Glove
@@ -1157,6 +1212,7 @@ Mercedes-Benz
 Mercer Culinary
 Merrell
 Merrick
+Merten & Storck
 Meta
 Metabo
 Metabo HPT
@@ -1176,6 +1232,7 @@ Miele
 Mielle Organics
 Mighty Max Battery
 MightyGood
+Mikasa
 MikroTik
 Milfra
 Milka
@@ -1183,7 +1240,9 @@ Miller Electric
 Milwaukee
 Minnetonka
 Mio
+Miracase
 Miracle II
+Misto
 Mistral
 Mitchum
 Miti
@@ -1203,129 +1262,6 @@ Monster Energy
 Montana West
 MONTBLANC
 Mopar
-Morakniv
-Moroccanoil
-Morton
-Morton & Bassett
-Mossy Oak
-Motorcraft
-Motorola
-Motorola Solutions
-Motul
-Moulinex
-Mountain Fruit Co.
-Mr. Christmas
-Mr. Clean
-Mr. Coffee
-Mr. Heater
-Mr. Pen
-MR.SIGA
-MRS. MEYER'S CLEAN DAY
-MSI
-Mueller Austria
-MxVol
-My Weigh
-Nabisco
-Native
-Natural Balance
-Naturalamb
-Nature Made
-Nature Valley
-Nature's Bakery
-Nature's Path
-Nature's Recipe
-Naturehike
-Nautica
-NavePoint
-Navitas Organics
-Neff
-Neiko
-Nescafé
-Nespresso
-Nesquik
-Nestlé
-NETGEAR
-Neudorff
-Neutrogena
-New Balance
-New brothread
-Newair
-NewYork Cables
-Nexa Lotte
-Nextmug
-Nexxus
-NGK
-NICETOWN
-Nigrin
-Nike
-Nikon
-NinetoFiveLife
-Ninja
-Nintendo
-Nissan
-Nite Ize
-Nitecore
-Nitro
-Nitto
-Nivea
-Nizoral
-No7
-NOCO
-Noctua
-Nokia
-Noosa
-Nordic Naturals
-Nordic Ware
-Northlight
-Nostalgia
-NOTTY BOY
-Novus
-NOW
-Now and Later
-NPP
-NT Cutter
-Nu Calgon
-Nubian Heritage
-Nugo
-Nuk
-nuphy
-NuTrail
-NUTRI FIT
-NutriBullet
-NutriChef
-NutriSource
-Nutristore
-Nutro
-Nuwave
-NVIDIA
-Nylabone
-NYX PROFESSIONAL MAKEUP
-NZXT
-O Naturals
-O-Cedar
-O'Keeffe's
-Oakley
-Oars + Alps
-Oats Overnight
-OCB
-Ocean Potion
-Ocean Spray
-Oceanic
-OdoBan
-Office Depot
-Office Star
-OGIO
-OGX
-Olaplex
-Olay
-Old Bay
-Old Spice
-OLFA
-OLIGHT
-On
-One Ball
-ONE Condoms
-One Degr
 Mophie
 Morakniv
 Moroccanoil
@@ -1338,6 +1274,7 @@ Motorola Solutions
 Motul
 Moulinex
 Mountain Fruit Co.
+Mountain Hardwear
 Mr. Christmas
 Mr. Clean
 Mr. Coffee
@@ -1346,7 +1283,10 @@ Mr. Pen
 MR.SIGA
 MRS. MEYER'S CLEAN DAY
 MSI
+Mueller
 Mueller Austria
+Mueller Living
+Munchkin
 MxVol
 My Weigh
 Nabisco
@@ -1470,6 +1410,7 @@ Osprey
 Oster
 OTC
 Otterbox
+OttLite
 OTTOCAST
 Our Own Candle Company
 Oura
@@ -1527,11 +1468,13 @@ Persil
 Perwoll
 PETZL
 Peugeot
+Pfaltzgraff
 Pfister
 Phanteks
 Philips
 Philips Hue
 Philips Norelco
+Photo Paper Direct
 Pica
 PILOT
 PINE64
@@ -1541,6 +1484,7 @@ Pittman
 Pittman Outdoors
 pjur
 Plackers
+PlanetBox
 Plantura
 Play-Doh
 Playmobil
@@ -1565,6 +1509,7 @@ Powerade
 PowerColor
 POWERMASTER
 Powermatic
+PPD
 Prada
 Pre de Provence
 Premier Protein
@@ -1597,6 +1542,7 @@ Pureology
 Purina
 Purina ONE
 Purina Pro Plan
+PurSteam
 Push Pop
 Pyle
 Pyrex
@@ -1605,6 +1551,9 @@ Qaestfy
 QNAP
 Quaker
 Quest Nutrition
+R&B Wire
+R&B Wire Products
+Rabbit
 Rachael Ray
 Rachael Ray Nutrish
 Rachel Ray
@@ -1623,6 +1572,7 @@ Raycon
 Rayovac
 Razer
 RDX
+Real Essentials
 Rectorseal
 Red Duck
 Red Land Cotton
@@ -1642,6 +1592,7 @@ Rexona
 Reynolds
 Reynolds Kitchens
 RhinoShield
+Rhone
 RICOH
 Ride
 Right Guard
@@ -1685,7 +1636,9 @@ Russell Athletic
 Russell Hobbs
 Ryobi
 S.M.S.L
+S'well
 S&F STEAD & FAST
+Sabatier
 SABRENT
 Saft
 Sagrotan
@@ -1752,6 +1705,7 @@ Seramis
 Serta
 Seventh Generation
 Severin
+Seville Classics
 SexyHair
 ShamWow
 Shardor
@@ -1764,6 +1718,7 @@ Sheba
 SHEEPSKIN ELITE
 Shelly
 SHIMANO
+Shop-Vac
 Shure
 Shuttle Art
 Siemens
@@ -1771,6 +1726,7 @@ siggi's
 Siglent Technologies
 Sigma
 SigmasTek
+Signature Design by Ashley
 Silit
 Silonn
 Silva
@@ -1794,6 +1750,7 @@ Skullcandy
 Skunk
 Sky Organics
 SKYN
+Sleek Socket
 Slice
 SlimFast
 Slippery Stuff
@@ -1801,6 +1758,7 @@ Sliquid
 SLK
 SlumberPod
 Smart Weigh
+Smartish
 Smartwool
 Smeg
 Smith
@@ -1827,6 +1785,7 @@ Soundcore
 Sour Patch Kids
 Southpole
 Southwire
+Spalding
 Sparkle
 Sparkling ICE
 SparkPod
@@ -1844,6 +1803,7 @@ Spice Hunter
 Spice Islands
 SPICE TRAIN
 Spiceology
+Spicy Shelf
 Spider Farmer
 Spigen
 SPLENDA
@@ -1851,6 +1811,7 @@ SPTA
 SPY
 Spyder
 Spyderco
+Squatty Potty
 St. Dalfour
 St. Ives
 Stabila
@@ -1880,6 +1841,7 @@ Stihl
 STOPBOX
 StoreYourBoard
 Stormguard
+StoveShelf
 Streamlight
 Stretch Island
 STUBAI
@@ -1933,6 +1895,7 @@ Tanos
 Targus
 Tassimo
 Taurus
+Taylor
 TaylorMade
 Taytools
 TCL
@@ -1969,11 +1932,13 @@ The Spice Lab
 The Spice Way
 TheraBreath
 Theragun
+Thermajane
 Thermajohn
 Thermalright
 Thermaltake
 Thermopro
 ThirtyTwo
+ThisWorx
 Thomy
 Thorne
 Thousand Lakes
@@ -1990,6 +1955,8 @@ Timbuk2
 TIMEMORE
 Timex
 Tipp-Ex
+Tipsy Elves
+Titan
 Titan by Arctic Zone
 Titebond
 Titleist
@@ -2005,12 +1972,15 @@ Topo Chico
 Torani
 Tory Burch
 Toshiba
+Towle
+Towle Living
 TOX
 Toyota
 TP-Link
 Traditional Medicinals
 Traeger
 Trail maker
+Tramontina
 Transcend
 Traxxas
 Tree Hut
@@ -2026,6 +1996,7 @@ Trolli
 True Citrus
 True Classic
 True Organic
+True Religion
 TUL
 Turtle Beach
 TUSA
@@ -2121,7 +2092,9 @@ WACACO
 Wago
 Wahl
 Wahoo
+Walker Edison
 Walker's
+Wallace
 Waterman
 Waterpik
 WaterWipes
@@ -2156,6 +2129,7 @@ Whirlpool
 Whiskas
 Whitemorph
 Whitestone
+Whitmor
 Whole Foods Market
 Wiha
 Wildhorn
@@ -2164,6 +2138,7 @@ Wilkinson Sword
 Williams
 Wilson
 Wilton
+Wilton Armetale
 Wilwood
 Winco
 Windex
@@ -2174,6 +2149,8 @@ wirsh
 Wiseorb
 Withings
 Wix
+WiZ
+WiZ Connected
 WMF
 Wolf Garten
 WOLF GOURMET
@@ -2206,6 +2183,8 @@ YAMAHA
 Yankee Candle
 Yardley
 YARDLEY LONDON
+Year & Day
+Year and Day
 Yeti
 Yokohama
 YORK
