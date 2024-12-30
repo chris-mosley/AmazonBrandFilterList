@@ -975,6 +975,7 @@ Kasa Smart
 Kate Spade New York
 KD Supplies
 Keebler
+KEEPOW
 Kellogg's
 Kenmore
 Kenneth Cole
@@ -1562,6 +1563,7 @@ Raid
 Ralcam
 Ralph Lauren
 Rancilio
+Range Kleen
 RASASI
 Raven Fightwear
 Ravensburger
@@ -1869,6 +1871,7 @@ Sure
 Surecan
 Surefire
 Suunto
+Storacell
 Swann
 Swarovski
 Sweet Baby Ray's
@@ -1912,6 +1915,7 @@ Tefal
 Tekton
 Tektronics
 Tenda
+Tenergy
 TERA PUMP
 Tervis
 Tesa
@@ -2035,6 +2039,7 @@ Utopia Bedding
 Utopia Towels
 Uvex
 uvexSports
+uxcell
 Vagisil
 VAHDAM
 Valentino
