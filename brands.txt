@@ -975,7 +975,6 @@ Kasa Smart
 Kate Spade New York
 KD Supplies
 Keebler
-KEEPOW
 Kellogg's
 Kenmore
 Kenneth Cole
@@ -2039,7 +2038,6 @@ Utopia Bedding
 Utopia Towels
 Uvex
 uvexSports
-uxcell
 Vagisil
 VAHDAM
 Valentino
