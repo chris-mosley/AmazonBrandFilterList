@@ -1562,6 +1562,7 @@ Raid
 Ralcam
 Ralph Lauren
 Rancilio
+Range Kleen
 RASASI
 Raven Fightwear
 Ravensburger
@@ -1869,6 +1870,7 @@ Sure
 Surecan
 Surefire
 Suunto
+Storacell
 Swann
 Swarovski
 Sweet Baby Ray's
@@ -1912,6 +1914,7 @@ Tefal
 Tekton
 Tektronics
 Tenda
+Tenergy
 TERA PUMP
 Tervis
 Tesa
