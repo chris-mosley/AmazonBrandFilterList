@@ -878,6 +878,7 @@ Huffy
 HUGGIES
 Hugo
 HUGO BOSS
+Huion
 Hurley
 Husqvarna
 Hybrid
@@ -1061,6 +1062,7 @@ Laura Davidson Furniture
 LAURA GELLER NEW YORK
 Lavazza
 Lawry's
+LaZBoy
 LD Products
 Le Creuset
 Leather Honey
@@ -2011,6 +2013,7 @@ U by Kotex
 U.S. Art Supply
 Uberlube
 Ubiquiti
+Ugee
 UGG
 UGREEN
 UHU
@@ -2092,6 +2095,7 @@ VTOMAN
 Vuori
 VViViD
 WACACO
+Wacom
 Wago
 Wahl
 Wahoo
@@ -2174,11 +2178,13 @@ X-Acto
 X-Sense
 X-Tronic
 Xdro Shoes
+Xencelabs
 Xerox
 XESSO
 XFX
 Xiaomi
 XLC
+Xp-Pen
 XPEL
 Yabano
 Yale
