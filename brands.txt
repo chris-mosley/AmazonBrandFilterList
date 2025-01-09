@@ -220,6 +220,7 @@ Billie
 Biobizz
 Biolage
 BIOPURE
+Biostar
 Biotherm
 Birkenstock
 Biscoff
@@ -375,6 +376,7 @@ Chair Master
 Champion
 Champion Chamois
 Chanel
+Channel Well
 Channellock
 Chapman
 ChapStick
@@ -703,6 +705,7 @@ Fosi Audio
 Fossil
 Fowler
 Fox Trot
+Fractal Design
 Fram
 Franzis
 FREE SOLDIER
@@ -721,6 +724,7 @@ Froot Loops
 Frost King
 fruit of the loom
 Fruity PEBBLES
+FSP
 Fujifilm
 Funko
 g.skill
@@ -865,6 +869,7 @@ Herman Miller
 Herschel
 HERSHEY'S
 HESTRA
+Hewlett Packard
 HexClad
 Hey Dude
 HEYDUDE
@@ -920,6 +925,7 @@ Hydro Flask
 Hydroflask
 HydroJug
 HyperX
+HYTE
 HYUNDAI
 Iams
 iBuyPower
@@ -1135,6 +1141,7 @@ Lexmark
 Lexol
 LEXUS
 LG
+Lian Li
 Lian Lian
 LiCB
 Liebert
@@ -1185,6 +1192,7 @@ M&M
 M&M'S
 Maars Drinkware
 Mackie
+Mad Catz
 Made In
 MadeGood
 madesmart
@@ -1267,6 +1275,7 @@ Michael Jordan
 Michael Kors
 Michel Design Works
 Michelin
+Micro Center
 Microflex
 Micron
 Microsoft
@@ -1364,6 +1373,7 @@ New brothread
 Newair
 NewYork Cables
 Nexa Lotte
+Next Level Racing
 Nextmug
 Nexxus
 NGK
@@ -1569,6 +1579,7 @@ PRE JYM
 Premier Protein
 Premium Guard
 Prepworks by Progressive
+PreSonus
 Presto
 PRIME
 PRIME HYDRATION
@@ -1706,6 +1717,7 @@ SABRENT
 Saft
 Sagrotan
 Sailwind
+Saitek
 Sakura
 Salomon
 Salt Life
@@ -1715,6 +1727,7 @@ Sand Castle Games
 Sandisk
 Sanlight
 Santa Cruz ORGANIC
+Sapphire
 Sapphire Technology
 Sappho from lesbos
 Sappo Hill
@@ -1793,6 +1806,8 @@ Signature Design by Ashley
 Silit
 Silonn
 Silva
+Silverstone
+SilverStone Technology
 Simple Green
 Simple Mills
 Simple Modern
@@ -1842,6 +1857,7 @@ Solaris
 Solidigm
 Somat
 Sonax
+Sonnet
 SONOFF
 Sonos
 Sony
@@ -2010,6 +2026,7 @@ Thorne
 Thousand Lakes
 Thread Wallets
 ThruNite
+THRUSTMASTER
 Thule
 Thymes
 Ticonderoga
@@ -2147,6 +2164,7 @@ Villeroy & Boch
 Vineyard Vines
 Viofo
 Viparspectra
+VisionTek
 Vitafit
 Vitakraft
 Vitamix
@@ -2267,6 +2285,7 @@ Yubico
 YumEarth
 YVES SAINT LAURENT
 Zak Designs
+Zalman
 ZARA
 Zeagle
 Zeal Optics
