@@ -629,6 +629,8 @@ EPOMAKER
 Eppendorf
 Epson
 Equate
+Ernst
+Ernst Manufacturing
 Escort
 ESR
 Estwing
@@ -963,6 +965,7 @@ International Silver
 Intex
 iProven
 iProvèn
+IRIS USA
 Irish Spring
 iRobot
 IRON °FLASK
@@ -1041,6 +1044,7 @@ Kenwood
 Keoker
 Kershaw
 Kester
+Keter
 Ketone-IQ
 Kettle Brand
 Keurig
@@ -2035,6 +2039,7 @@ The Humble Co.
 The Lakeside Collection
 The North Face
 The Rag Company
+The Ryker Bag
 The Spice Lab
 The Spice Way
 TheraBreath
