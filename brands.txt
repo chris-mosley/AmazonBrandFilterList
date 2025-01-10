@@ -252,6 +252,7 @@ Bodyprox
 BodyTech
 BodyTech Elite
 Bogey Bros
+Boka
 BÖKER PLUS
 bolle
 bollé
@@ -480,6 +481,7 @@ Crystal Essence
 Crystal Light
 Cuisinart
 curad
+Curaprox
 Curel
 Curve
 Curver
@@ -514,6 +516,7 @@ Denso
 DenTek
 Depend
 DEPSTECH
+Desert Essence
 Detail Dudes
 Detail Factory
 Deuter
@@ -562,6 +565,7 @@ Dreame
 Dreamies
 Dremel
 Dreo
+DrTung's
 Dry Idea
 Dual Electronics
 Dubinik
@@ -590,6 +594,7 @@ Eastwood
 Eberhard Faber
 Eberlestock
 EBL
+Eco-Dent
 ecobee
 ECOFLOW
 ECOGARD
@@ -597,6 +602,7 @@ ecotowel
 EcoWise
 ED HARDY
 Eddie Bauer
+edel+white
 Edifier
 Edward Tools
 EF ECOFLOW
@@ -636,6 +642,7 @@ eufy
 eufy Security
 EUREKA
 Eurow
+Euthymol
 Eve
 EverBrite
 Eveready
@@ -772,6 +779,7 @@ Glad
 Glade
 Gladiator
 glerups
+GLIDE
 Glisten
 Globe Electric
 Gloria
@@ -812,12 +820,14 @@ Greenlite
 GreenPan
 Greens Steel
 Greenworks
+Grin
 Griot's Garage
 Grizzly Industrial
 GROHE
 Gucci
 GUESS
 Gum
+GuruNanda
 Gustus Vitae
 Guy Laroche
 Haba
@@ -999,6 +1009,7 @@ JONATHAN Y
 Jones
 Jones New York
 JOOLA
+Jordan
 Jose Cuervo
 Joseph Joseph
 Jovan
@@ -1329,6 +1340,7 @@ Motul
 Moulinex
 Mountain Fruit Co.
 Mountain Hardwear
+MOUTHWATCHERS
 Mr. Christmas
 Mr. Clean
 Mr. Coffee
@@ -1461,6 +1473,7 @@ Onkyo
 Opinel
 Oppo
 Optimum Nutrition
+Oral B
 Oral-B
 Oreo
 Orgain
@@ -1537,8 +1550,10 @@ Phanteks
 Philips
 Philips Hue
 Philips Norelco
+Philips Sonicare
 Photo Paper Direct
 Pica
+Piksters
 PILOT
 PINE64
 PIONEER
@@ -1573,12 +1588,14 @@ PowerColor
 POWERMASTER
 Powermatic
 PPD
+Practicon
 Prada
 Pre de Provence
 PRE JYM
 Premier Protein
 Premium Guard
 Prepworks by Progressive
+Preserve
 PreSonus
 Presto
 PRIME
@@ -1618,6 +1635,7 @@ Qaestfy
 QNAP
 Quaker
 Quest Nutrition
+Quip
 R&B Wire
 R&B Wire Products
 Rabbit
@@ -1625,6 +1643,7 @@ Rachael Ray
 Rachael Ray Nutrish
 Rachel Ray
 Rackstuds
+RADIUS
 Raid
 Ralcam
 Ralph Lauren
@@ -1640,6 +1659,7 @@ Raycon
 Rayovac
 Razer
 RDX
+Reach
 Real Essentials
 Rectorseal
 Red Duck
@@ -1840,12 +1860,14 @@ Smart Weigh
 Smartish
 Smartwool
 Smeg
+SmileGoods
 Smith
 Smith & Nephew
 Smith & Wesson
 Smucker's
 SnapSafe
 Snickers
+SNOW
 Soapbox
 sodastream
 Soehnle
@@ -1886,6 +1908,7 @@ Spiceology
 Spicy Shelf
 Spider Farmer
 Spigen
+Spinbrush
 SPLENDA
 SPTA
 SPY
@@ -1994,6 +2017,7 @@ Tekton
 Tektronics
 Tenda
 Tenergy
+TEPE
 TERA PUMP
 Tervis
 Tesa
@@ -2007,6 +2031,7 @@ The Good Crisp Company
 The Hillman Group
 The Honest Company
 The Honey Pot Company
+The Humble Co.
 The Lakeside Collection
 The North Face
 The Rag Company
@@ -2270,6 +2295,7 @@ Xiaomi
 XLC
 Xp-Pen
 XPEL
+Y-Brush
 Yabano
 Yale
 YAMAHA
