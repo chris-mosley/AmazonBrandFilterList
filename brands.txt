@@ -15,6 +15,7 @@
 8Bitdo
 A LA MAISON
 A-Premium
+A. Lange & Sohne
 A&R
 Abus
 AC Infinity
@@ -143,6 +144,7 @@ Asus
 Atlantic Safety Products
 Atomic
 ATTITUDE
+Audemars Piguet
 Audi
 Audio-Technica
 Audioengine
@@ -178,6 +180,8 @@ bareMinerals
 Bath & Body Works
 Bauker
 Bauknecht
+Baume & Mercier
+Baume et Mercier
 Bayer
 Bazooka Candy Brands
 BCBGMAXAZRIA
@@ -235,6 +239,7 @@ Black+Decker
 Blackhawk
 BLACKLABEL Supplements
 Blackwing
+Blancpain
 Blind Barber
 Blink
 Blistex
@@ -273,6 +278,7 @@ BOSS
 Boss Office Products
 Bostitch
 Bosu
+Boucheron
 Bounce
 Bounty
 Boveda
@@ -282,8 +288,10 @@ Brach's
 Branch
 Braun
 Brawny
+Breitling
 Brembo
 brennenstuhl
+Brequet
 Bresser
 Breville
 Brickell
@@ -310,6 +318,7 @@ Buddy Wash
 BUG-A-SALT
 Built
 BulkSupplements.com
+Bulova
 BUM Energy
 bumble
 Burberry
@@ -362,6 +371,7 @@ Carlinkit
 Carnation Breakfast Essentials
 Carolina Herrera
 CAROTE
+Cartier
 Casabrews
 Cascade
 Cascadian Farm
@@ -381,6 +391,7 @@ CELSIUS
 Celtic Sea Salt
 CeraVe
 Certain Dri
+Certina
 Cesar
 Cetaphil
 Chair Master
@@ -392,6 +403,7 @@ Channellock
 Chapman
 ChapStick
 Charmin
+Chaumet
 Cheerios
 Cheetos
 Chef Craft
@@ -475,6 +487,7 @@ Create
 Creative
 Creative Co-Op
 Creative Mark
+Credor
 Cree
 Cree Lighting
 Cremo
@@ -687,6 +700,8 @@ eye mea
 EZ-POUR
 EZ-Sweetz
 EZY DOSE
+F. P. JOURNE
+F.P. JOURNE
 Faber-Castell
 Fabuloso
 Fackelmann
@@ -742,6 +757,7 @@ Fox Trot
 Fractal Design
 Fram
 Franzis
+Frederique Constant
 FREE SOLDIER
 FreshJax
 FreshPet
@@ -799,6 +815,8 @@ Gildan
 GILDEN TREE
 Gillette
 GIORGIO ARMANI
+Girard Perregaux
+Girard-Perregaux
 GIRO
 Givenchy
 Gizeh
@@ -835,6 +853,7 @@ Gourmia
 Govee
 GPX
 GRACE KARIN
+Grand Seiko
 Granitestone
 Grave Before Shave
 Gravity Defyer
@@ -884,6 +903,7 @@ Harbinger
 Haribo
 Harman Kardon
 Harney & Sons
+Harry Winston
 Harry's
 Hart
 Hasbro
@@ -955,6 +975,7 @@ Household Essentials
 HP
 HTC
 Huawei
+Hublot
 Huffy
 HUGGIES
 Hugo
@@ -1020,6 +1041,8 @@ Jackery
 Jackpot Candles
 Jacobs
 Jacobs Chuck
+Jaeger LeCoultre
+Jaeger-LeCoultre
 JanSport
 JASON
 JBL
@@ -1156,6 +1179,7 @@ Land Rover
 Lands End
 Lands' End
 Lands’ End
+Lange & Söhne
 LANON Protection
 Lasko
 Läufer
@@ -1223,6 +1247,7 @@ Logitech
 Logitech G
 LOLA
 LONDON FOG
+Longines
 Lotus Biscoff
 Louis Vuitton
 Louisville Ladder
@@ -1338,6 +1363,7 @@ Micron
 Microsoft
 Midea
 Midland
+MIDO
 Midwest Can
 Miele
 Mielle Organics
@@ -1371,6 +1397,7 @@ Mondelez International
 Monoprice
 Monster
 Monster Energy
+Mont Blanc
 Montana West
 MONTBLANC
 Mopar
@@ -1458,6 +1485,7 @@ Nocco
 NOCO
 Noctua
 Nokia
+Nomos
 Noosa
 Nordic Naturals
 Nordic Ware
@@ -1501,6 +1529,7 @@ Oceanic
 OdoBan
 Office Depot
 Office Star
+Officine Panerai
 OGIO
 OGX
 Olaplex
@@ -1511,6 +1540,7 @@ Old Spice
 OLFA
 OLIGHT
 Oliver Peoples
+Omega
 Omnicharge
 On
 One Ball
@@ -1532,6 +1562,7 @@ orbitalum
 Oreck
 Oreo
 Orgain
+Orient
 Ornativity
 Orolay
 Ortlieb
@@ -1568,6 +1599,7 @@ Parodontax
 Paslode
 Passion Lube
 Patagonia
+Patek Philippe
 Patriot Memory
 Pattex
 Paudin
@@ -1609,6 +1641,7 @@ Philips Hue
 Philips Norelco
 Philips Sonicare
 Photo Paper Direct
+Piaget
 Pica
 Piksters
 PILOT
@@ -1704,6 +1737,7 @@ Rachael Ray Nutrish
 Rachel Ray
 Rackstuds
 RADIUS
+Rado
 Raid
 Ralcam
 Ralph Lauren
@@ -1772,7 +1806,9 @@ Rockville
 Rockwell
 Rode
 Røde
+Roger Dubuis
 Roku
+Rolex
 Rolling Square
 Rolo
 ROMAN
@@ -2051,6 +2087,7 @@ Surefire
 Suunto
 Swann
 Swarovski
+Swatch
 Sweet Baby Ray's
 Sweet Water Decor
 SweeTARTS
@@ -2068,6 +2105,7 @@ Systane
 System Jo
 T-fal
 Tag Heuer
+TagHeuer
 Talentcell
 talenti
 Tampax
@@ -2146,6 +2184,7 @@ TIMEMORE
 Timex
 Tipp-Ex
 Tipsy Elves
+Tissot
 Titan
 Titan by Arctic Zone
 Titebond
@@ -2191,6 +2230,7 @@ True Citrus
 True Classic
 True Organic
 True Religion
+Tudor
 TUL
 Turtle Beach
 TUSA
@@ -2207,6 +2247,7 @@ UGG
 UGREEN
 UHU
 UltraPro
+Ulysse Nardin
 Umbro
 Uncaged
 Uncle Henry
@@ -2233,10 +2274,12 @@ Utopia Bedding
 Utopia Towels
 Uvex
 uvexSports
+Vacheron Constantin
 Vagisil
 VAHDAM
 Valentino
 Valvoline
+Van Cleef & Arpels
 Van Heusen
 Vanicream
 Vanish
@@ -2413,6 +2456,7 @@ ZEBRA
 Zebra Pen
 Zebralight
 ZEISS
+Zenith
 Zenoah
 Zep
 Zero Friction
@@ -2420,6 +2464,7 @@ Zevia
 ZIOXX
 Zipfizz
 Ziploc
+Zodiac
 Zojirushi
 ZOTA
 ZOTAC
