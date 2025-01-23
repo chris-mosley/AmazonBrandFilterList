@@ -87,6 +87,7 @@ AmLactin
 Amoretti
 AN PERFORMANCE
 Anchor Hocking
+Anderson Power
 ands
 ANEX
 ANGCURE
@@ -175,6 +176,7 @@ Bare Performance Nutrition
 Barebells
 bareMinerals
 Bath & Body Works
+Bauker
 Bauknecht
 Bayer
 Bazooka Candy Brands
@@ -203,7 +205,9 @@ Benevolence LA
 BENNING
 BenQ
 Berkey
+Bernard
 Bessey
+Best Lock
 Betty Crocker
 Beurer
 Beverly Hills Polo Club
@@ -227,7 +231,8 @@ Biscoff
 Bissell
 Black Diamond
 Black Wolf
-BLACK+DECKER
+Black+Decker
+Blackhawk
 BLACKLABEL Supplements
 Blackwing
 Blind Barber
@@ -237,6 +242,7 @@ Bloom Nutrition
 Bloomingville
 Blue Buffalo
 Blue Diamond
+Blue Ridge
 Blueair
 BLUETTI
 Blum
@@ -335,6 +341,7 @@ Calvin Klein
 Camay
 Cambridge Audio
 Camelbak
+Campbell
 Campbell Hausfeld
 CANADA WEATHER GEAR
 CANAWELD
@@ -363,6 +370,7 @@ Casio
 Casper
 Castrol
 Caswell-Massey
+CAT
 Caution Wear
 Cecotec
 Celestron
@@ -406,6 +414,7 @@ CIVIVI
 Clarks
 Clatronic
 Clatronik
+Cleco
 Clementoni
 CleverMade
 Clif Bar
@@ -479,7 +488,9 @@ Crucial
 Crush
 Crystal Essence
 Crystal Light
+CST/berger
 Cuisinart
+Cullen
 curad
 Curaprox
 Curel
@@ -491,6 +502,7 @@ D-Link
 Dakine
 DALI
 Dan-O's
+Danley
 Darn Tough
 DASH
 David Protein
@@ -521,6 +533,7 @@ Detail Dudes
 Detail Factory
 Deuter
 Devolo
+Devon
 DeWalt
 di Oro Living
 Diablo
@@ -546,6 +559,7 @@ Dooney and Bourke
 Dorcy
 Doritos
 Dorman
+DOTCO
 Dove
 DOVE MEN + CARE
 Dr Pepper
@@ -577,6 +591,7 @@ Duke Cannon
 Duke Cannon Supply Co.
 Dunhill
 Dunlop
+Duo-Fast
 Durable
 Duracell
 DURATECH
@@ -594,6 +609,7 @@ Eastwood
 Eberhard Faber
 Eberlestock
 EBL
+Echo
 Eco-Dent
 ecobee
 ECOFLOW
@@ -606,6 +622,7 @@ edel+white
 Edifier
 Edward Tools
 EF ECOFLOW
+eGo
 Ego Power+
 EHP Labs
 Eichhorn
@@ -616,7 +633,7 @@ Elmer's
 Emergen-C
 Emerson
 Empava
-empire
+Empire
 Emsa
 Emsco Group
 Enbrighten
@@ -629,6 +646,7 @@ EPOMAKER
 Eppendorf
 Epson
 Equate
+Erem
 Ernst
 Ernst Manufacturing
 Escort
@@ -701,8 +719,10 @@ Fjällräven
 Flame King
 Flash Furniture
 Flatiron Spice
+Flex
 Flexible Flyer
 Fluke
+Flymo
 Focal
 Folgers
 Folia
@@ -742,7 +762,7 @@ Gainful
 Galanz
 GAP
 Garden of Life
-GARDENA
+Gardena
 Gardner Bender
 Garmin
 Garnier
@@ -832,6 +852,7 @@ Gum
 GuruNanda
 Gustus Vitae
 Guy Laroche
+GYS
 Haba
 Hacksaw
 Haflinger
@@ -858,6 +879,7 @@ Haribo
 Harman Kardon
 Harney & Sons
 Harry's
+Hart
 Hasbro
 HAWAIIAN PUNCH
 Hazet
@@ -900,6 +922,8 @@ Hilti
 Himalaya
 Hipp
 Hisense
+HKP
+Hobart
 Hoffritz
 Hoist
 HOKA
@@ -910,6 +934,7 @@ Hollister
 Hollow
 Homax
 hOmeLabs
+Homelite
 HON
 Honda
 Honest Amish
@@ -930,6 +955,7 @@ Hugo
 HUGO BOSS
 Huion
 Hurley
+Husky
 Husqvarna
 Hybrid
 Hyde
@@ -943,6 +969,7 @@ Iams
 iBuyPower
 Ice Breakers
 ID Lubricants
+IDEAL
 IDEAL Electrical
 IDEAL Industries
 iFixit
@@ -986,6 +1013,7 @@ Jacked Factory
 Jackery
 Jackpot Candles
 Jacobs
+Jacobs Chuck
 JanSport
 JASON
 JBL
@@ -998,6 +1026,7 @@ Jessica Simpson
 Jet
 JIMMY CHOO
 JLab
+Jobox
 Jocko
 JOCKO FUEL
 John Deere
@@ -1011,6 +1040,7 @@ Jolly Rancher
 JONATHAN Y
 Jones
 Jones New York
+Jonsered
 JOOLA
 Jordan
 Jose Cuervo
@@ -1089,6 +1119,7 @@ KP KOOL PRODUCTS
 Kraft
 Kraus
 KREG
+Kress
 KROIL
 KRUPS
 Kryptonite
@@ -1198,6 +1229,7 @@ Luber-finer
 LUBILICIOUS PERSONAL WATER BASED LUBRICANT
 Lubriderm
 LUCAS
+Lufkin
 Lululemon
 Lume
 Lumify
@@ -1207,6 +1239,7 @@ Lysol
 M&M
 M&M'S
 Maars Drinkware
+Mac Tools
 Mackie
 Mad Catz
 Made In
@@ -1245,6 +1278,7 @@ MARTHA STEWART
 Maruchan
 Marvel
 Master Lock
+Master Power
 MasterChef
 MATEIN
 Mattel
@@ -1257,6 +1291,7 @@ McCormick
 McCormick Culinary
 McCormick Gourmet
 McCormick Grill Mates
+McCULLOCH
 McKesson
 MCR Safety
 MCTi
@@ -1306,6 +1341,7 @@ Mikasa
 MikroTik
 Milfra
 Milka
+Miller
 Miller Electric
 Milwaukee
 Minnetonka
@@ -1354,6 +1390,7 @@ Mr. Pen
 MR.SIGA
 MRS. MEYER'S CLEAN DAY
 MSI
+MTD Holdings
 Mueller
 Mueller Austria
 Mueller Living
@@ -1386,6 +1423,7 @@ NETGEAR
 Neudorff
 Neutrogena
 New Balance
+New Britain Machine Company
 New brothread
 Newair
 NewYork Cables
@@ -1408,6 +1446,7 @@ Nitro
 Nitto
 Nivea
 Nizoral
+NKT
 No7
 Nocco
 NOCO
@@ -1416,6 +1455,7 @@ Nokia
 Noosa
 Nordic Naturals
 Nordic Ware
+North Brothers
 Northlight
 Nostalgia
 NOTTY BOY
@@ -1480,6 +1520,9 @@ Oppo
 Optimum Nutrition
 Oral B
 Oral-B
+Orbit
+orbitalum
+Oreck
 Oreo
 Orgain
 Ornativity
@@ -1515,6 +1558,7 @@ Paper Mate
 Parachute
 Parker
 Parodontax
+Paslode
 Passion Lube
 Patagonia
 Patriot Memory
@@ -1584,9 +1628,11 @@ Poo-Pourri
 poppi
 PopSockets
 Porsche
+Porter-Cable
 Post Foods
 Post Foods LLC
 Post-it
+Poulan PRO
 PowerA
 Powerade
 PowerColor
@@ -1617,6 +1663,7 @@ PROJE'
 Promixx Inc
 Propel
 Protectli
+Proto
 Proxxon
 PS
 Psychedelic Water
@@ -1668,15 +1715,18 @@ Reach
 Real Essentials
 Rectorseal
 Red Duck
+Red Head
 Red Land Cotton
 RedCon
 RedCon1
 Redken
+RedMax
 REDMOND
 Redragon
 Reebok
 Reese's
 Refresh
+reid
 Relaxdays
 Remington
 Replens
@@ -1690,6 +1740,7 @@ RhinoShield
 Rhone
 RICOH
 Ride
+Ridgid
 Right Guard
 Rigol
 Ring
@@ -1709,6 +1760,7 @@ ROCCAT
 ROCKET ESPRESSO MILANO
 Rockler
 Rockville
+Rockwell
 Rode
 Røde
 Roku
@@ -1720,6 +1772,7 @@ Rösle
 Rossignol
 Rotho
 RotopaX
+RotoZip
 Rotring
 Rowenta
 Royal
@@ -1756,6 +1809,7 @@ Sapphire
 Sapphire Technology
 Sappho from lesbos
 Sappo Hill
+SATA
 Satch
 Saucony
 SawStop
@@ -1819,9 +1873,12 @@ Sheba
 SHEEPSKIN ELITE
 Shelly
 SHIMANO
+Shindaiwa
 Shop-Vac
 Shure
 Shuttle Art
+Sia Abrasives
+Sidchrome
 Siemens
 siggi's
 Siglent Technologies
@@ -1849,6 +1906,7 @@ Sjöbergs
 SK Hynix
 Skechers
 Skil
+Skilsaw
 Skittles
 Skullcandy
 Skunk
@@ -1914,6 +1972,7 @@ Spicy Shelf
 Spider Farmer
 Spigen
 Spinbrush
+Spit
 SPLENDA
 SPTA
 SPY
@@ -1929,6 +1988,8 @@ STAHLWILLE
 Stalwart
 Standard Motor Products
 Stanley
+Stanley Black & Decker
+Stanly Hand Tools
 Stansport
 Staples
 Starbucks
@@ -1946,6 +2007,7 @@ Stetson
 Steve Madden
 STIER
 Stihl
+Stiletto
 STOPBOX
 Storacell
 StoreYourBoard
@@ -2001,6 +2063,7 @@ Talentcell
 talenti
 Tampax
 Tanos
+Tapcon
 Targus
 Tassimo
 Taurus
@@ -2020,6 +2083,7 @@ Teekanne
 Tefal
 Tekton
 Tektronics
+Telex
 Tenda
 Tenergy
 TEPE
@@ -2062,6 +2126,7 @@ Thule
 Thymes
 Ticonderoga
 Tide
+TIF
 TIGI
 Tile
 Timberland
@@ -2109,6 +2174,7 @@ Triple Paste
 Tripp Lite
 TROJAN
 Trolli
+Troy-Bilt
 True Citrus
 True Classic
 True Organic
@@ -2171,6 +2237,7 @@ Vatic
 VAUDE
 VAULTEK
 Vaultz
+Vax
 Vector KGM
 VEET
 Velcro
@@ -2178,6 +2245,7 @@ VELCRO Brand
 Venom Steel
 Vera Bradley
 Verbatim
+Vermont American
 Versace
 Vertiv
 Vetriscience
@@ -2207,6 +2275,7 @@ Vorwerk
 VP Racing
 Vtech
 VTOMAN
+Vulcano
 Vuori
 VViViD
 WACACO
@@ -2227,6 +2296,7 @@ WD-40
 WeatherPod
 Weatherproof Vintage
 Weber
+Weed Eater
 WEICON
 Weiman
 Weißer Riese
@@ -2240,6 +2310,7 @@ Wells Lamont
 WEN
 Wera
 Werner
+Wesco
 Western Digital
 Westinghouse
 Westinghouse Outdoor Power Equipment
@@ -2269,6 +2340,7 @@ Winix
 Wirefy
 wirsh
 Wiseorb
+Wiss
 Withings
 Wix
 WiZ
@@ -2279,8 +2351,10 @@ WOLF GOURMET
 Wolfcraft
 Wonka
 WoodWick
+Worcester
 WORKPRO
 Worx
+Worx Professional
 Wrangler
 Wrangler Authentics
 Writech
@@ -2292,6 +2366,8 @@ WYZE
 X-Acto
 X-Sense
 X-Tronic
+XCeed
+Xcelite
 Xdro Shoes
 Xencelabs
 Xerox
@@ -2325,6 +2401,7 @@ ZEBRA
 Zebra Pen
 Zebralight
 ZEISS
+Zenoah
 Zep
 Zero Friction
 Zevia
