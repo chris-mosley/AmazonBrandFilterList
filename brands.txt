@@ -312,6 +312,7 @@ Built
 BulkSupplements.com
 BUM Energy
 bumble
+Burberry
 BURG-WÄCHTER
 Burlap & Barrel
 Burt's Bees
@@ -320,6 +321,7 @@ Burton
 Bushnell
 Butter Buds
 Butterfinger
+BVLGARI
 ByronStatics
 C.C
 C.C Beanie
@@ -429,6 +431,7 @@ Cobra
 Coghlan's
 Cold Steel
 Cole & Mason
+Cole National
 Coleman
 colgate
 Colonial Candle
@@ -550,6 +553,7 @@ Divinus Lab
 Dixie
 Dixon
 DJI
+DKNY
 Doc's Diesel
 Dockers
 Dolce & Gabbana
@@ -679,6 +683,7 @@ Excel Blades
 Expo
 Extech
 EXTRA
+eye mea
 EZ-POUR
 EZ-Sweetz
 EZY DOSE
@@ -777,6 +782,7 @@ GEARWRENCH
 GEDORE
 Geekworm
 General Mills
+Gentex
 Gentle Souls
 Genuine Fred
 GERBER
@@ -1504,6 +1510,7 @@ Old School Labs
 Old Spice
 OLFA
 OLIGHT
+Oliver Peoples
 Omnicharge
 On
 One Ball
@@ -1567,6 +1574,7 @@ Paudin
 Paul Fredrick
 Paul Mitchell
 Paul Sebastian
+Paul Smith
 PAYDAY
 PB ParfumsBelcam
 PB Swiss
@@ -1706,6 +1714,7 @@ Raven Fightwear
 Ravensburger
 Raw
 Rawlings
+Ray Ban
 Ray-Ban
 Raycon
 Rayovac
@@ -2077,6 +2086,7 @@ Tea Tree
 TEAMGROUP
 TechniSat
 Technivorm
+Technol
 Tecnu
 Tecnu Extreme
 Teekanne
@@ -2127,6 +2137,7 @@ Thymes
 Ticonderoga
 Tide
 TIF
+Tiffany & Co
 TIGI
 Tile
 Timberland
@@ -2162,6 +2173,7 @@ Trail maker
 TRAKK
 Tramontina
 Transcend
+Transitions
 Transparent Labs
 Traxxas
 Tree Hut
