@@ -39,6 +39,8 @@ Aeroxon
 Affresh
 AFMAT
 Airheads
+Airome
+Airomé
 Airpura
 Airwaves
 AJC
@@ -54,6 +56,8 @@ Alexander Del Rossa
 Alienware
 All-Clad
 Allegra
+Aller-Ease
+AllerEase
 ALLMAX
 Allstar Innovations
 Almay
@@ -80,6 +84,7 @@ Amazon Fresh
 Amazon.com
 AmazonCommercial
 Ambi
+AmbiEscents
 Amco
 AMD
 American Crew
@@ -114,6 +119,7 @@ Apex
 Apple
 apple & eve
 Aquaphor
+Aquasana
 AquaSonic
 Arc'teryx
 arcan
@@ -212,6 +218,8 @@ Berkey
 Bernard
 Bessey
 Best Lock
+Better Homes and Gardens
+BetterHomes&Gardens
 Betty Crocker
 Beurer
 Beverly Hills Polo Club
@@ -230,6 +238,7 @@ Biolage
 BIOPURE
 Biostar
 Biotherm
+BirdRock Home
 Birkenstock
 Biscoff
 Bissell
@@ -255,6 +264,7 @@ Blumat
 Bob's Red Mill
 Bobs Red Mill
 BodiLove
+Bodum
 Body Fortress
 Body Glove
 BODYARMOR
@@ -268,6 +278,7 @@ BÖKER PLUS
 bolle
 bollé
 Bomann
+Bonavita
 Boncare
 Bonne Maman
 BOSCH
@@ -303,6 +314,7 @@ Brightown
 BRINKS
 Brio
 Brita
+Brondell
 Brooklinen
 Brooks
 Brooks Brothers
@@ -321,6 +333,7 @@ BulkSupplements.com
 Bulova
 BUM Energy
 bumble
+BUNN
 Burberry
 BURG-WÄCHTER
 Burlap & Barrel
@@ -408,6 +421,8 @@ Cheerios
 Cheetos
 Chef Craft
 Chef'n
+Chefman
+Chemex
 chemical guys
 Cherry
 Chesapeake Bay Candle
@@ -457,6 +472,7 @@ Contigo
 Continental
 Converse
 Cooler Master
+Coop Home Goods
 Cooper
 Copco
 Copper Fit
@@ -507,6 +523,7 @@ Crystal Light
 CST/berger
 Cuisinart
 Cullen
+Culligan
 curad
 Curaprox
 Curel
@@ -518,6 +535,7 @@ D-Link
 Dakine
 DALI
 Dan-O's
+Danco
 Danley
 Darn Tough
 DASH
@@ -538,6 +556,7 @@ DeLallo
 deleyCON
 Dell
 Delphi
+Delta
 DELTA FAUCET
 Denon
 Denso
@@ -664,6 +683,7 @@ Eppendorf
 Epson
 Equate
 Erem
+Ergodyne
 Ernst
 Ernst Manufacturing
 Escort
@@ -695,7 +715,6 @@ Evolution
 Excel Blades
 Expo
 Extech
-EXTRA
 eye mea
 EZ-POUR
 EZ-Sweetz
@@ -744,12 +763,14 @@ Flexible Flyer
 Fluke
 Flymo
 Focal
+FOCO
 Folgers
 Folia
 FoodSaver
 Force Factor
 Ford
 Formula 409
+Forney
 Fosi Audio
 Fossil
 Fowler
@@ -842,6 +863,7 @@ GoodCook
 Goodyear
 Google
 GoPro
+Gordini
 Gorenje
 Gorilant
 Gorilla
@@ -880,6 +902,7 @@ Guy Laroche
 GYS
 Haba
 Hacksaw
+HADEN
 Haflinger
 Haggar
 Haier
@@ -892,6 +915,7 @@ Hama
 Hamilton
 Hamilton Beach
 Hamilton Buhl
+HammerHead Showers
 Hammermill
 Hanes
 HANKOOK
@@ -903,6 +927,7 @@ Harbinger
 Haribo
 Harman Kardon
 Harney & Sons
+HARRIS
 Harry Winston
 Harry's
 Hart
@@ -958,6 +983,7 @@ Holikme
 Hollis
 Hollister
 Hollow
+Holstein Housewares
 Homax
 hOmeLabs
 Homelite
@@ -967,6 +993,7 @@ Honest Amish
 Honey-Can-Do
 Honeywell
 Hoover
+Hopkins
 HORI
 Hot Topic
 Hotel Spa
@@ -1001,6 +1028,7 @@ IDEAL Electrical
 IDEAL Industries
 iFixit
 Igloo
+Illinois Glove Company
 ILLUME
 Imarku
 Impresan
@@ -1023,6 +1051,7 @@ IRIS USA
 Irish Spring
 iRobot
 IRON °FLASK
+Ironclad
 IRWIN
 Isopure
 iSpice
@@ -1039,6 +1068,7 @@ Jack Wolfskin
 Jacked Factory
 Jackery
 Jackpot Candles
+Jackson Safety
 Jacobs
 Jacobs Chuck
 Jaeger LeCoultre
@@ -1109,6 +1139,9 @@ Kettle Brand
 Keurig
 Keychron
 Kibbles 'n Bits
+Kimberly Clark
+Kimberly-Clark
+Kinco
 KIND
 Kinder Bueno
 King Koil
@@ -1122,6 +1155,7 @@ Kirkland Signature
 KIRSCHEN
 Kit Kat
 Kitchenaid
+Kitsch
 Kix
 Kizmos
 Klass Aguas Frescas
@@ -1277,11 +1311,14 @@ Made In
 MadeGood
 madesmart
 Magbak
+Magid
+Magid Glove & Safety
 Maglite
 Magnavox
 Magpul
 MAHLE
 Makita
+Mallory
 Malt-O-Meal
 Mama Bear
 Mammut
@@ -1328,6 +1365,7 @@ MCR Safety
 MCTi
 Mead
 MEAN WELL
+Mechanix Wear
 MED PRIDE
 Mediabridge
 Medion
@@ -1377,6 +1415,7 @@ Miller
 Miller Electric
 Milwaukee
 Minnetonka
+Minus33
 Mio
 Miracase
 Miracle II
@@ -1415,9 +1454,11 @@ Moulinex
 Mountain Fruit Co.
 Mountain Hardwear
 MOUTHWATCHERS
+MOXIE
 Mr. Christmas
 Mr. Clean
 Mr. Coffee
+Mr. Coffee®
 Mr. Heater
 Mr. Pen
 MR.SIGA
@@ -1434,6 +1475,7 @@ MxVol
 My Weigh
 Nabisco
 Naked
+National Allergy
 Native
 Natural Balance
 Naturalamb
@@ -1443,6 +1485,7 @@ Nature's Bakery
 Nature's Path
 Nature's Recipe
 Naturehike
+Naturepedic
 Nautica
 NavePoint
 Navitas Organics
@@ -1557,6 +1600,7 @@ Oppo
 Optimum Nutrition
 Oral B
 Oral-B
+Oransi
 Orbit
 orbitalum
 Oreck
@@ -1576,6 +1620,7 @@ Our Own Candle Company
 Oura
 Outdoor Research
 OutdoorMaster
+OVALWARE
 OVERTURE
 Owala
 Owon
@@ -1628,6 +1673,7 @@ Pennzoil
 Pentel
 Pepsi
 PepsiCo
+PermaFLOW
 Persil
 Perwoll
 PEScience
@@ -1698,11 +1744,13 @@ Pringles
 Prismacolor
 Pritt
 Procter & Gamble
+Proctor Silex
 ProEtrade
 Progressive International
 PROJE'
 Promixx Inc
 Propel
+Protect-A-Bed
 Protectli
 Proto
 Proxxon
@@ -1719,6 +1767,7 @@ Pureology
 Purina
 Purina ONE
 Purina Pro Plan
+Purple
 PurSteam
 Push Pop
 Pyle
@@ -1736,9 +1785,11 @@ Rachael Ray
 Rachael Ray Nutrish
 Rachel Ray
 Rackstuds
+Radians
 RADIUS
 Rado
 Raid
+Rain-X
 Ralcam
 Ralph Lauren
 Rancilio
@@ -1842,8 +1893,10 @@ Sagrotan
 Sailwind
 Saitek
 Sakura
+Sally's Organics
 Salomon
 Salt Life
+Salton
 Samsonite
 SAMSUNG
 Sand Castle Games
@@ -1882,6 +1935,7 @@ Scotch Porter
 Scotch-Brite
 Scotch-Mount
 Scott
+Scotts
 Scrub Daddy
 Scrubbing Bubbles
 Scubapro
@@ -1920,6 +1974,7 @@ Shelly
 SHIMANO
 Shindaiwa
 Shop-Vac
+ShowerShroom
 Shure
 Shuttle Art
 Sia Abrasives
@@ -1945,6 +2000,7 @@ SIMPLY
 Simply Organic
 Singer
 SINGLES TO GO!
+SinkShroom
 Six Star
 Sjobergs
 Sjöbergs
@@ -1976,6 +2032,8 @@ Smucker's
 SnapSafe
 Snickers
 SNOW
+Snow Joe
+Snow MOOver
 Soapbox
 sodastream
 Soehnle
@@ -1995,6 +2053,7 @@ Soundcore
 Sour Patch Kids
 Southpole
 Southwire
+SpaceAid
 Spalding
 Sparkle
 Sparkling ICE
@@ -2019,6 +2078,9 @@ Spigen
 Spinbrush
 Spit
 SPLENDA
+Sprayco
+Sprite
+Sprite Industries
 SPTA
 SPY
 Spyder
@@ -2067,6 +2129,7 @@ Suave
 Suavecito
 Subaru
 Substral
+Subzero
 Suja
 Sunbeam
 Sunco
@@ -2084,6 +2147,8 @@ SupplyTiger
 Sure
 Surecan
 Surefire
+SureGuard
+SureGuard Mattress Protectors
 Suunto
 Swann
 Swarovski
@@ -2132,10 +2197,12 @@ Tefal
 Tekton
 Tektronics
 Telex
+Tempur-Pedic
 Tenda
 Tenergy
 TEPE
 TERA PUMP
+Terramar
 Tervis
 Tesa
 Teslong
@@ -2143,6 +2210,7 @@ Tetesept
 Teufel
 TFA Dostmann
 THAYERS
+The Bottle Depot
 The Ginger People
 The Good Crisp Company
 The Hillman Group
@@ -2219,6 +2287,7 @@ Tree Hut
 TrekStor
 TRENDnet
 TRESemmé
+Trico
 Trident
 Trigema
 Triple Paste
@@ -2230,6 +2299,7 @@ True Citrus
 True Classic
 True Organic
 True Religion
+TubShroom
 Tudor
 TUL
 Turtle Beach
@@ -2267,7 +2337,6 @@ Universal
 Unmatched
 UPS Battery Center
 URBAN DECAY
-USA
 USAOPOLY
 Utopia
 Utopia Bedding
@@ -2366,6 +2435,7 @@ WEN
 Wera
 Werner
 Wesco
+West Bend
 Western Digital
 Westinghouse
 Westinghouse Outdoor Power Equipment
