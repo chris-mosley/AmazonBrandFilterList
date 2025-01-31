@@ -657,6 +657,7 @@ Eddie Bauer
 edel+white
 Edifier
 Edward Tools
+eero
 EF ECOFLOW
 eGo
 Ego Power+
@@ -676,6 +677,7 @@ Enbrighten
 eneloop
 Energizer
 Engelbert Strauss
+EnGenius
 EO
 eos
 EPOMAKER
@@ -844,6 +846,7 @@ GIRO
 Givenchy
 Gizeh
 Gizmo Dorks
+GL.iNet
 Glad
 Glade
 Gladiator
@@ -2419,6 +2422,7 @@ Waterpik
 WaterWipes
 Watkins
 Wavian
+WAVLINK
 WD_BLACK
 WD-40
 WeatherPod
