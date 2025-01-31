@@ -146,7 +146,7 @@ Astro
 Astro Pneumatic Tool
 Astro Tools
 Astroglide
-Asus
+ASUS
 Atlantic Safety Products
 Atomic
 ATTITUDE
@@ -761,6 +761,7 @@ Flatiron Spice
 Flex
 Flexible Flyer
 Fluke
+FLYDIGI
 Flymo
 Focal
 FOCO
@@ -802,6 +803,7 @@ g.skill
 Gaggia
 Gainful
 Galanz
+GameSir
 GAP
 Garden of Life
 Gardena
@@ -895,6 +897,7 @@ Grizzly Industrial
 GROHE
 Gucci
 GUESS
+GuliKit
 Gum
 GuruNanda
 Gustus Vitae
@@ -1702,6 +1705,7 @@ PlanetBox
 Plantura
 Play-Doh
 Playmobil
+PlayStation
 Playtex
 Pledge
 Plugable
@@ -2491,6 +2495,7 @@ WYZE
 X-Acto
 X-Sense
 X-Tronic
+Xbox
 XCeed
 Xcelite
 Xdro Shoes
