@@ -19,6 +19,7 @@ A. Lange & Sohne
 A&R
 Abus
 AC Infinity
+Accelera
 Accusize Industrial Tools
 ACDelco
 ACEBEAM
@@ -64,6 +65,7 @@ Almay
 Aloe Cadabra
 alpen
 ALPHA LION
+Alphacool
 Alpina
 Alpine
 Alpine Swiss
@@ -210,6 +212,7 @@ Bellroy
 Ben Sherman
 Benchmade
 BenchPro
+Benebone
 Beneful
 Benevolence LA
 BENNING
@@ -218,6 +221,7 @@ Berkey
 Bernard
 Bessey
 Best Lock
+Best Pet Supplies
 Better Homes and Gardens
 BetterHomes&Gardens
 Betty Crocker
@@ -257,6 +261,7 @@ Bloomingville
 Blue Buffalo
 Blue Diamond
 Blue Ridge
+Blue Sea Systems
 Blueair
 BLUETTI
 Blum
@@ -341,6 +346,7 @@ Burt's Bees
 Burt´S Bees
 Burton
 Bushnell
+Bussmann
 Butter Buds
 Butterfinger
 BVLGARI
@@ -435,6 +441,7 @@ Chrysler
 Chubbies
 Chubbies Shorts
 ChubbyCable
+Chuckit!
 Chupa Chups
 Cinnamon Toast Crunch
 Cisco
@@ -726,6 +733,7 @@ F.P. JOURNE
 Faber-Castell
 Fabuloso
 Fackelmann
+Falken
 Fantastik
 Farberware
 Febreze
@@ -749,6 +757,7 @@ Finish
 First Alert
 Fischer
 Fisher Space Pen
+Fisher-Price
 Fiskars
 Fissler
 Fitbit
@@ -998,6 +1007,7 @@ Honda
 Honest Amish
 Honey-Can-Do
 Honeywell
+Hoosier
 Hoover
 Hopkins
 HORI
@@ -1029,6 +1039,7 @@ Iams
 iBuyPower
 Ice Breakers
 ID Lubricants
+ID-COOLING
 IDEAL
 IDEAL Electrical
 IDEAL Industries
@@ -1053,6 +1064,7 @@ International Silver
 Intex
 iProven
 iProvèn
+iRestore
 IRIS USA
 Irish Spring
 iRobot
@@ -1474,6 +1486,7 @@ MTD Holdings
 Mueller
 Mueller Austria
 Mueller Living
+Multipet
 Munchkin
 Muscle Milk
 MuscleTech
@@ -1626,6 +1639,7 @@ Our Own Candle Company
 Oura
 Outdoor Research
 OutdoorMaster
+Outward Hound
 OVALWARE
 OVERTURE
 Owala
@@ -2373,6 +2387,7 @@ Vector KGM
 VEET
 Velcro
 VELCRO Brand
+Venom Power
 Venom Steel
 Vera Bradley
 Verbatim
