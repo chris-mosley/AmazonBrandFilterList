@@ -185,6 +185,8 @@ Barbie
 Bare Performance Nutrition
 Barebells
 bareMinerals
+Barkbone
+Barkbox
 Bath & Body Works
 Bauker
 Bauknecht
@@ -432,6 +434,7 @@ Chemex
 chemical guys
 Cherry
 Chesapeake Bay Candle
+Chew King
 Chex
 Chicago Metallic
 Children's Factory
@@ -748,6 +751,7 @@ Ferrero
 Ferrero Rocher
 Festool
 Fiber One
+Fida
 FiiO
 FIJI
 Fila
@@ -771,6 +775,7 @@ Flash Furniture
 Flatiron Spice
 Flex
 Flexible Flyer
+Fluff & Tuff
 Fluke
 FLYDIGI
 Flymo
@@ -797,6 +802,8 @@ FreshPet
 Freud
 Frida Baby
 Frigidaire
+Fringe
+Fringe Studio
 Frito Lay
 FRITZ
 FROGTAPE
@@ -815,6 +822,7 @@ Gaggia
 Gainful
 Galanz
 GameSir
+Gamma2
 GAP
 Garden of Life
 Gardena
@@ -844,6 +852,7 @@ Gevi Household
 Ghirardelli
 GHome Smart
 GHOST
+Giftable World
 Gigabyte
 Gildan
 GILDEN TREE
@@ -869,6 +878,7 @@ Glorious PC Gaming Race
 Gloveworks
 GLYDE
 GM
+goDog
 Gold BJJ
 Gold Bond
 GOLDTOE
@@ -946,7 +956,9 @@ HARRIS
 Harry Winston
 Harry's
 Hart
+Hartz
 Hasbro
+Haute Diggity Dog
 HAWAIIAN PUNCH
 Hazet
 Healing Solutions
@@ -1021,17 +1033,20 @@ Huawei
 Hublot
 Huffy
 HUGGIES
+HuggleHounds
 Hugo
 HUGO BOSS
 Huion
 Hurley
 Husky
 Husqvarna
+Huxley & Kent
 Hybrid
 Hyde
 Hydro Flask
 Hydroflask
 HydroJug
+HyperPet
 HyperX
 HYTE
 HYUNDAI
@@ -1113,6 +1128,7 @@ Johnny B.
 Johnny Slicks
 Johnson & Johnson
 JOKARI
+Jolly Pets
 Jolly Rancher
 JONATHAN Y
 Jones
@@ -1130,6 +1146,8 @@ June Moon Spice Company
 Jungle Powders
 Jura
 Justrite
+JW
+JW Pet
 JYM
 K-Y
 K&N
@@ -1217,6 +1235,7 @@ L'Oreal Paris
 La Jolie Muse
 La Pavoni
 La Roche-Posay
+La-Z-Boy
 Labrada Nutrition
 Lacoste
 Lactaid
@@ -1322,6 +1341,7 @@ Lysol
 M&M
 M&M'S
 Maars Drinkware
+Mac Cat
 Mac Tools
 Mackie
 Mad Catz
@@ -1339,6 +1359,8 @@ Makita
 Mallory
 Malt-O-Meal
 Mama Bear
+Mammoth
+Mammoth Pet Products
 Mammut
 Manhattan
 Mann Filter
@@ -1510,6 +1532,8 @@ NavePoint
 Navitas Organics
 Neff
 Neiko
+Nerf
+Nerf Dog
 Nescafé
 Nespresso
 Nesquik
@@ -1679,6 +1703,7 @@ PCCOOLER
 Peach Perfect
 Peak Design
 Peaktech
+Pearhead
 Pedigree
 Peet's Coffee
 Pelican
@@ -1697,6 +1722,11 @@ PermaFLOW
 Persil
 Perwoll
 PEScience
+Pet Qwerks
+Petmate
+Pets First
+PetSafe
+PetSpy
 PETZL
 Peugeot
 Pfaltzgraff
@@ -1722,6 +1752,7 @@ PlanetBox
 Plantura
 Play-Doh
 Playmobil
+Playology
 PlayStation
 Playtex
 Pledge
@@ -1885,6 +1916,7 @@ Rolling Square
 Rolo
 ROMAN
 Roseart
+Rosewood 
 Rösle
 Rossignol
 Rotho
@@ -2124,6 +2156,7 @@ Starbucks
 Starburst
 Stardrops
 Starling Games
+Starmark
 Starrett
 StarTech.com
 Stayfree
@@ -2322,6 +2355,7 @@ True Organic
 True Religion
 TubShroom
 Tudor
+TUFFY
 TUL
 Turtle Beach
 TUSA
@@ -2413,6 +2447,7 @@ VisionTek
 Vitafit
 Vitakraft
 Vitamix
+Vittle Vault
 VIZIO
 Volkswagen
 Vollrath
@@ -2459,6 +2494,7 @@ Wera
 Werner
 Wesco
 West Bend
+WEST PAW
 Western Digital
 Westinghouse
 Westinghouse Outdoor Power Equipment
@@ -2473,6 +2509,7 @@ Whitestone
 Whitmor
 Whole Foods Market
 Wiha
+Wild Eats
 Wildhorn
 WildHorn Outfitters
 Wilkinson Sword
@@ -2558,6 +2595,7 @@ Zevia
 ZIOXX
 Zipfizz
 Ziploc
+ZippyPaws
 Zodiac
 Zojirushi
 ZOTA
