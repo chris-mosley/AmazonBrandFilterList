@@ -592,6 +592,7 @@ DICTUM
 Diesel
 Digilent
 Digitus
+DII
 Dior
 Dirt Devil
 Diurex
@@ -600,7 +601,6 @@ Dixie
 Dixon
 DJI
 DKNY
-Dll
 Doc's Diesel
 Dockers
 Dolce & Gabbana
