@@ -332,6 +332,7 @@ Brother
 Brüder Mannesmann
 BrüMate
 Bruno Marc
+Bryton
 BSN
 Buck Knives
 Bucked Up
@@ -408,6 +409,7 @@ Casper
 Castrol
 Caswell-Massey
 CAT
+CATEYE
 Caution Wear
 Cecotec
 Celestron
@@ -496,6 +498,7 @@ Corelle
 Corkcicle
 Corning Ware
 Corningware
+COROS
 Corsair
 Cosclay
 COSORI
@@ -1157,6 +1160,7 @@ Justrite
 JW
 JW Pet
 JYM
+K-Edge
 K-Y
 K&N
 K2
@@ -1762,6 +1766,7 @@ Pittman
 Pittman Outdoors
 pjur
 Plackers
+Planet Bike
 PlanetBox
 Plantura
 Play-Doh
@@ -1870,6 +1875,7 @@ Ray-Ban
 Raycon
 Rayovac
 Razer
+RCA
 RDX
 Reach
 Real Essentials
@@ -2484,6 +2490,7 @@ Wacom
 Wago
 Wahl
 Wahoo
+Wahoo Fitness
 Walker Edison
 Walker's
 Wallace
