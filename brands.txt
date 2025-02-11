@@ -68,6 +68,7 @@ ALPHA LION
 Alphacool
 Alpina
 Alpine
+Alpine Industries
 Alpine Swiss
 altoids
 Alvera
@@ -263,6 +264,7 @@ Bloomingville
 Blue Buffalo
 Blue Diamond
 Blue Ridge
+Blue Rose Pottery
 Blue Sea Systems
 Blueair
 BLUETTI
@@ -295,6 +297,7 @@ Bose
 BOSS
 Boss Office Products
 Bostitch
+Boston International
 Bosu
 Boucheron
 Bounce
@@ -400,6 +403,7 @@ Case Logic
 Caseology
 CASETiFY
 Casio
+Caspari
 Casper
 Castrol
 Caswell-Massey
@@ -588,6 +592,7 @@ DICTUM
 Diesel
 Digilent
 Digitus
+DII
 Dior
 Dirt Devil
 Diurex
@@ -655,6 +660,7 @@ Eastwood
 Eberhard Faber
 Eberlestock
 EBL
+Ebros Gift
 Echo
 Eco-Dent
 ecobee
@@ -843,6 +849,7 @@ General Mills
 Gentex
 Gentle Souls
 Genuine Fred
+Georgia-Pacific
 GERBER
 Gerber Gear
 GERmanikure
@@ -1012,6 +1019,7 @@ Hollister
 Hollow
 Holstein Housewares
 Homax
+Home Basics
 hOmeLabs
 Homelite
 HON
@@ -1343,6 +1351,7 @@ M&M'S
 Maars Drinkware
 Mac Cat
 Mac Tools
+MACKENZIE-CHILDS
 Mackie
 Mad Catz
 Made In
@@ -1377,6 +1386,7 @@ Mares
 Margaritaville
 Maria Nila
 Mario Badescu
+MARIPOSA
 Marmot
 MARQUESS
 Mars
@@ -1514,6 +1524,7 @@ Muscle Milk
 MuscleTech
 MxVol
 My Weigh
+MyGift
 Nabisco
 Naked
 National Allergy
@@ -1623,6 +1634,8 @@ Olay
 Old Bay
 Old School Labs
 Old Spice
+Olde Thompson
+OLDE THOMPSON SINCE 1944
 OLFA
 OLIGHT
 Oliver Peoples
@@ -1683,6 +1696,7 @@ Panduit
 PanOxyl
 Paper Mate
 Parachute
+Park Designs
 Parker
 Parodontax
 Paslode
@@ -1960,6 +1974,7 @@ Sapphire
 Sapphire Technology
 Sappho from lesbos
 Sappo Hill
+SARO LIFESTYLE
 SATA
 Satch
 Saucony
@@ -2115,6 +2130,8 @@ SPAX
 Speakman
 SPECIALIZED
 Speck
+Spectrum
+Spectrum Diversified
 Spee
 Speed Stick
 Speedo
@@ -2171,6 +2188,7 @@ Stihl
 Stiletto
 STOPBOX
 Storacell
+StorageWorks
 StoreYourBoard
 Stormguard
 StoveShelf
@@ -2321,6 +2339,7 @@ Tootsie Roll
 Topeak
 Topo Chico
 Torani
+Tork
 Tory Burch
 Toshiba
 Towle
@@ -2373,6 +2392,7 @@ UGREEN
 UHU
 UltraPro
 Ulysse Nardin
+Umbra
 Umbro
 Uncaged
 Uncle Henry
@@ -2567,6 +2587,7 @@ Y-Brush
 Yabano
 Yale
 YAMAHA
+YAMAZAKI
 Yankee Candle
 Yardley
 YARDLEY LONDON
