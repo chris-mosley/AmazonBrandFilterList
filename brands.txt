@@ -90,6 +90,7 @@ Ambi
 AmbiEscents
 Amco
 AMD
+Amdro
 American Crew
 American Standard
 AmLactin
@@ -188,6 +189,7 @@ Barebells
 bareMinerals
 Barkbone
 Barkbox
+BASF
 Bath & Body Works
 Bauker
 Bauknecht
@@ -240,6 +242,7 @@ Big Train
 Bigelow Tea
 Billabong
 Billie
+BioAdvanced
 Biobizz
 Biolage
 BIOPURE
@@ -479,6 +482,7 @@ Coleman
 colgate
 Colonial Candle
 Columbia
+Combat
 Comeon
 Comet
 Comfort Colors
@@ -1669,6 +1673,7 @@ Orgain
 Orient
 Ornativity
 Orolay
+Ortho
 Ortlieb
 Osprey
 Oster
@@ -1756,6 +1761,7 @@ Philips Norelco
 Philips Sonicare
 Photo Paper Direct
 Piaget
+Pic
 Pica
 Piksters
 PILOT
@@ -1896,6 +1902,7 @@ reid
 Relaxdays
 Remington
 Replens
+RESCUE!
 Restaurantware
 Retrospec
 Revlon
@@ -2136,6 +2143,7 @@ SPAX
 Speakman
 SPECIALIZED
 Speck
+Spectracide
 Spectrum
 Spectrum Diversified
 Spee
@@ -2185,6 +2193,7 @@ StarTech.com
 Stayfree
 steelcase
 SteelSeries
+STEM
 Sterilite
 Sterillium
 Stetson
@@ -2281,6 +2290,7 @@ Tenergy
 TEPE
 TERA PUMP
 Terramar
+Terro
 Tervis
 Tesa
 Teslong
