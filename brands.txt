@@ -26,6 +26,7 @@ ACEBEAM
 Acer
 Acqua Panna
 Adam & Eve
+Adam's
 Adam's Polishes
 Adata
 adidas
@@ -149,6 +150,7 @@ ASRock Rack
 Astro
 Astro Pneumatic Tool
 Astro Tools
+AstroAI
 Astroglide
 ASUS
 Atlantic Safety Products
@@ -608,6 +610,7 @@ Dixie
 Dixon
 DJI
 DKNY
+DNA Motoring
 Doc's Diesel
 Dockers
 Dolce & Gabbana
@@ -751,6 +754,7 @@ Fabuloso
 Fackelmann
 Falken
 Fantastik
+Fanttik
 Farberware
 Febreze
 Feethit
@@ -931,6 +935,7 @@ Grin
 Griot's Garage
 Grizzly Industrial
 GROHE
+Gtechniq
 Gucci
 GUESS
 GuliKit
@@ -938,6 +943,7 @@ Gum
 GuruNanda
 Gustus Vitae
 Guy Laroche
+Gyeon
 GYS
 Haba
 Hacksaw
@@ -1092,6 +1098,7 @@ Intel
 Intellinet
 International Silver
 Intex
+Invisible Glass
 iProven
 iProvèn
 iRestore
@@ -1220,6 +1227,8 @@ Kneipp
 KNIPEX
 Koala Lifestyle
 Kobalt
+KOCH-CHEMIE
+KOCHCHEMIE
 Kodak
 Kodiak Cakes
 KOHLER
@@ -2054,6 +2063,7 @@ SHEEPSKIN ELITE
 Shelly
 SHIMANO
 Shindaiwa
+Shine Armor
 Shop-Vac
 ShowerShroom
 Shure
@@ -2393,6 +2403,7 @@ Tudor
 TUFFY
 TUL
 Turtle Beach
+Turtle Wax
 TUSA
 TuxMat
 Tweezerman
