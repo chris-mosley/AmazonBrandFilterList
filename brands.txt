@@ -165,6 +165,7 @@ Auromere
 Aurora
 Austin Air
 Australian Botanical Soap
+Auto Finesse
 Auto Parts Avenue
 Autofiber
 Aveeno
@@ -796,6 +797,7 @@ Fluff & Tuff
 Fluke
 FLYDIGI
 Flymo
+Foam King
 Focal
 FOCO
 Folgers
@@ -1083,6 +1085,7 @@ iFixit
 Igloo
 Illinois Glove Company
 ILLUME
+Image Wash Products
 Imarku
 Impresan
 INBUS
@@ -1415,6 +1418,7 @@ Marvel
 Master Lock
 Master Power
 MasterChef
+MASTERSON'S CAR CARE
 MATEIN
 Mattel
 Maui Jim
@@ -1532,6 +1536,7 @@ MR.SIGA
 MRS. MEYER'S CLEAN DAY
 MSI
 MTD Holdings
+Muc-Off
 Mueller
 Mueller Austria
 Mueller Living
@@ -1577,6 +1582,7 @@ NewYork Cables
 Nexa Lotte
 Next Level Racing
 Nextmug
+nextzett
 Nexxus
 NGK
 NICETOWN
@@ -1626,6 +1632,7 @@ NutriSource
 Nutristore
 Nutro
 Nuwave
+NV
 NVIDIA
 Nylabone
 NYX PROFESSIONAL MAKEUP
@@ -2211,6 +2218,7 @@ Steve Madden
 STIER
 Stihl
 Stiletto
+Stjarnagloss
 STOPBOX
 Storacell
 StorageWorks
@@ -2228,6 +2236,7 @@ Subaru
 Substral
 Subzero
 Suja
+Sun Joe
 Sunbeam
 Sunco
 Sunco Lighting
@@ -2256,6 +2265,7 @@ SweeTARTS
 Swiffer
 Swift Auto Care
 SwiftGrip
+SwiftJet
 Swiss Eagle
 Swiss Miss
 SWISS NAVY
@@ -2284,6 +2294,7 @@ TCP Global
 TDK
 Tea Tree
 TEAMGROUP
+Technicians Choice
 TechniSat
 Technivorm
 Technol
@@ -2426,6 +2437,7 @@ Uncaged
 Uncle Henry
 Under Armour
 Under the Weather
+Undrdog
 Unger
 uni
 Uni-ball
@@ -2481,6 +2493,7 @@ VEVOR
 Vgo...
 Vickerman
 Vicks
+Vicrez
 Victorinox
 Victrola
 Viking Revolution
