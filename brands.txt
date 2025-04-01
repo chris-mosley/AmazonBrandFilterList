@@ -161,6 +161,7 @@ Audi
 Audio-Technica
 Audioengine
 Aune
+Aurifil
 Auromere
 Aurora
 Austin Air
@@ -477,6 +478,8 @@ CloroxPro
 CMP
 Coach
 Coast
+Coats
+Coats & Clark
 Cobra
 Coghlan's
 Cold Steel
@@ -492,6 +495,7 @@ Comet
 Comfort Colors
 Command
 Compo
+Connecting Threads
 Contigo
 Continental
 Converse
@@ -643,6 +647,7 @@ Dreame
 Dreamies
 Dremel
 Dreo
+Dritz
 DrTung's
 Dry Idea
 Dual Electronics
@@ -946,6 +951,7 @@ GuliKit
 Gum
 GuruNanda
 Gustus Vitae
+Gütermann
 Guy Laroche
 Gyeon
 GYS
@@ -1305,6 +1311,7 @@ Leina
 Lenor
 Lenovo
 Lenox
+LEONIS
 LEUCHTTURM1917
 Level
 Levelok
@@ -2239,6 +2246,7 @@ Subaru
 Substral
 Subzero
 Suja
+Sulky
 Sun Joe
 Sunbeam
 Sunco
