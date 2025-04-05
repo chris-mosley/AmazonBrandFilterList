@@ -575,8 +575,8 @@ DC
 De'Longhi
 Dean Jacob's
 Dearfoams
-Debrox
 Death Wish Coffee
+Debrox
 DeepCool
 Deer Valley
 Degree
@@ -951,6 +951,7 @@ GuliKit
 Gum
 GuruNanda
 Gustus Vitae
+Gutermann
 Gütermann
 Guy Laroche
 Gyeon
@@ -2026,6 +2027,7 @@ Schick
 Schick Hydro Silk
 Schiit
 Schleich
+Schmetz
 Schmidt Spiele
 Schmidt's
 Schneider
