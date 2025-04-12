@@ -94,6 +94,7 @@ AMD
 Amdro
 American Crew
 American Standard
+Americanflat
 AmLactin
 Amoretti
 AN PERFORMANCE
@@ -524,6 +525,7 @@ Craft
 Craft & Kin
 Craftsman
 Craig
+Craig Frames
 Crate 61 Organics
 Crayola
 CRC
@@ -820,6 +822,7 @@ Fowler
 Fox Trot
 Fractal Design
 Fram
+Frame Amo
 Franzis
 Frederique Constant
 FREE SOLDIER
@@ -1193,6 +1196,7 @@ Kamenstein
 Kärcher
 Karl Lagerfeld Paris
 Kasa Smart
+Kate and Laurel
 Kate Spade New York
 KD Supplies
 Keebler
@@ -1291,9 +1295,11 @@ Lange & Söhne
 LANON Protection
 Lasko
 Läufer
+Laura Ashley
 Laura Davidson Furniture
 LAURA GELLER NEW YORK
 Lavazza
+Lawrence Frames
 Lawry's
 LaZBoy
 LD Products
@@ -1395,6 +1401,7 @@ Magnavox
 Magpul
 MAHLE
 Makita
+Malden
 Mallory
 Malt-O-Meal
 Mama Bear
@@ -1559,6 +1566,7 @@ MxVol
 My Weigh
 MyGift
 Nabisco
+Nambe
 Naked
 National Allergy
 Native
@@ -1923,6 +1931,7 @@ RedMax
 REDMOND
 Redragon
 Reebok
+Reed & Barton
 Reese's
 Refresh
 reid
@@ -2577,6 +2586,7 @@ Weston Brands
 Wet
 Wet n Wild
 Wet Ones
+Wexel Art
 Whirlpool
 Whiskas
 Whitemorph
