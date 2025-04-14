@@ -1566,8 +1566,8 @@ MxVol
 My Weigh
 MyGift
 Nabisco
-Nambe
 Naked
+Nambe
 National Allergy
 Native
 Natural Balance
@@ -1789,6 +1789,7 @@ PETZL
 Peugeot
 Pfaltzgraff
 Pfister
+PG
 Phanteks
 Philips
 Philips Hue
