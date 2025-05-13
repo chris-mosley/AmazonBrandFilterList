@@ -124,6 +124,7 @@ Apeks
 Apex
 Apple
 apple & eve
+Aquacomputer
 Aquaphor
 Aquasana
 AquaSonic
@@ -194,6 +195,7 @@ Barebells
 bareMinerals
 Barkbone
 Barkbox
+Barrow
 BASF
 Bath & Body Works
 Bauker
@@ -365,6 +367,7 @@ Butter Buds
 Butterfinger
 BVLGARI
 ByronStatics
+Byski
 C.C
 C.C Beanie
 C2G
@@ -526,6 +529,7 @@ Craft & Kin
 Craftsman
 Craig
 Craig Frames
+Crankbrothers
 Crate 61 Organics
 Crayola
 CRC
@@ -595,6 +599,7 @@ Denso
 DenTek
 Depend
 DEPSTECH
+Der8auer
 Desert Essence
 Detail Dudes
 Detail Factory
@@ -700,6 +705,7 @@ Ego Power+
 EHP Labs
 Eichhorn
 Einhell
+EKWB
 Elite Gourmet
 Ello
 Elmer's
@@ -1102,6 +1108,7 @@ Imarku
 Impresan
 INBUS
 Indigo Wild
+Industry Nine
 Ingersoll Rand
 Inland
 INSIGNIA
@@ -1252,6 +1259,7 @@ Koken
 Kokett
 KONG
 Kool-Aid
+Koolance
 Kopari
 Kosmos
 Koss
@@ -1672,6 +1680,7 @@ Office Star
 Officine Panerai
 OGIO
 OGX
+Okai
 Olaplex
 Olay
 Old Bay
@@ -1741,6 +1750,7 @@ PanOxyl
 Paper Mate
 Parachute
 Park Designs
+Park Tool
 Parker
 Parodontax
 Paslode
@@ -1763,6 +1773,7 @@ Peak Design
 Peaktech
 Pearhead
 Pedigree
+Pedro's
 Peet's Coffee
 Pelican
 Pelikan
@@ -1848,10 +1859,12 @@ Premium Guard
 Prepworks by Progressive
 Preserve
 PreSonus
+Prestacycle
 Presto
 PRIME
 PRIME HYDRATION
 PRIME-LINE
+PrimoChill
 Primula
 Pringles
 Prismacolor
@@ -2359,6 +2372,7 @@ TheraBreath
 Theragun
 Thermajane
 Thermajohn
+Thermal Grizzly
 Thermalright
 Thermaltake
 Thermopro
@@ -2444,6 +2458,7 @@ Tweezerman
 Twix
 Twizzlers
 Tylenol
+Tyre Glider
 U by Kotex
 U.S. Art Supply
 Uberlube
@@ -2649,6 +2664,7 @@ Xiaomi
 XLC
 Xp-Pen
 XPEL
+XSPC
 Y-Brush
 Yabano
 Yale
