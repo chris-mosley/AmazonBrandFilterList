@@ -1250,6 +1250,7 @@ Kneipp
 KNIPEX
 Koala Lifestyle
 Kobalt
+Kobo
 KOCH-CHEMIE
 KOCHCHEMIE
 Kodak
@@ -2403,6 +2404,7 @@ Titan
 Titan by Arctic Zone
 Titebond
 Titleist
+Tolino
 Tom Ford
 Tom's of Maine
 Tombow
