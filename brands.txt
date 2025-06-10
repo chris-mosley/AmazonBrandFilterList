@@ -229,6 +229,7 @@ Beneful
 Benevolence LA
 BENNING
 BenQ
+Bentgo
 Berkey
 Bernard
 Bessey
@@ -1202,6 +1203,7 @@ Kaged
 Kamenstein
 Kärcher
 Karl Lagerfeld Paris
+KARRICO
 Kasa Smart
 Kate and Laurel
 Kate Spade New York
@@ -1530,6 +1532,7 @@ Moen
 Moffat
 moleskine
 Molto
+monbento
 Mondelez International
 Monoprice
 Monster
@@ -1693,6 +1696,7 @@ OLFA
 OLIGHT
 Oliver Peoples
 Omega
+Omie
 Omnicharge
 On
 One Ball
@@ -2135,10 +2139,12 @@ Simply Organic
 Singer
 SINGLES TO GO!
 SinkShroom
+Sistema
 Six Star
 Sjobergs
 Sjöbergs
 SK Hynix
+Skater
 Skechers
 Skil
 Skilsaw
@@ -2471,6 +2477,7 @@ UGREEN
 UHU
 UltraPro
 Ulysse Nardin
+Umami
 Umbra
 Umbro
 Uncaged
