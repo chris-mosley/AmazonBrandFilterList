@@ -248,6 +248,7 @@ Bickmore
 Big Cock Ranch
 Big Train
 Bigelow Tea
+Bikehand
 Billabong
 Billie
 BioAdvanced
@@ -676,8 +677,8 @@ Durex
 Dymatize
 DYMO
 Dyson
-e.l.f.
 e-cloth
+e.l.f.
 Each & Every
 Eagle
 Eargasm
@@ -787,6 +788,7 @@ Ferrero Rocher
 Festool
 Fiber One
 Fida
+FIFTY-FIFTY
 FiiO
 FIJI
 Fila
@@ -851,8 +853,10 @@ Froot Loops
 Frost King
 fruit of the loom
 Fruity PEBBLES
+FSA
 FSP
 Fujifilm
+Full Speed Ahead
 Funko
 g.skill
 Gaggia
@@ -1344,6 +1348,7 @@ Lexivon
 Lexmark
 Lexol
 LEXUS
+LEZYNE
 LG
 Lian Li
 Lian Lian
@@ -1708,6 +1713,7 @@ One Mfg
 One With Nature
 ONEBALL
 OnePlus
+OneUp Components
 Onkyo
 Opinel
 Oppo
@@ -1721,6 +1727,7 @@ Oreck
 Oreo
 Orgain
 Orient
+Origin8
 Ornativity
 Orolay
 Ortho
@@ -1836,6 +1843,7 @@ Playtex
 Pledge
 Plugable
 Plusivo
+PNW
 PNY
 Polar
 Polaris
@@ -1913,6 +1921,7 @@ Quip
 R&B Wire
 R&B Wire Products
 Rabbit
+RaceFace
 Rachael Ray
 Rachael Ray Nutrish
 Rachel Ray
@@ -2645,6 +2654,7 @@ WiZ Connected
 WMF
 Wolf Garten
 WOLF GOURMET
+Wolf Tooth
 Wolfcraft
 Wonka
 WoodWick
