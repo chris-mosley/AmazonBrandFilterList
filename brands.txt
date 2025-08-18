@@ -209,10 +209,12 @@ be quiet!
 Bear Balanced
 Beast Bites
 Beats
+Beauty Power
 BeaverCraft
 Bebe
 Beck/Arnley
 Bedsure
+Bee Naturals
 Beekman
 Behringer
 Beierdorf
@@ -270,6 +272,7 @@ Blackwing
 Blancpain
 Blind Barber
 Blink
+Bliss Kiss
 Blistex
 Bloom Nutrition
 Bloomingville
@@ -644,6 +647,7 @@ Dr Teal's
 Dr. Beckmann
 Dr. Bronner's
 Dr. Elsey's
+Dr. Hauschka Skin Care
 Dr. Neuhaus
 Dr. Oetker
 Dr. Scholl's
@@ -710,6 +714,7 @@ Eichhorn
 Einhell
 EKWB
 Elite Gourmet
+ella+mila
 Ello
 Elmer's
 Emergen-C
@@ -735,6 +740,7 @@ Ernst
 Ernst Manufacturing
 Escort
 ESR
+Essie
 Estwing
 eSUN
 Etekcity
@@ -910,6 +916,7 @@ GL.iNet
 Glad
 Glade
 Gladiator
+Gladzy
 glerups
 GLIDE
 Glisten
@@ -988,6 +995,7 @@ Hamilton Beach
 Hamilton Buhl
 HammerHead Showers
 Hammermill
+Handmade Heroes
 Hanes
 HANKOOK
 Hansaplast
@@ -1300,6 +1308,7 @@ Lacura
 Ladder-Max
 Lady Speed Stick
 Laffy Taffy
+Lagunamoon
 Lamy
 Lancom
 Lancôme
@@ -1417,6 +1426,7 @@ Maglite
 Magnavox
 Magpul
 MAHLE
+Makartt
 Makita
 Malden
 Mallory
@@ -1584,6 +1594,7 @@ MxVol
 My Weigh
 MyGift
 Nabisco
+Nail Care Headquarters
 Naked
 Nambe
 National Allergy
@@ -1713,8 +1724,11 @@ One Mfg
 One With Nature
 ONEBALL
 OnePlus
+Onsen
+Onsen Secret
 OneUp Components
 Onkyo
+OPI
 Opinel
 Oppo
 Optimum Nutrition
@@ -2056,6 +2070,7 @@ SARO LIFESTYLE
 SATA
 Satch
 Saucony
+SAVILAND
 SawStop
 SC Johnson
 Scalextric
@@ -2372,6 +2387,7 @@ Tetesept
 Teufel
 TFA Dostmann
 THAYERS
+The Body Shop
 The Bottle Depot
 The Ginger People
 The Good Crisp Company
