@@ -916,7 +916,6 @@ GL.iNet
 Glad
 Glade
 Gladiator
-Gladzy
 glerups
 GLIDE
 Glisten
