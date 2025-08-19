@@ -38,6 +38,7 @@ AEG
 AEROPOSTALE
 Aeropress
 Aeroxon
+Aervoe
 Affresh
 AFMAT
 Airheads
@@ -46,6 +47,7 @@ Airomé
 Airpura
 Airwaves
 AJC
+AK Interactive
 AKG
 Akk
 Akona
@@ -104,6 +106,7 @@ ands
 ANEX
 ANGCURE
 Angel Soft
+Angelus
 Animal
 Anker
 Ankerkraut
@@ -124,6 +127,7 @@ Apeks
 Apex
 Apple
 apple & eve
+Apple Barrel
 Aquacomputer
 Aquaphor
 Aquasana
@@ -540,6 +544,7 @@ Crayola
 CRC
 Cream of Wheat
 Create
+Createx
 Creative
 Creative Co-Op
 Creative Mark
@@ -569,6 +574,7 @@ Curaprox
 Curel
 Curve
 Curver
+Custom Shop
 CUTTER & BUCK
 CyberPower
 D-Link
@@ -588,6 +594,7 @@ Dean Jacob's
 Dearfoams
 Death Wish Coffee
 Debrox
+DecoArt
 DeepCool
 Deer Valley
 Degree
@@ -606,6 +613,7 @@ Depend
 DEPSTECH
 Der8auer
 Desert Essence
+Design Master
 Detail Dudes
 Detail Factory
 Deuter
@@ -674,6 +682,7 @@ Duke Cannon Supply Co.
 Dunhill
 Dunlop
 Duo-Fast
+Dupli-Color
 Durable
 Duracell
 DURATECH
@@ -702,6 +711,7 @@ ecotowel
 EcoWise
 ED HARDY
 Eddie Bauer
+edding
 edel+white
 Edifier
 Edward Tools
@@ -827,6 +837,7 @@ Focal
 FOCO
 Folgers
 Folia
+FolkArt
 FoodSaver
 Force Factor
 Ford
@@ -929,6 +940,7 @@ GM
 goDog
 Gold BJJ
 Gold Bond
+GOLDEN
 GOLDTOE
 Good Clean Love
 GoodCook
@@ -1080,6 +1092,7 @@ HORI
 Hot Topic
 Hotel Spa
 HotHands
+House of Kolor
 Household Essentials
 HP
 HTC
@@ -1125,6 +1138,7 @@ Industry Nine
 Ingersoll Rand
 Inland
 INSIGNIA
+INSL-X
 Inspired Nutraceuticals
 Insta360
 Instant
@@ -1285,6 +1299,7 @@ KREG
 Kress
 KROIL
 KRUPS
+Krylon
 Kryptonite
 Kumho
 Kurt S. Adler
@@ -1375,6 +1390,7 @@ Linsoul
 Lipton
 Liqui Moly
 Liquid Death
+Liquitex
 Lisle
 Listerine
 Lite-On
@@ -1530,6 +1546,7 @@ Miller Electric
 Milwaukee
 Minnetonka
 Minus33
+Minwax
 Mio
 Miracase
 Miracle II
@@ -1552,6 +1569,9 @@ Monoprice
 Monster
 Monster Energy
 Mont Blanc
+MONTANA
+Montana Colors
+Montana Gold
 Montana West
 MONTBLANC
 Mopar
@@ -1580,6 +1600,7 @@ MR.SIGA
 MRS. MEYER'S CLEAN DAY
 MSI
 MTD Holdings
+MTN Hardcore Spray Paint
 Muc-Off
 Mueller
 Mueller Austria
@@ -1722,10 +1743,10 @@ One Mfg
 One With Nature
 ONEBALL
 OnePlus
-Onsen
-Onsen Secret
 OneUp Components
 Onkyo
+Onsen
+Onsen Secret
 OPI
 Opinel
 Oppo
@@ -1886,6 +1907,7 @@ Prepworks by Progressive
 Preserve
 PreSonus
 Prestacycle
+PRESTIGE
 Presto
 PRIME
 PRIME HYDRATION
@@ -1981,7 +2003,9 @@ Remington
 Replens
 RESCUE!
 Restaurantware
+Retique It
 Retrospec
+Revell
 Revlon
 Rexona
 Reynolds
@@ -2038,6 +2062,7 @@ Ruf
 Rule One
 Russell Athletic
 Russell Hobbs
+Rust-Oleum
 Ryobi
 Ryse Noel
 S.M.S.L
@@ -2121,6 +2146,7 @@ Seventh Generation
 Severin
 Seville Classics
 SexyHair
+Seymour
 ShamWow
 Shardor
 Shark
@@ -2244,6 +2270,7 @@ Spigen
 Spinbrush
 Spit
 SPLENDA
+Spray max
 Sprayco
 Sprite
 Sprite Industries
@@ -2346,6 +2373,7 @@ Tag Heuer
 TagHeuer
 Talentcell
 talenti
+TAMIYA
 Tampax
 Tanos
 Tapcon
@@ -2381,10 +2409,12 @@ Terro
 Tervis
 Tesa
 Teslong
+Testors
 Tetesept
 Teufel
 TFA Dostmann
 THAYERS
+The Army Painter
 The Body Shop
 The Bottle Depot
 The Ginger People
@@ -2448,6 +2478,7 @@ Torani
 Tork
 Tory Burch
 Toshiba
+TouchUpDirect
 Towle
 Towle Living
 TOX
@@ -2464,6 +2495,7 @@ Transparent Labs
 Traxxas
 Tree Hut
 TrekStor
+TREMCLAD
 TRENDnet
 TRESemmé
 Trico
@@ -2492,6 +2524,7 @@ Twizzlers
 Tylenol
 Tyre Glider
 U by Kotex
+U-POL
 U.S. Art Supply
 Uberlube
 Ubiquiti
@@ -2533,6 +2566,8 @@ Vacheron Constantin
 Vagisil
 VAHDAM
 Valentino
+Vallejo
+Valspar
 Valvoline
 Van Cleef & Arpels
 Van Heusen
@@ -2562,6 +2597,7 @@ Vertiv
 Vetriscience
 VEVOR
 Vgo...
+VHT
 Vickerman
 Vicks
 Vicrez
@@ -2656,6 +2692,7 @@ Wilwood
 Winco
 Windex
 Windhager
+Windsor & Newton
 Winix
 Wirefy
 wirsh
