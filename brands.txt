@@ -41,6 +41,7 @@ Aeroxon
 Aervoe
 Affresh
 AFMAT
+AIRCAT
 Airheads
 Airome
 Airomé
@@ -463,6 +464,7 @@ Chesapeake Bay Candle
 Chew King
 Chex
 Chicago Metallic
+Chicago Pneumatic
 Children's Factory
 Chobani
 Chocolove
@@ -1833,6 +1835,7 @@ Pennzoil
 Pentel
 Pepsi
 PepsiCo
+Performance Tool
 PermaFLOW
 Persil
 Perwoll
