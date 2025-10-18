@@ -145,6 +145,7 @@ Arlo
 Arm & Hammer
 Armaf
 Armor All
+Armstong
 Aroma Housewares
 Arrid
 arteza
@@ -269,6 +270,7 @@ Birkenstock
 Biscoff
 Bissell
 Black Diamond
+Black Diamond Stoneworks
 Black Wolf
 Black+Decker
 Blackhawk
@@ -307,6 +309,7 @@ BÖKER PLUS
 bolle
 bollé
 Bomann
+Bona Professional
 Bonavita
 Boncare
 Bonne Maman
@@ -417,6 +420,7 @@ Carlinkit
 Carnation Breakfast Essentials
 Carolina Herrera
 CAROTE
+CARPRO
 Cartier
 Casabrews
 Cascade
@@ -634,6 +638,7 @@ DII
 Dior
 Dirt Devil
 Diurex
+Diversey
 Divinus Lab
 Dixie
 Dixon
@@ -644,6 +649,7 @@ Doc's Diesel
 Dockers
 Dolce & Gabbana
 Dole
+Don Aslett
 Dooney & Bourke
 Dooney and Bourke
 Dorcy
@@ -654,6 +660,7 @@ Dove
 DOVE MEN + CARE
 Dr Pepper
 Dr Teal's
+Dr. Beasley's
 Dr. Beckmann
 Dr. Bronner's
 Dr. Elsey's
@@ -900,6 +907,7 @@ GEARWRENCH
 GEDORE
 Geekworm
 General Mills
+General Pencil Company
 Gentex
 Gentle Souls
 Genuine Fred
@@ -944,6 +952,7 @@ Gold BJJ
 Gold Bond
 GOLDEN
 GOLDTOE
+Goo Gone
 Good Clean Love
 GoodCook
 Goodyear
@@ -962,6 +971,7 @@ Govee
 GPX
 GRACE KARIN
 Grand Seiko
+Granite Gold
 Granitestone
 Grave Before Shave
 Gravity Defyer
@@ -1164,6 +1174,7 @@ iSpice
 It's Just!
 Ivory
 IVY Classic
+Iwata
 IWISS
 IZOD
 J-B Weld
@@ -1227,6 +1238,7 @@ K-Y
 K&N
 K2
 KabelDirekt
+Kaboom
 Kaged
 Kamenstein
 Kärcher
@@ -1300,6 +1312,7 @@ Kraus
 KREG
 Kress
 KROIL
+Krud Kutter
 KRUPS
 Krylon
 Kryptonite
@@ -1384,6 +1397,7 @@ Life Savers
 LifeStraw
 LifeStyles
 Lifetime Brands Inc.
+Lime-A-Way
 Lindt
 LINDY
 Linksys
@@ -1475,6 +1489,7 @@ Marshall
 MARTHA STEWART
 Maruchan
 Marvel
+Master
 Master Lock
 Master Power
 MasterChef
@@ -1491,6 +1506,7 @@ McCormick Culinary
 McCormick Gourmet
 McCormick Grill Mates
 McCULLOCH
+McKee's 37
 McKesson
 MCR Safety
 MCTi
@@ -1552,6 +1568,7 @@ Minwax
 Mio
 Miracase
 Miracle II
+MiracleWipes
 Misto
 Mistral
 Mitchum
@@ -1586,6 +1603,7 @@ Mossy Oak
 Motorcraft
 Motorola
 Motorola Solutions
+Motsenbocker's Lift Off
 Motul
 Moulinex
 Mountain Fruit Co.
@@ -1599,6 +1617,7 @@ Mr. Coffee®
 Mr. Heater
 Mr. Pen
 MR.SIGA
+Mrs. MEYER'S
 MRS. MEYER'S CLEAN DAY
 MSI
 MTD Holdings
@@ -1609,6 +1628,7 @@ Mueller Austria
 Mueller Living
 Multipet
 Munchkin
+Murphy
 Muscle Milk
 MuscleTech
 MxVol
@@ -1618,6 +1638,7 @@ Nabisco
 Nail Care Headquarters
 Naked
 Nambe
+Nanoskin
 National Allergy
 Native
 Natural Balance
@@ -1861,6 +1882,7 @@ Pic
 Pica
 Piksters
 PILOT
+Pine-Sol
 PINE64
 PIONEER
 Pirelli
@@ -2032,6 +2054,7 @@ RITZ
 Rival Nutrition
 RJ's Licorice
 RK ROYAL KLUDGE
+RMR Brands
 Robitussin
 Roborock
 ROCCAT
@@ -2064,6 +2087,7 @@ RSP NUTRITION
 RTIC
 Rubbermaid
 Ruf
+Rug Doctor
 Rule One
 Russell Athletic
 Russell Hobbs
@@ -2316,6 +2340,7 @@ STIER
 Stihl
 Stiletto
 Stjarnagloss
+Stoner Car Care
 STOPBOX
 Storacell
 StorageWorks
@@ -2458,6 +2483,7 @@ TIF
 Tiffany & Co
 TIGI
 Tile
+Tilex
 Timberland
 Timbuk2
 TIMEMORE
@@ -2516,6 +2542,7 @@ True Citrus
 True Classic
 True Organic
 True Religion
+Tub O' Towels
 TubShroom
 Tudor
 TUFFY
@@ -2676,6 +2703,7 @@ Westinghouse
 Westinghouse Outdoor Power Equipment
 Weston Brands
 Wet
+Wet & Forget
 Wet n Wild
 Wet Ones
 Wexel Art
