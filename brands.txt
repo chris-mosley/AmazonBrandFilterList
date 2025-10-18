@@ -59,6 +59,7 @@ Albanese
 Aleve
 Alexander Del Rossa
 Alienware
+all
 All-Clad
 Allegra
 Aller-Ease
@@ -261,6 +262,7 @@ Billabong
 Billie
 BioAdvanced
 Biobizz
+BioKleen
 Biolage
 BIOPURE
 Biostar
@@ -454,6 +456,7 @@ Channel Well
 Channellock
 Chapman
 ChapStick
+Charlie's Soap
 Charmin
 Chaumet
 Cheerios
@@ -485,6 +488,7 @@ CIVIVI
 Clarks
 Clatronic
 Clatronik
+CLEARALIF
 Cleco
 Clementoni
 CleverMade
@@ -675,6 +679,7 @@ Dräger
 Drano
 Dreame
 Dreamies
+Dreft
 Dremel
 Dreo
 Dritz
@@ -698,6 +703,7 @@ DURATECH
 Durex
 Dymatize
 DYMO
+Dynamo
 Dyson
 e-cloth
 e.l.f.
@@ -716,7 +722,10 @@ Eco-Dent
 ecobee
 ECOFLOW
 ECOGARD
+Ecolab
+ECOS
 ecotowel
+Ecover
 EcoWise
 ED HARDY
 Eddie Bauer
@@ -793,6 +802,7 @@ EZ-Sweetz
 EZY DOSE
 F. P. JOURNE
 F.P. JOURNE
+Fab
 Faber-Castell
 Fabuloso
 Fackelmann
@@ -886,6 +896,7 @@ Full Speed Ahead
 Funko
 g.skill
 Gaggia
+Gain
 Gainful
 Galanz
 GameSir
@@ -1067,6 +1078,7 @@ HIFIMAN
 High Peak
 High Sierra
 Hikenture
+Hiketron
 HIKOKI
 HiKOKIPowerToolsDeutschland
 Hill's Prescription Diet
@@ -1357,6 +1369,7 @@ Lawrence Frames
 Lawry's
 LaZBoy
 LD Products
+Le Blanc
 Le Creuset
 Leather Honey
 Leatherman
@@ -1610,6 +1623,7 @@ Mountain Fruit Co.
 Mountain Hardwear
 MOUTHWATCHERS
 MOXIE
+Mozi Wash
 Mr. Christmas
 Mr. Clean
 Mr. Coffee
@@ -1655,6 +1669,7 @@ NavePoint
 Navitas Organics
 Neff
 Neiko
+Nellie's
 Nerf
 Nerf Dog
 Nescafé
@@ -1959,11 +1974,13 @@ Psychedelic Water
 Puma
 PUR
 PÜR
+Puracy
 Pure Encapsulations
 Pure Leaf
 Purell
 Purely Elizabeth
 Pureology
+Purex
 Purina
 Purina ONE
 Purina Pro Plan
@@ -2190,6 +2207,7 @@ SHIMANO
 Shindaiwa
 Shine Armor
 Shop-Vac
+SHOUT
 ShowerShroom
 Shure
 Shuttle Art
@@ -2555,6 +2573,7 @@ Tweezerman
 Twix
 Twizzlers
 Tylenol
+TYLER
 Tyre Glider
 U by Kotex
 U-POL
@@ -2565,6 +2584,7 @@ Ugee
 UGG
 UGREEN
 UHU
+Ultra Fresh
 UltraPro
 Ulysse Nardin
 Umami
@@ -2743,6 +2763,7 @@ Wolf Tooth
 Wolfcraft
 Wonka
 WoodWick
+Woolite
 Worcester
 WORKPRO
 Worx
@@ -2809,7 +2830,9 @@ Zodiac
 Zojirushi
 ZOTA
 ZOTAC
+Zote
 Zulay Kitchen
+Zum
 ZUMWax
 ZÜMWAX
 ZWILLING
