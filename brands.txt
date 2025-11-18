@@ -623,6 +623,7 @@ Depend
 DEPSTECH
 Der8auer
 Desert Essence
+Design Engineering
 Design Master
 Detail Dudes
 Detail Factory
@@ -703,6 +704,7 @@ DURATECH
 Durex
 Dymatize
 DYMO
+Dynamat
 Dynamo
 Dyson
 e-cloth
@@ -810,6 +812,7 @@ Falken
 Fantastik
 Fanttik
 Farberware
+Fatmat
 Febreze
 Feethit
 FEIN
@@ -1129,6 +1132,7 @@ Hugo
 HUGO BOSS
 Huion
 Hurley
+HushMat
 Husky
 Husqvarna
 Huxley & Kent
@@ -1275,6 +1279,7 @@ Kettle Brand
 Keurig
 Keychron
 Kibbles 'n Bits
+KILMAT
 Kimberly Clark
 Kimberly-Clark
 Kinco
@@ -2219,6 +2224,7 @@ Siglent Technologies
 Sigma
 SigmasTek
 Signature Design by Ashley
+Siless
 Silit
 Silonn
 Silva
