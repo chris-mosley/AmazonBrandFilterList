@@ -359,10 +359,12 @@ BrüMate
 Bruno Marc
 Bryton
 BSN
+Büchel
 Buck Knives
 Bucked Up
 Buddy Biscuits
 Buddy Wash
+bugatti
 BUG-A-SALT
 Built
 BulkSupplements.com
@@ -747,6 +749,7 @@ Elite Gourmet
 ella+mila
 Ello
 Elmer's
+ELTEN
 Emergen-C
 Emerson
 Empava
@@ -926,6 +929,7 @@ Gentex
 Gentle Souls
 Genuine Fred
 Georgia-Pacific
+Geox
 GERBER
 Gerber Gear
 GERmanikure
@@ -2063,6 +2067,7 @@ Rhone
 RICOH
 Ride
 Ridgid
+Rieker
 Right Guard
 Rigol
 Ring
@@ -2625,6 +2630,7 @@ Vacheron Constantin
 Vagisil
 VAHDAM
 Valentino
+Valkental
 Vallejo
 Valspar
 Valvoline
