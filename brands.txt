@@ -264,6 +264,7 @@ Bigelow Tea
 Bikehand
 Billabong
 Billie
+Bingfu
 BioAdvanced
 Biobizz
 BioKleen
@@ -1754,6 +1755,7 @@ NOCO
 Noctua
 Nokia
 Nomos
+NooElec
 Noosa
 Nordic Naturals
 Nordic Ware
