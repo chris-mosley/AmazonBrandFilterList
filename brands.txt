@@ -41,6 +41,7 @@ Aeroxon
 Aervoe
 Affresh
 AFMAT
+AINOPE
 AIRCAT
 Airheads
 Airome
@@ -1186,6 +1187,7 @@ IDEAL Electrical
 IDEAL Industries
 iFixit
 Igloo
+iHome
 Illinois Glove Company
 ILLUME
 Image Wash Products
@@ -1618,6 +1620,7 @@ Milka
 Miller
 Miller Electric
 Milwaukee
+MINIX
 Minnetonka
 Minus33
 Minwax
@@ -1699,6 +1702,7 @@ Nambe
 Nanoskin
 National Allergy
 Native
+Native Union
 Natural Balance
 Naturalamb
 Nature Made
@@ -2027,6 +2031,7 @@ PÜR
 Puracy
 Pure Encapsulations
 Pure Leaf
+PureGear
 Purell
 Purely Elizabeth
 Pureology
@@ -2404,6 +2409,7 @@ Stardrops
 Starling Games
 Starmark
 Starrett
+StarTech
 StarTech.com
 Stayfree
 steelcase
