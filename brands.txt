@@ -726,6 +726,7 @@ DYMO
 DYNAFIT
 DYNAFLEX 230
 Dynamat
+Dynamic Wax
 Dynamo
 Dyson
 e-cloth
@@ -835,6 +836,7 @@ Falken
 Fantastik
 Fanttik
 Farberware
+Fast Wax
 Fatmat
 Febreze
 Feethit
@@ -1106,6 +1108,7 @@ Herlitz
 Herman Miller
 Herschel
 HERSHEY'S
+Hertel
 HESTRA
 Hewlett Packard
 HexClad
@@ -1191,6 +1194,7 @@ IDEAL Electrical
 IDEAL Industries
 iFixit
 Igloo
+IGOSKI
 iHome
 Illinois Glove Company
 ILLUME
@@ -2044,6 +2048,7 @@ Purex
 Purina
 Purina ONE
 Purina Pro Plan
+PURL
 Purple
 PurSteam
 Push Pop
