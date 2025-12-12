@@ -191,6 +191,7 @@ Babish
 Bad Birdie
 Badia
 Baldwin
+Bale Tuff
 Balega
 Ballard Products
 BALLISTOL
@@ -255,6 +256,7 @@ Betty Crocker
 Beurer
 Beverly Hills Polo Club
 Beyerdynamic
+Beyond Gourmet
 BFGoodrich
 Bialetti
 BIC
@@ -891,6 +893,7 @@ Forney
 Fosi Audio
 Fossil
 Fowler
+Fox Run
 Fox Trot
 FoxRacing
 Fractal Design
@@ -1109,6 +1112,7 @@ HexClad
 Hey Dude
 HEYDUDE
 Hibbent
+HIC Kitchen
 HIFIMAN
 High Peak
 High Sierra
@@ -1444,6 +1448,7 @@ LEZYNE
 LG
 Lian Li
 Lian Lian
+Librett Durables
 LiCB
 Liebert
 Life
@@ -2098,6 +2103,7 @@ Reebok
 Reed & Barton
 Reese's
 Refresh
+Regency Wraps
 reid
 Relaxdays
 Remington
@@ -2412,6 +2418,7 @@ Starrett
 StarTech
 StarTech.com
 Stayfree
+SteadMax
 steelcase
 SteelSeries
 STEM
@@ -2482,6 +2489,7 @@ Sylvania
 Systane
 System Jo
 T-fal
+T.W . Evans Cordage Co.
 Tag Heuer
 TagHeuer
 Talentcell
@@ -2652,6 +2660,7 @@ UGREEN
 UHU
 Ultra Fresh
 UltraPro
+Ultrasource
 Ulysse Nardin
 Umami
 Umbra
@@ -2737,6 +2746,7 @@ Vitafit
 Vitakraft
 Vitamix
 Vittle Vault
+Vivifying
 VIZIO
 Volcom  
 Volkswagen
