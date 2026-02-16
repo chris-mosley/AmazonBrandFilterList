@@ -384,6 +384,7 @@ Brooks Brothers
 Brother
 Brüder Mannesmann
 BrüMate
+Brunnen
 Bruno Marc
 Bryton
 BSN
@@ -443,6 +444,7 @@ CANAWELD
 Candle Warmers
 Candle-lite
 Canon
+Canson
 CAP Barbell
 CAPiTA
 Capresso
@@ -524,6 +526,7 @@ Circulon
 Cisco
 Citizen
 CIVIVI
+Clairefontaine
 Clarks
 Clatronic
 Clatronik
@@ -607,6 +610,7 @@ Cremo
 Crescent
 Cressi
 crest
+Cretacolor
 Cricut
 CRKT
 Crock Pot
@@ -779,6 +783,7 @@ EBL
 Ebros Gift
 Echo
 Eco-Dent
+eco-eco
 ecobee
 ECOFLOW
 ECOGARD
@@ -856,6 +861,7 @@ Everyone
 EVGA
 EVL
 Evolution
+Exacompta
 Excel Blades
 Expo
 Extech
@@ -1152,6 +1158,7 @@ Henson Shaving
 Herb Guard
 Herbal Essences
 Herlitz
+HERMA
 Herman Miller
 Herschel
 HERSHEY'S
@@ -1486,6 +1493,7 @@ Lego
 Leica
 Leifheit
 Leina
+Leitz
 LEM
 LEM Products
 Lenor
@@ -1956,6 +1964,7 @@ OVALWARE
 OVERTURE
 Owala
 Owon
+Oxford
 OxiClean
 OXO
 OZARK TRAIL
@@ -2848,6 +2857,7 @@ Villeroy & Boch
 Vineyard Vines
 Viofo
 Viparspectra
+Viquel
 VisionTek
 Vitafit
 Vitakraft
