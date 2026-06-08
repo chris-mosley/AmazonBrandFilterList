@@ -110,6 +110,7 @@ Alpine Swiss
 Alpinestars
 altoids
 Alvera
+Alvin's Cables
 Always
 Always Discreet
 Amarine Made
@@ -140,6 +141,7 @@ Amerock
 amFilm
 AmLactin
 Amoretti
+Amphenol
 AN PERFORMANCE
 Anchor Hocking
 Anderson Power
@@ -294,6 +296,7 @@ Bass Medics
 BassReaper Baits
 Basstrix
 Bath & Body Works
+Battery Tender
 Battlestar
 Battlestar Tackle Co
 Bauker
@@ -321,6 +324,7 @@ Bebe
 Beck/Arnley
 Beckham
 Beckman
+Bed Head
 Bedsure
 Bee Naturals
 Beekman
@@ -417,6 +421,7 @@ Blue Ridge
 Blue Rose Pottery
 Blue Sea Systems
 Blueair
+BlueSea
 Bluestorm
 BLUETTI
 Blum
@@ -559,6 +564,7 @@ C4
 Cabela's
 Cable Matters
 CableCreation
+CableMod
 Cablz
 Caboodles
 Cadet
@@ -870,6 +876,7 @@ Design Master
 Detail Dudes
 Detail Factory
 Deuter
+Deutsch
 Devolo
 Devon
 DeWalt
@@ -1015,12 +1022,14 @@ Edifier
 Edward Tools
 eero
 EF ECOFLOW
+EGIS
 eGo
 Ego Power+
 EHP Labs
 Eichhorn
 Einhell
 EKWB
+Elecbee
 Element
 Elgato
 Elite Gourmet
@@ -1187,6 +1196,7 @@ ForceField
 Ford
 Forever 21
 Formula 409
+Formulamod
 Forney
 Fortessa
 Fosi Audio
@@ -1285,6 +1295,7 @@ Geecrack
 Geekworm
 Gene Larew
 General Mills
+General Motors
 General Pencil Company
 Gentex
 Gentle Souls
@@ -1690,6 +1701,7 @@ Johnson Pump
 JOKARI
 Jolly Pets
 Jolly Rancher
+Jonard Tools
 JONATHAN Y
 Jones
 Jones New York
@@ -2177,6 +2189,7 @@ Modway
 Moen
 Moffat
 moleskine
+Molex
 Molto
 monbento
 Mondelez International
@@ -2215,6 +2228,7 @@ mountainFLOW
 MOUTHWATCHERS
 MOXIE
 Mozi Wash
+MPD Digital
 Mr. Christmas
 Mr. Clean
 Mr. Coffee
@@ -2771,6 +2785,7 @@ RESCUE!
 Restaurantware
 Retique It
 Retrax
+RetroSound
 Retrospec
 Revell
 Revic
@@ -2822,6 +2837,7 @@ Rolf Glass
 Rolling Square
 Rolo
 ROMAN
+Ronson
 Rosco
 Roseart
 Rosewood 
@@ -2964,6 +2980,7 @@ ShamWow
 Shane's Baits
 Shardor
 Shark
+SharkBite
 Sharp
 Sharpie
 SheaMoisture
@@ -3215,6 +3232,7 @@ Subzero
 Sufix
 Suja
 Sulky
+Sumitomo
 Sun Joe
 Sunbeam
 Sunco
@@ -3355,6 +3373,7 @@ Thetford
 Thill
 ThirtyTwo
 ThisWorx
+Thomas & Betts
 Thomasville
 Thomy
 Thorne
@@ -3447,10 +3466,12 @@ Troy Lee Designs
 Troy-Bilt
 Tru-Tension
 Tru-Turn
+TRUE CABLE
 True Citrus
 True Classic
 True Organic
 True Religion
+trueCABLE
 TruTurn
 Tub O' Towels
 TubShroom
