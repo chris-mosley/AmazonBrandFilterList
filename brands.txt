@@ -3536,6 +3536,7 @@ Tudor
 TUF Line
 TUF-Line
 TUFFY
+TUG
 TUL
 Tupperware
 Turtle Beach
