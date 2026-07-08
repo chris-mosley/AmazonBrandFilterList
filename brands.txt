@@ -554,6 +554,8 @@ Bullet Weights
 Bulova
 BUM Energy
 bumble
+Bungie
+Bungie Inc.
 BUNN
 Burberry
 BURG-WÄCHTER
@@ -2408,6 +2410,7 @@ Nu Calgon
 Nubian Heritage
 Nugo
 Nuk
+Numskull
 Nuova
 nuphy
 NuTrail
@@ -3530,6 +3533,7 @@ True Organic
 True Religion
 trueCABLE
 TruTurn
+TUBBZ
 Tub O' Towels
 TubShroom
 Tudor
@@ -3875,6 +3879,7 @@ Zebco
 ZEBRA
 Zebra Pen
 Zebralight
+Ze Carlos
 ZEISS
 Zeke's
 Zenith
