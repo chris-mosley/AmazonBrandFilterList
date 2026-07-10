@@ -744,6 +744,7 @@ Combat
 Comeon
 Comet
 Comfort Colors
+Comfort Zone
 Command
 Compo
 Conair
@@ -1022,6 +1023,7 @@ Earth Rated
 Easton
 Eastpak
 Eastwood
+EASYAWN
 Eberhard Faber
 Eberlestock
 EBL
@@ -3291,6 +3293,7 @@ Sulky
 Sumitomo
 Sun Joe
 Sunbeam
+Sunbrella
 Sunco
 Sunco Lighting
 Sunex
