@@ -129,6 +129,7 @@ Amazon Elements
 Amazon Essentials
 Amazon Fire
 Amazon Fresh
+Amazon Renewed
 Amazon.com
 AmazonCommercial
 Ambi
@@ -192,6 +193,7 @@ AquatekO
 Arai
 Arbogast
 Arc'teryx
+ARCADE1UP
 arcan
 ArcMate
 ARCTIC
@@ -226,6 +228,7 @@ AstroAI
 Astroglide
 ASUS
 Atari
+AtGames
 Athlon Optics
 Atlantic Safety Products
 Atlas
@@ -280,6 +283,7 @@ BallcapBuddy
 BALLISTOL
 Balzout
 band-aid
+Bandai Namco
 Bandit
 Bandit Lures
 Bandolino
@@ -619,6 +623,7 @@ Candle-lite
 Canon
 Canson
 CAP Barbell
+Capcom
 Caperlan
 CAPiTA
 Capresso
@@ -1853,6 +1858,7 @@ KOHLER
 Kohree
 Koken
 Kokett
+Konami
 KONG
 Kool-Aid
 Koolance
@@ -1926,6 +1932,7 @@ LD Products
 Le Blanc
 Le Creuset
 Leapers
+LeapFrog
 Leather Honey
 Leatherman
 Leatt
@@ -2077,7 +2084,6 @@ Magpul
 MAHLE
 Makita
 Malden
-Mallory
 Mallory
 Malt-O-Meal
 Mama Bear
@@ -2303,6 +2309,7 @@ Mustad
 Mustang Survival
 Mutt Tools
 MxVol
+My Arcade
 My Weigh
 MyGift
 Nabisco
@@ -2649,6 +2656,7 @@ Play-Doh
 Playmobil
 Playology
 PlayStation
+PlayStation®
 Playtex
 Pledge
 Plugable
@@ -2846,6 +2854,7 @@ Restaurantware
 Retique It
 Retrax
 Retrobright
+Retroid Pocket
 RetroSound
 Retrospec
 Revell
@@ -2957,6 +2966,7 @@ Sandisk
 Saniflo
 Sanlight
 Santa Cruz ORGANIC
+SANWA
 Sapphire
 Sapphire Technology
 Sappho from lesbos
@@ -3023,6 +3033,7 @@ Sebastian
 Sebastian Professional
 Secret
 Secretlab
+SEGA
 Seiko
 Selkirk
 Selsun Blue
@@ -3141,6 +3152,7 @@ Snag Proof
 SnapSafe
 Sneaker Balls
 Snickers
+SNK
 SNOW
 Snow Joe
 Snow MOOver
@@ -3544,8 +3556,8 @@ True Organic
 True Religion
 trueCABLE
 TruTurn
-TUBBZ
 Tub O' Towels
+TUBBZ
 TubShroom
 Tudor
 TUF Line
@@ -3668,6 +3680,7 @@ Victoria's Secret
 Victorinox
 Victory
 Victrola
+Victron Energy
 ViewSonic
 VIKING
 Viking Revolution
@@ -3884,13 +3897,13 @@ Zamp
 Zap-A-Gap
 Zappu
 ZARA
+Ze Carlos
 Zeagle
 Zeal Optics
 Zebco
 ZEBRA
 Zebra Pen
 Zebralight
-Ze Carlos
 ZEISS
 Zeke's
 Zenith
