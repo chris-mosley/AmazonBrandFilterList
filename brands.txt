@@ -367,6 +367,7 @@ Bernard
 Bessey
 Best Lock
 Best Pet Supplies
+BETAFPV
 Better Homes and Gardens
 BetterHomes&Gardens
 Betty Crocker
@@ -1337,6 +1338,7 @@ Genuine Fred
 Geocel
 Georgia-Pacific
 Geox
+GEPRC
 GERBER
 Gerber Gear
 German Precision Optics
